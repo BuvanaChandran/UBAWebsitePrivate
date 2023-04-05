@@ -1,0 +1,91 @@
+.coordinating-institutions-page {
+    display: flex;
+}
+
+.td-state {
+    width: 15%;
+}
+
+.table-details table,
+.table-details th,
+.table-details td {
+    border: 2px solid lightgrey;
+    border-collapse: collapse;
+    vertical-align: top;
+    text-align: center;
+    padding: 5px;
+}
+
+.table-details th {
+    color: var(--primary-blue);
+    background-color: #ccdad9a8;
+    font-size:1rem;
+}
+.table-details {
+    width: 100%;
+}
+
+.table-details-container {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #fffbfb;
+    border-radius: 3px;
+    margin: 25px auto;
+    overflow-x: auto;
+}
+
+.table-details tr:hover {
+  background-color: #ebf4f4bd;
+}
+
+.page-sub-heading {
+  width: fit-content;
+}
+
+.page-sub-heading h4 {
+  text-transform: uppercase;
+  color: var(--primary-blue);
+  margin-bottom: 0.75rem;
+  position: relative;
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.page-sub-heading h4:after {
+  position: absolute;
+  content: "";
+  height: 3.5px;
+  bottom: -3px;
+  margin: 0 auto;
+  left: 0;
+  width: 50%;
+  background: var(--secondary-orange);
+  -o-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.page-sub-heading h4:hover:after {
+  width: 100%;
+  background: var(--secondary-orange);
+}
+
+.table-mail-link
+{
+	text-align:center;
+}
+
+.table-mail-link a
+{
+	text-decoration:none;
+	color:black;
+}
+
+.table-mail-link a:hover
+{
+	text-decoration:underline;
+	color:var(--primary-blue);
+	text-decoration-line:3px;
+	text-decoration-color:var(--primary-orange);
+}

@@ -1,0 +1,104 @@
+.village-card-container
+{
+	width:100%;
+	background-color:#CCDAD9;
+	border-radius:10px;
+	border: 2px solid #CCDAD9;
+	box-shadow: 1px 1px 10px 1px #d0cdcd;
+}
+
+.village-card-table-container
+{
+}
+
+.village-card-table
+{
+}
+
+.village-card-container-heading h4
+{
+	margin:10px auto;
+	text-align:center;
+	color:var(--primary-blue);
+}
+.village-card-content
+{
+	display:flex;
+	margin:auto 10px;
+}
+
+.content-title,.content-value
+{
+	width:49%;
+	text-align:start;
+	margin:10px auto;
+}
+
+.content-title
+{
+	font-weight:bold;
+	color:var(--primary-blue);
+}
+
+.content-splitter
+{
+	width:2%;
+	margin:10px auto;
+	font-weight:bold;
+	color:Var(--primary-blue);
+}
+
+.content-value p
+{
+	
+	margin-bottom:10px;
+}
+
+.village-card-holder
+{
+	display:flex;
+	margin:auto 20px;
+	justify-content:space-evenly;
+}
+.card-center-line
+{
+	border-left:3px solid var(--primary-blue);
+	height:auto;
+	margin:10px auto;
+}
+.card-holder-left
+{
+	width:40%;
+	margin:10px auto;
+}
+.card-holder-right
+{
+	width:60%;
+	margin:10px auto;
+}
+.village-card-para
+{
+	text-align:start;
+}
+@media screen and (max-width:940px)
+{
+	.village-card-holder
+	{
+		flex-direction:column;
+	}
+	.card-center-line
+	{
+		margin:0;
+		border:0;
+	}
+	.card-holder-right,.card-holder-left
+	{
+		width:100%;
+	}
+}
+@media screen and (max-width: 540px) {
+	.village-card-container
+	{
+		width:100%;
+	}
+}

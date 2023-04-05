@@ -1,0 +1,97 @@
+#nav-container {
+    position: relative;
+    padding: 12px 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#emblem-container {
+    padding: 12px 50px;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#nav-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index:1;
+}
+
+#nav-center h1 {
+    color: var(--primary-orange);
+    font-size: 2.5rem;
+    line-height: 2.5rem;
+    margin: 0.5rem;
+    white-space: nowrap;
+}
+
+#nav-center #logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#nav-center #logo div {
+    padding: 0px 10px;
+}
+
+#nav-center #logo div:nth-child(1) {
+    border-right: 3px solid var(--primary-blue);
+}
+
+@media screen and (max-width: 900px) {
+    #nav-container {
+        padding: 6px 25px;
+    }
+
+    #emblem-container {
+        padding: 6px 25px;
+    }
+
+    #nav-center h1 {
+        font-size: 2rem;
+        line-height: 2rem;
+    }
+
+    .uba-logo-img {
+        height: 70px;
+    }
+
+    .chairman-logo-img {
+        height: 50px;
+    }
+
+    .sairam-logo-img {
+        height: 50px;
+    }
+
+    .emblem-logo-img {
+        height: 70px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    #nav-container {
+        padding: 6px 6px;
+        flex-direction: column;
+    }
+
+    #nav-center h1 {
+        font-size: 2rem;
+        line-height: 2rem;
+    }
+
+    #emblem-container {
+        position: initial;
+        justify-content: space-evenly;
+        padding: 6px 25px;
+    }
+}

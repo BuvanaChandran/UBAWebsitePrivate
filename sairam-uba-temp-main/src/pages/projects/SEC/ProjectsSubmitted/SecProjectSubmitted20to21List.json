@@ -1,0 +1,255 @@
+{
+	"breadCrumb":"SEC / Projects / Projects Submitted 2020 - 2021",
+	"collegeName":"SRI SAI RAM ENGINEERING COLLEGE",
+	"heading":"Projects Submitted List 2020 - 2021",
+	"projectTableDetails":[
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Installation of Automated Sericulture Functional Unit in Rural Area",
+			"implementedPlace":["Naduveerapattu"],
+			"submittedDate":"17-12-2020",
+			"principalInvestigators":[
+				"Dr.K.LAKSHMI JOSHITHA (ECE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Development of INTERACTIVE CLASS ROOM Setup for Panchayat Union Primary S",
+			"implementedPlace":["Nandhambakkam","Periyar Nagar"],
+			"submittedDate":"15-12-2020",
+			"principalInvestigators":[
+				"Dr. C. Priya (EIE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Voice integrated vaccination care system for rural women",
+			"implementedPlace":["Somangalam"],
+			"submittedDate":"03-12-2020",
+			"principalInvestigators":[
+				"Dr. S. Samundeswari (CSE)",
+				"Dr. M. Nithya (CSE)",
+				"Ms. V.Lalitha (CSE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"GARBAGE COLLECTING AQUATIC SURFACE VEHICLE",
+			"implementedPlace":["Naduveerapattu"],
+			"submittedDate":"24-11-2020",
+			"principalInvestigators":[
+				"Mr.K.SRINIVASAN (ECE) Mr.D",
+				"SENTHIL KUMAR (ECE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"AUTOMATIC ROAD SIDE DUST POLLUTION CONTROLLER",
+			"implementedPlace":["Naduveerapattu"],
+			"submittedDate":"24-11-2020",
+			"principalInvestigators":[
+				"Mr.D. Senthil Kumar (ECE) Mr.K.",
+				"Srinivasan (ECE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"SOLAR POWERED INSECT PEST CONTROL DEVICE",
+			"implementedPlace":["Naduveerapattu"],
+			"submittedDate":"24-11-2020",
+			"principalInvestigators":[
+				"Mr.J. Prakash (ECE)",
+				"Mr.S. Prabakaran (ECE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"RESPIRATORY HEALTH MONITORING SYSTEM",
+			"implementedPlace":["Naduveerapattu"],
+			"submittedDate":"24-11-2020",
+			"principalInvestigators":[
+				"Ms.K. SUBHASHINI (ECE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"SEED SOWING MACHINE",
+			"implementedPlace":["Naduveerapattu"],
+			"submittedDate":"24-11-2020",
+			"principalInvestigators":[
+				"Mr.Prabakaran S (ECE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"INFRARED RADIATION BASED SEED QUALITY ASSESSMENT",
+			"implementedPlace":["Poonthandalam"],
+			"submittedDate":"12-11-2020",
+			"principalInvestigators":[
+				"Dr.J.Thamil Selvi (ECE)",
+				"Ms.K.Subhashini (ECE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"AUTOMATED COVID-19 DIAGNOSIS AND RISK MONITORING SYSTEM VIA MOBILE APP FOR RURAL WOMEN DURING PREGNANCY",
+			"implementedPlace":["Somangalam"],
+			"submittedDate":"11-11-2020",
+			"principalInvestigators":[
+				"Ms.M.KIRUTHIGA DEVI (CSE)",
+				"Ms.M.PADMA PRIYA (CSE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Automated Inspection and Maintenance of Overhead Water Tanks (AIM-OWT)",
+			"implementedPlace":["Somangalam"],
+			"submittedDate":"11-11-2020",
+			"principalInvestigators":[
+				"Dr. V. R. Kanagavalli (MATHS)",
+				"Dr. A. Meenakabilan (CSE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Air Pollution Monitoring System Using Arduino",
+			"implementedPlace":["Somangalam"],
+			"submittedDate":"11-11-2020",
+			"principalInvestigators":[
+				"Ms.K.LATHA (CSE)",
+				"Ms.S.HEMAVATHI (CSE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"REVERSE OSMOSIS PLANT FOR WATER TREATMENT IN PRIMARY SCHOOL",
+			"implementedPlace":["Somangalam"],
+			"submittedDate":"30-10-2020",
+			"principalInvestigators":[
+				"Dr. A. Chinnasamy (CSE)",
+				"Mr. D. Sathish Kumar (CSE)",
+				"Mr. N. Gopinath (CSE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"REJUVENATION OF SMART EDUCATION IN COUNTRYSIDE AREAS",
+			"implementedPlace":["Naduveerapattu", "Somangalam"],
+			"submittedDate":"08-10-2020",
+			"principalInvestigators":[
+				"Dr.S.Sankari (IT)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Smart Classrooms for schools providing quality education in the pandemic and conserving the energy resources.",
+			"implementedPlace":["Government Higher Secondary School","Somangalam."],
+			"submittedDate":"08-10-2020",
+			"principalInvestigators":[
+				"Dr.T.P.Rani (IT)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Bio-toilets to improve the Well being of School Students.",
+			"implementedPlace":["Government Punchayat Union School","Periyar Nagar", "Nandhambakkam"],
+			"submittedDate":"07-10-2020",
+			"principalInvestigators":[
+				"Dr.R.Valarmathi (CSE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Biogas plant an alternative source of energy for better life.",
+			"implementedPlace":["Somangalam"],
+			"submittedDate":"07-10-2020",
+			"principalInvestigators":[
+				"Dr.R.Uma (CSE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"APP TO SUPPORT FARMERS FOR GETTING MAXIMUM PROFIT FOR THEIR PRODUCE",
+			"implementedPlace":["Somangalam", "Naduveerapattu"],
+			"submittedDate":"04-10-2020",
+			"principalInvestigators":[
+				"Dr.G.Adiline Macriga (IT)",
+				"Dr.M.Suresh Kumar (IT)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Design,fabrication and installation of Bio toilet system.",
+			"implementedPlace":["Somangalam"],
+			"submittedDate":"26-09-2020",
+			"principalInvestigators":[
+				"Dr.A.Abdulrahman (Mechanical)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Sanitary napkin vending machine with incinerator to enhance women’s self-hygiene.",
+			"implementedPlace":["Government Higher Secondary School","Somangalam"],
+			"submittedDate":"16-09-2020",
+			"principalInvestigators":[
+				"Dr.Nayanatara (EEE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Renewable RO Water Plant for school students to enhance  the quality of drinking water available in government school",
+			"implementedPlace":["Government Higher Secondary School","Somangalam"],
+			"submittedDate":"16-09-2020",
+			"principalInvestigators":[
+				"Ms.Shanmugapriya (EEE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Garbage monitoring system and Conversion of organic waste into manure",
+			"implementedPlace":["Naduveerapattu"],
+			"submittedDate":"15-09-2020",
+			"principalInvestigators":[
+				"Ms.P.Sharmila (EEE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Green Environment using treated Water in Poonthandalam Village School",
+			"implementedPlace":["Government School", "Poonthandalam Village"],
+			"submittedDate":"15-09-2020",
+			"principalInvestigators":[
+					"Dr.B.Thanuja (Chemistry)",
+					"Dr.PA.Shanthi (Maths)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Direct installation of 1m3 capacity bio gas plant to produce continuous bio energy.",
+			"implementedPlace":["Naduveerapattu"],
+			"submittedDate":"04-09-2020",
+			"principalInvestigators":[
+				"Dr.Durgadevi (EIE)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Installation of Reverse Osmosis system integrated with UV technology in a rural school",
+			"implementedPlace":["Panchayat Union Primary School","Nandambakkam Village","Kundrathur Union"],
+			"submittedDate":"27-08-2020",
+			"principalInvestigators":[
+				"Mr.M.Meiyanathan (Maths)"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Customizing an ordinary conventional classroom to a smart classroom in a rural area.",
+			"implementedPlace":["Panchayat Union Primary School","Somangalam village", "Kundrathur Union","Kanchipuram District"],
+			"submittedDate":"27-08-2020",
+			"principalInvestigators":[
+				"Dr.S.K.Umamaheswaran (Maths)"
+			]
+		}
+
+	]
+}

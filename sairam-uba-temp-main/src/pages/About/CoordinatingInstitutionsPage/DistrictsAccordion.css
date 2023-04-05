@@ -1,0 +1,21 @@
+.accordion-button:focus
+{
+	box-shadow:none;
+}
+
+.accordion-button
+{
+	font-family: 'Quattrocento Sans' , sans-serif;
+	padding: 0.5rem 0.75rem;
+	color:var(--primary-blue);
+	font-size:1rem;
+	text-align:center;
+	width:250px;
+}
+
+.accordion-content
+{
+	margin:0;
+	text-align:left;
+}
+

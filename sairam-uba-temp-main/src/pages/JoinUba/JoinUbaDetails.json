@@ -1,0 +1,37 @@
+[
+	{
+		"collegeName":"Sri Sai Ram Engineering College",
+		"breadCrumb":"SEC",
+		"path":"/join-uba/sec",
+		"formLink":"https://forms.gle/buAbXuLTYSrC8mXX7",
+		"contactDetails":[
+			{
+				"personName":"Dr. S. K. Uma Maheswaran",
+				"designation":[
+					"Professor/ Mathematics",
+					"Coordinator / UBA",
+					"Advisor IEEE SSIT SBC"
+				],
+				"phone":"98407 22474",
+				"mail":"umamaheswaran.maths@sairam.edu.in"
+			}
+		]
+	},
+	{
+		"collegeName":"Sri Sai Ram Institute Of Technology",
+		"breadCrumb":"SIT",
+		"path":"/join-uba/sit",
+		"formLink":"",
+		"contactDetails":[
+			{
+				"personName":"D. Muralidharan",
+				"designation":[
+					"Associate Professor/ Mathematics",
+					"Coordinator / UBA"
+				],
+				"phone":"98407 61997",
+				"mail":"murali.maths@sairamit.edu.in"
+			}
+		]
+	}
+]

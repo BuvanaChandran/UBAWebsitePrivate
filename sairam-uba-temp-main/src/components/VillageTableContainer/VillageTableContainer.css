@@ -1,0 +1,58 @@
+.village-table table,
+.village-table th,
+.village-table td {
+    border: 2px solid lightgrey;
+    border-collapse: collapse;
+    vertical-align: top;
+    text-align: center;
+    padding: 5px;
+}
+
+.village-table th {
+    color: var(--primary-blue);
+    font-size:1rem;
+    background-color: #ccdad9a8;
+}
+.village-table {
+    width: 100%;
+}
+
+.village-table-details-container {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #fffbfb;
+    border-radius: 3px;
+    margin: 25px auto;
+    overflow-x: auto;
+    width:50%;
+}
+
+.village-table tr:hover {
+  background-color: #ebf4f4bd;
+}
+
+.village-table-container
+{
+	width:90%;
+	margin: 0 auto;
+}
+
+.village-paragraph-icon
+{
+	color:var(--primary-blue);
+}
+@media screen and (max-width: 840px) {
+	.village-table-details-container {
+		width:80%;
+	}
+}
+@media screen and (max-width: 540px) {
+	.village-table-container
+	{
+		width:100%;
+	}
+	
+	.village-table-details-container
+	{
+		width:100%;
+	}
+}

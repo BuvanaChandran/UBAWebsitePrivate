@@ -1,0 +1,17 @@
+#member-details
+{
+	display:flex;
+	flex-wrap:wrap;
+	flex-direction:row;
+	justify-content:space-evenly;
+}
+
+
+@media screen and (max-width: 850px) {
+	#member-details
+	{
+		flex-direction:column;	
+		margin-left:10px;
+	}
+}
+

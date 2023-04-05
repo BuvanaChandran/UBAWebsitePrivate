@@ -1,0 +1,28 @@
+.sit-project-guides
+{
+	display:flex;
+}
+
+.table-mail-link,.table-mail-phone 
+{
+	text-decoration-color:var(--secondary-orange);
+	color:var(--primary-blue);
+}
+
+.table-mail-link:hover,.table-mail-phone:hover
+{
+	text-decoration:underline;
+	text-decoration-color:var(--primary-orange);
+	color:var(--primary-blue);
+	text-decoration-thickness:2px;
+}
+
+.guides-heading h2
+{
+	font-size:1.6rem;
+	text-transform:uppercase;
+	color:var(--primary-blue);
+	text-decoration:underline;
+	text-decoration-color:var(--secondary-orange);
+	text-decoration-thickness:2px;
+}

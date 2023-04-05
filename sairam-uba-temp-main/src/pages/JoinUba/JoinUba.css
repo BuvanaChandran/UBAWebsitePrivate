@@ -1,0 +1,98 @@
+.join-uba-sec
+{
+	display:flex;
+}
+.name-highlight
+{
+	color:var(--primary-blue);
+	font-weight:bold;
+}
+.form-registeration-link
+{
+	text-decoration-color:var(--secondary-orange);
+	font-weight:bold;
+	color:#077fdf;
+	transition:0.2s;
+}
+
+.link-span
+{
+	margin:auto 5px;
+}
+.registration-icon
+{
+	color:#077fdf;
+	transition: all 0.15s ease-in-out;
+}
+
+.form-registeration-link:hover .registration-icon
+{
+	transform: translateY(-8px) scale(1.1);
+}
+.form-registeration-link:hover
+{
+	
+	color:#077fdf;
+	text-decoration-color:var(--primary-orange);
+}
+
+.join-uba-sec .paragraph-container p{
+	margin-bottom: 0.5rem;
+	text-align: justify;
+}
+
+.join-uba-sec .contact-details{
+	font-size: 1rem;
+	margin-top: 1rem;
+}
+
+.join-uba-sec .contact-details h6{
+	margin-bottom: 0;
+}
+
+.text-color-heading
+{
+	color:var(--primary-blue);
+}
+
+.text-color-heading-underline
+{
+	color:var(--primary-blue);
+	text-decoration:underline;
+	text-decoration-color:var(--secondary-orange);
+	text-decoration-thickness:3px;
+}
+
+.join-uba-span
+{
+	font-weight:bold;
+	color:var(--primary-blue);
+	padding-right:10px;
+	cursor:pointer;
+}
+.join-uba-logo
+{
+	width:30px;
+	transition: all 0.15s ease-in-out;
+}
+
+.join-uba-text-holder:hover .join-uba-logo
+{
+	transform: translateY(-8px) scale(1.1);
+	cursor:pointer;
+}
+
+.join-uba-anchor
+{
+	color:var(--primary-blue);
+	font-weight:bold;
+	transition:0.2s;
+	text-decoration-color:var(--secondary-orange);
+}
+
+.join-uba-anchor:hover,.join-uba-text-holder:hover .join-uba-anchor
+{
+	color:var(--primary-blue);
+	text-decoration-thickness: 2px;
+	text-decoration-color:var(--primary-orange);
+}

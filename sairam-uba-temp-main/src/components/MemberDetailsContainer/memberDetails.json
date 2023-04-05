@@ -1,0 +1,58 @@
+{
+"memberDetails":
+	[
+		{
+		  "name": "Dr. S. K. UMAMAHESWARAN",
+		  "imageSrc": "/images/scope-members/sksir.webp",
+		  "designation": "Professor, Mathematics",
+		  "role":"Captain"
+		},
+		{
+		  "name": "Dr. B. THANUJA",
+		  "imageSrc": "/images/scope-members/thanuja.webp",
+		  "designation": "Associate Professor, Chemistry",
+		  "role":"Strategist"
+		  
+		},
+		{
+		  "name": "D. MURALIDHARAN",
+		  "imageSrc": "/images/scope-members/muralidharan.webp",
+		  "designation": "Associate Professor, Mathematics",
+		  "role":"Organizer"
+		  
+		},
+		{
+			"name": "D.PRABHU",
+			"imageSrc": "/images/scope-members/prabhu.webp",
+			"designation": "Assistant Professor, CSBS",
+			
+			"role":"Organizer"
+			
+		  },
+		{
+		  "name": "M. MEIYANATHAN",
+		  "imageSrc": "/images/scope-members/meiyanathan.webp",
+		  "designation": "Assistant Professor, Mathematics",
+		  "role":"Propagator"
+		  
+		},
+		{
+		  "name": "A. PONSHANMUGAKUMAR",
+		  "imageSrc": "/images/scope-members/ponshanmugakumar.webp",
+		  "designation": "Associate Professor, Mechanical",
+		  "role":"Propagator"
+		},
+		{
+		  "name": "N. GOPINATH",
+		  "imageSrc": "/images/scope-members/gopinath.webp",
+		  "designation": "Assistant Professor, Computer Science",
+		  "role":"Executor"
+		},
+		{
+		  "name": "M. SUDHAKAR",
+		  "imageSrc": "/images/scope-members/sudhakar.webp",
+		  "designation": "Assistant Professor, Mechanical",
+		  "role":"Executor"
+		}
+	]
+}

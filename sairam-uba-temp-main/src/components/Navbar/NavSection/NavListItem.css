@@ -1,0 +1,10 @@
+.a-external-link
+{
+	text-decoration:none;
+}
+
+.a-external-link:hover
+{
+	text-decoration:underline;
+	color:var(--primary-blue);
+}

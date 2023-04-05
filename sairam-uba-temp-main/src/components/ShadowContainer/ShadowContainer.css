@@ -1,0 +1,14 @@
+.shadow-container{
+      width: 100%;
+      background-color: var(--secondary-orange);
+}
+
+.shadow-right{
+      box-shadow: 5px 5px 0px #052F5F;
+      margin-right: 5px;
+}
+
+.shadow-left{
+      margin-left: 5px;
+      box-shadow: -5px 5px 0px #052F5F;
+}

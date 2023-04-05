@@ -1,0 +1,15 @@
+{
+	"sitProjectsSanctioned":[
+		{
+			"principalInvestigators":[
+				"Dr.Prabha"
+			],
+			"projectName":"Solar Powered Smart Irrigation System",
+			"department":"ECE", 
+			"uniqueCode":"UBA/14/0025/C-16476", 
+			"fund":"Rs.1,00,000",
+			"seg":"Agriculture",
+			"typeOfFund":"Technology Development"
+		}
+	]
+}

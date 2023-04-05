@@ -1,0 +1,449 @@
+{
+	"villageName":"Thirumudivakkam",
+	"villageMapLink":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15552.090985367115!2d80.08101932780362!3d12.970396253705605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f55a54329f57%3A0x9ae0c07eff4a14dd!2sThirumudivakkam%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1639041784604!5m2!1sen!2sin",
+	"aboutParagraph":"Thirumudivakkam is a south-western suburb of Chennai metropolitan city, Tamil Nadu. This area belongs to Sriperumbudur taluk, Kanchipuram district. It holds an industrial estate with around 350MSME companies with varied production units supporting Automobile companies and many other at Sriperumbudur, Oragadam Industrial corridor and soon. Employers and employees are joining hands together for the upliftment of the nation economy through production. According to 2011 Census of India, the total population of this village is 4083. The literacy rate of this village is 78.21%.",
+	"latitude":"12.9739 N",
+	"longitude":"80.0897 E",
+	"basicInformation":[
+		{
+			"contentTitle":"Name of the village",
+			"contentValue":["Thirumudivakkam"]
+		},
+		{
+			"contentTitle":"Gram Panchayat",
+			"contentValue":["Thirumudivakkam"]
+		},
+		{
+			"contentTitle":"VillageCode",
+			"contentValue":["629245"]
+		},
+		{
+			"contentTitle":"Number of Wards",
+			"contentValue":["9"]
+		},
+		{
+			"contentTitle":"Block",
+			"contentValue":["Kundratur"]
+		},
+		{
+			"contentTitle":"Sub District",
+			"contentValue":["Kundrathur"]
+		},
+		{
+			"contentTitle":"Sub District Code",
+			"contentValue":["07057"]
+		},
+		{
+			"contentTitle":"District",
+			"contentValue":["Kancheepuram"]
+		},
+		{
+			"contentTitle":"District code",
+			"contentValue":["604"]
+		},
+		{
+			"contentTitle":"State",
+			"contentValue":["Tamil Nadu"]
+		},
+		{
+			"contentTitle":"Lok Sabha / Constituency",
+			"contentValue":["Sriperumpudur"]
+		},
+		{
+			"contentTitle":"Pincode",
+			"contentValue":["600132"]
+		},
+		{
+			"contentTitle":"Distance from District HQ",
+			"contentValue":["25.8 KM"]
+		},
+		{
+			"contentTitle":"Area of village (Acres)",
+			"contentValue":["472.24"]
+		},
+		{
+			"contentTitle":"Arable land agriculture Area (Acres)",
+			"contentValue":["109.71"]
+		},
+		{
+			"contentTitle":"Forest Area (Acre)",
+			"contentValue":["129 Acres"]
+		}
+		
+		],
+	"amenitiesTables":
+	[
+	{
+		"tableParagraph":"Nearest railway station to Thirumudivakkam, Poonthandalam is Tambaram which is located in and around 8.4 kilometer distance.",
+		"tableHead":[
+				"Railway Station Name",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Chrompet Rail Way Station",
+				"11.5 KM"
+			],
+			[
+				"Tambaram Sanatorium Rail Way Station",
+				"12.6 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Police Stations near Thirumudivakkam",
+		"tableHead":[
+				"Police Staton Name",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Police Quarters",
+				"1.4 KM"
+			],
+			[
+				"Traffic Aid Post",
+				"2.0 KM"
+			],
+			[
+				"Highways Police Booth",
+				"2.4 KM"
+			]
+		]
+	},
+	
+	{
+		"tableParagraph":"Bus Stops in Thirumudivakkam:",
+		"tableHead":[
+				"Bus Stop",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Vazhuthalambedu Road Junction",
+				"0.5 KM"
+			],
+			[
+				"SIDCO Bus Stop",
+				"0.6 KM"
+			],
+			[
+				"Thirumudivakkam",
+				"1.8 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Schools near Thirumudivakkam:",
+		"tableHead":[
+				"Nearest Schools",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Jain Public School",
+				"0.4 KM"
+			],
+			[
+				"Sree Shanthi Anand Vidyalaya",
+				"0.6 KM"
+			],
+			[
+				"Shanthi Anand Vidyalaya School",
+				"0.7 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Colleges near Thirumudivakkam:",
+		"tableHead":[
+				"Nearest Colleges",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Sivanthi College of Education",
+				"2.4 KM"
+			],
+			[
+				"SJS Institute of Optometry",
+				"3.2 KM"
+			],
+			[
+				"Madha Dental College & Hospital",
+				"3.2 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Hospitals near Thirumudivakkam: ",
+		"tableHead":[
+				"Nearest Hospitals",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Suba Physiotherapist",
+				"0.6 KM"
+			],
+			[
+				"S.R. Hospital",
+				"0.9 KM"
+			]
+		]
+	}
+	],
+  "censusTableDetails":{
+  		"tableParagraph":"Census Data of Village Thirumudivakkam, Taluk: Sriperumbudur, District Kancheepuram, India Census 2011",
+		"tableHead":[
+				"Population",
+				"Area (Ha)",
+				"Density (P/Ha)",
+				"Sex Ratio",
+				"Literacy"
+			],
+		"tableBody":[
+			[
+				"4,083",
+				"473.24",
+				"9",
+				"864",
+				"78.21 %"
+			]
+		]
+  },
+  "censusGroupTables":
+  [ 
+  {
+  		"heading":"Thirumudivakkam Village Census 2011 Data Census 2011",
+		"tableHead":[
+				"Description",
+				"Census 2011 Data"
+			],
+		"tableBody":[
+			[
+				"Village Name",
+				"Thirumudivakkam"
+			],
+			[
+				"Taluk Name",
+				"Sriperumpudur"
+			],
+			[
+				"District Name",
+				"Kancheepuram"
+			],
+			[
+				"State Name",
+				"Tamil Nadu"
+			],
+			[
+				"Total Population",
+				"4083"
+			],
+			[
+				"Total Area",
+				"472.24"
+			],
+			[
+				"Total No of House Holds",
+				"941"
+			],
+			[
+				"Total Male Population",
+				"2191"
+			],
+			[
+				"Total Female Population",
+				"1892"
+			],
+			[
+				"0-6 Age group Total Population",
+				"462"
+			],
+			[
+				"0-6 Age group Male Population",
+				"221"
+			],
+			[
+				"0-6 Age group Female Population",
+				"241"
+			],
+			[
+				"Total Person Literates",
+				"78.21%"
+			],
+			[
+				"Total Male Literates",
+				"85.23%"
+			],
+			[
+				"Total Female Literates",
+				"69.84"
+			],
+			[
+				"Total Person Illiterates",
+				"21.79%"
+			],
+			[
+				"Total Male Illiterates",
+				"14.77"
+			],
+			[
+				"Total Female Illiterates",
+				"30.16"
+			],
+			[
+				"Scheduled Cast Persons",
+				"2309"
+			],
+			[
+				"Scheduled Cast Males",
+				"1151"
+			],
+			[
+				"Scheduled Cast Females",
+				"1158"
+			],
+			[
+				"Scheduled Tribe Persons",
+				"7"
+			],
+			[
+				"Scheduled Tribe Males",
+				"10"
+			],
+			[
+				"Scheduled Tribe Females",
+				"7"
+			]
+		]
+  },
+  {
+  		"heading":"Thirumudivakkam Working Population Census 2011",
+		"tableHead":[
+				"Worker Type",
+				"Total",
+				"Male",
+				"Female"
+			],
+		"tableBody":[
+			[
+				"Total Workers",
+				"1834",
+				"1455",
+				"379"
+			],
+			[
+				"Main Workers",
+				"1685",
+				"1339",
+				"346"
+			],
+			[
+				"Marginal Workers",
+				"149",
+				"116",
+				"33"
+			]
+		]
+  },
+  {
+  		"heading":"Thirumudivakkam Commodities Census 2011",
+		"tableHead":[
+				"Description Type",
+				"Commodities"
+			],
+		"tableBody":[
+			[
+				"Agricultural Commodities (First)",
+				"PADDY"
+			],
+			[
+				"Manufacturers Commodities (First)",
+				"N/A"
+			]
+			
+		]
+  }
+  ],
+  "censuslink":"https://etrace.in/census/village/thirumudivakkam-sriperumbudur-district-kancheepuram-tamil-nadu-629245",
+  "censusParagraphDetails":[
+  	{
+  		"paragraphHeading":"",
+  		"paragraphDetails":"Gram Panchayat name of the Thirumudivakkam village is Thirumudivakkam. CD Block name is Kunnattur and Teshil/Taluk or sub-district is Sriperumbudur. Data Reference year is 2009 of Census 2011. Sub District HQ Name is SRIPERUMBUDUR and Sub District HQ Distance is 20 Km from the village. District Head Quarter name is KANCHEEPURAM and it’s distance from the village is 55KM. Nearest Town of the Thirumudivakkam village is THIRUNEERMALAI and nearest town distance is 4 km. Pincode of Thirumudivakkam village is 600044. As per census 2011 village code of village Thirumudivakkam is 629245"
+  	},
+  	{
+  		"paragraphHeading":"Sex Ratio of Thirumudivakkam Village -Census 2011",
+  		"paragraphDetails":"As per the Census Data 2011 there are 864 Femals per 1000 males out of 4083 total population of village. There are 1090 girls per 1000 boys under 6 years of age in the village."
+  	},
+  	{
+  		"paragraphHeading":"Literacy of Thirumudivakkam Village",
+  		"paragraphDetails":"Out of total poplation total 2832 people in Thirumudivakkam Village are literate, among them 1679 are male and 1153 are female in the village. Total literacy rate of of Thirumudivakkam is 78.21%, for male literacy is 85.23% and for female literacy rate is 69.84%."
+  	},
+  	{
+  		"paragraphHeading":"Workers profile of Thirumudivakkam Village",
+  		"paragraphDetails":"Total working population of Thirumudivakkam is 1834 which are either main or marginal workers. Total workers in the village are 1834 out of which 1455 are male and 379 are female. Total main workers are 1685 out of which female main workers are 1339 and male main workers are 346. Total marginal workers of village are 149."
+  	}
+  ],
+  "otherDetails": [
+    {
+      "title": "Habitations in Thirumudivakkam",
+      "points": [
+        {
+          "content": "Chellari colony",
+          "link": ""
+        },
+        {
+          "content": "Thirumudivakkam village colony",
+          "link": ""
+        },
+        {
+          "content": "Vazhuthalambedu village and colony",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "title": "Government Hospitals near Thirumudivakkam",
+      "points": [
+        {
+          "content": "Chendhur Illam",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "title": "Banks near Thirumudivakkam",
+      "points": [
+        { "content": "State Bank of India", "link": "" }
+      ]
+    },
+    {
+      "title": "Schools in Thirumudivakkam",
+      "points": [
+        {
+          "content": "Jain Public School",
+          "link": ""
+        },
+        {
+          "content": "Sree Shanthi Anand Vidyalaya",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "title": "Colleges in Thirumudivakkam",
+      "points": [
+        {
+          "content": "Sivanthi College of Educaton",
+          "link": ""
+        },
+        {
+          "content": "Medha Dental College & Hospital",
+          "link": ""
+        }
+      ]
+    }
+  ]
+}

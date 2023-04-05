@@ -1,0 +1,427 @@
+{
+	"villageName":"Somangalam",
+	"villageMapLink":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8480.540984320889!2d80.03397198915806!3d12.94975509524131!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f4e899b2a109%3A0xa0b8499338baab6a!2sSomangalam%2C%20Tamil%20Nadu%20602109!5e0!3m2!1sen!2sin!4v1639030509059!5m2!1sen!2sin",
+	"aboutParagraph":"According to Census 2011 information the location code or village code of Somangalam village is 629242. Somangalam village is located in Sriperumbudur Tehsil of Kancheepuram district in Tamil Nadu, India.Kancheepuram and Sriperumbudur are the district & sub-district headquarters of Somangalam village respectively.As per 2009 stats, Somangalam village is also a gram panchayat.The total geographical area of village is 812.86 hectares. Somangalam has a total population of 4,376 peoples.There are about 1,088 houses in Somangalam village. Tambaram is nearest town to Somangalam which is approximately 10km away.",
+	"latitude":"12.9524 N",
+	"longitude":"80.0409 E",
+	"basicInformation":[
+		{
+			"contentTitle":"Name of the village",
+			"contentValue":["Somangalam"]
+		},
+		{
+			"contentTitle":"Gram Panchayat",
+			"contentValue":["Somangalam"]
+		},
+		{
+			"contentTitle":"VillageCode",
+			"contentValue":["629242"]
+		},
+		{
+			"contentTitle":"Block",
+			"contentValue":["Kundrathur"]
+		},
+		{
+			"contentTitle":"Sub District",
+			"contentValue":["Kundrathur"]
+		},
+		{
+			"contentTitle":"Sub District Code",
+			"contentValue":["07057"]
+		},
+		{
+			"contentTitle":"District",
+			"contentValue":["KANCHIPURAM"]
+		},
+		{
+			"contentTitle":"District code",
+			"contentValue":["604"]
+		},
+		{
+			"contentTitle":"State",
+			"contentValue":["TAMIL NADU"]
+		},
+		{
+			"contentTitle":"Lok Sabha / Constituency",
+			"contentValue":["Sriperumpudur"]
+		},
+		{
+			"contentTitle":"Pincode",
+			"contentValue":["602109"]
+		},
+		{
+			"contentTitle":"Distance from District HQ",
+			"contentValue":["45 KM"]
+		},
+		{
+			"contentTitle":"Area of village (Acres)",
+			"contentValue":["2006 Acres "]
+		},
+		{
+			"contentTitle":"Arable land agriculture Area (Acres)",
+			"contentValue":["410 Acres"]
+		},
+		{
+			"contentTitle":"Forest Area (Acre)",
+			"contentValue":["790 Acres - miscellaneous tree crops"]
+		}
+		
+		],
+	"amenitiesTables":
+	[
+	{
+		"tableParagraph":"Nearest railway station to Somangalam is Tambaram which is located in and around 8.4 kilometer distance :",
+		"tableHead":[
+				"Railway Station Name",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Tambaram railway station",
+				"11.4 KM"
+			],
+			[
+				"Vandalur railway station",
+				"21 KM"
+			],
+			[
+				"Tambaram Sanatorium railway station",
+				"13 KM"
+			],
+			[
+				"Chromepet railway station",
+				"13 KM"
+			],
+			[
+				"Karasangal railway station",
+				"24 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Nearest airport is Tambaram Air Force Station situated at 17 KM distance. Few more airports around Somangalam are as follows :",
+		"tableHead":[
+				"Air Port Name",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Tambaram Air Force Station",
+				"17 KM"
+			],
+			[
+				"Chennai International Airport",
+				"6.4 KM"
+			],
+			[
+				"New Chennai International Airport",
+				"7 KM"
+			]
+			
+		]
+	},
+	
+	{
+		"tableParagraph":"Somangalam‘s nearest town/city/important place is Kundrathur located at the distance of 12 kilometer :",
+		"tableHead":[
+				"Nearest Town",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Kundrathur",
+				"12 KM"
+			],
+			[
+				"Thiruneermalai",
+				"13 KM"
+			],
+			[
+				"Perungalathur",
+				"16 KM"
+			],
+			[
+				"Peerkankaranai",
+				"15 KM"
+			],
+			[
+				"Sikkarayapuram",
+				"11 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Somangalam nearest schools has been listed as follows :",
+		"tableHead":[
+				"Nearest Schools",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Somangalam Higher Sec School",
+				"1 KM"
+			],
+			[
+				"PUPS Primary School",
+				"2.0 KM"
+			],
+			[
+				"Palanthandalam School",
+				"2.3 KM"
+			],
+			[
+				"Palanthandalam High School",
+				"2.4 KM"
+			],
+			[
+				"R C M High School",
+				"3.1 KM"
+			],
+			[
+				"Sri Sairam Matriculation school",
+				"1 KM"
+			]
+		]
+	},
+	 {
+		"tableParagraph":"Colleges near Somangalam :",
+		"tableHead":[
+				"Nearest Colleges",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Sri Sairam Engineering College",
+				"7 KM"
+			],
+			[
+				"Sri Sairam Institute of technology",
+				"7 KM"
+			],
+			[
+				"Sri Sairam Siddha Medical College",
+				"7 KM"
+			],
+			[
+				"Sri Sairam Ayurvedha Medical college",
+				"7 KM"
+			],
+			[
+				"Sri Sairam Polytechnic college",
+				"7 KM"
+			],
+			[
+				"Dhanalakshmi College of Engineering",
+				"6 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Hospitals near Somangalam: ",
+		"tableHead":[
+				"Nearest Hospitals",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Somangalam Government hospital",
+				"1 KM"
+			],
+			[
+				"Sri Sairam Ayurvedha Medical College and Hospital",
+				"4.2 KM"
+			]
+		]
+	}],
+  "censusTableDetails":{
+  		"tableParagraph":"Census Data of Village Somangalam, Taluk: Sriperumbudur, District Kancheepuram, India Census 2011",
+		"tableHead":[
+				"Population",
+				"Area (Ha)",
+				"Density (P/Ha)",
+				"Sex Ratio",
+				"Literacy"
+			],
+		"tableBody":[
+			[
+				"4376",
+				"812.86 hectares",
+				"5",
+				"990",
+				"79.14 %"
+			]
+		]
+  },
+  "censusGroupTables":
+   [
+   
+  {
+  		"heading":"Somangalam Population Census 2011",
+		"tableHead":[
+				"Worker Type",
+				"Total",
+				"Male",
+				"Female"
+			],
+		"tableBody":[
+			[
+				"Total No. of Houses",
+				"1,088",
+				"-",
+				"-"
+			],
+			[
+				"Population",
+				"4,376",
+				"2,199",
+				"2,177"
+			],
+			[
+				"Child (0-6)",
+				"526",
+				"274",
+				"252"
+			],
+			[
+				"Schedule Caste",
+				"864",
+				"437",
+				"427"
+			],
+			[
+				"Schedule Tribe",
+				"1",
+				"1",
+				"0"
+			],
+			[
+				"Literacy",
+				"79.14 %",
+				"86.75 %",
+				"71.53 %"
+			],
+			[
+				"Main Workers",
+				"1,512",
+				"-",
+				"-"
+			],
+			[
+				"Marginal Worker",
+				"216",
+				"134",
+				"82"
+			]
+		]
+  },
+  {
+  		"heading":"Somangalam Working Population Census 2011",
+		"tableHead":[
+				"Description Type",
+				"Total",
+				"Male",
+				"Female"
+			],
+		"tableBody":[
+			[
+				"Main Workers",
+				"1,512",
+				"1,130",
+				"382"
+			],
+			[
+				"Cultivators",
+				"87",
+				"73",
+				"14"
+			],
+			[
+				"Agriculture Labourer",
+				"189",
+				"106",
+				"83"
+			],
+			[
+				"Household Industries",
+				"42",
+				"31",
+				"11"
+			],
+			[
+				"Other workers",
+				"1,194",
+				"920",
+				"274"
+			],
+			[
+				"Marginal workers",
+				"216",
+				"134",
+				"82"
+			],
+			[
+				"Non working",
+				"2,648",
+				"935",
+				"1,713"
+			]
+			
+		]
+  }
+  ],
+  "censuslink":"https://etrace.in/census/village/somangalam-sriperumbudur-district-kancheepuram-tamil-nadu-629242",
+  "censusParagraphDetails":[
+  	{
+  		"paragraphHeading":"",
+  		"paragraphDetails":"Somangalam is a large village located in Sriperumbudur Taluka of Kancheepuram district, Tamil Nadu with total 1088 families residing. The Somangalam village has population of 4376 of which 2199 are males while 2177 are females as per Population Census 2011."
+  	},
+  	{
+  		"paragraphHeading":"Sex Ratio of Somangalam Village Census 2011",
+  		"paragraphDetails":"In Somangalam village population of children with age 0-6 is 526 which makes up 12.02 % of total population of village. Average Sex Ratio of Somangalam village is 990 which is lower than Tamil Nadu state average of 996.Child Sex Ratio for the Somangalam as per census is 920, lower than Tamil Nadu average of 943."
+  	},
+  	{
+  		"paragraphHeading":"Literacy of Somangalam Village",
+  		"paragraphDetails":"Somangalam village has lower literacy rate compared to Tamil Nadu. In 2011, literacy rate of Somangalam village was 79.14 % compared to 80.09 % of Tamil Nadu. In Somangalam Male literacy stands at 86.75 % while female literacy rate was 71.53%."
+  	},
+  	{
+  		"paragraphHeading":"",
+  		"paragraphDetails":"As per constitution of India and Panchyati Raaj Act, Somangalam village is administrated by Sarpanch (Head of Village) who is elected representative of village. Our website, don't have information about schools and hospital in Somangalam village."
+  	},
+  	{
+  		"paragraphHeading":"Caste Factor",
+  		"paragraphDetails":"Schedule Caste (SC) constitutes 19.74 % while Schedule Tribe (ST) were 0.02 % of total population in Somangalam village."
+  	},
+  	{
+  		"paragraphHeading":"Work Profile",
+  		"paragraphDetails":"In Somangalam village out of total population, 1728 were engaged in work activities. 87.50 % of workers describe their work as Main Work (Employment or Earning more than 6 Months) while 12.50 % were involved in Marginal activity providing livelihood for less than 6 months. Of 1728 workers engaged in Main Work, 87 were cultivators (owner or co-owner) while 189 were Agricultural labourer."
+  	}
+  ],
+  "otherDetails": [
+    {
+      "title": "Schools near Somangalam",
+      "points": [
+        {
+          "content": "PUPS, Poonthandalam",
+          "link": "http://www.etamilnadu.org/schools/pups-poonthandalam-1037614.html"
+        },
+        {
+          "content": "Sairam Matric School, Poonthandalam",
+          "link": "http://tbm.sairamschool.edu.in/"
+        }
+      ]
+    },
+    {
+      "title": "Colleges near Somangalam",
+      "points": [
+        {
+          "content": "Sri Sai Ram Institute of Technology",
+          "link": "https://sairamit.edu.in/"
+        },
+        {
+          "content": "Sri Sai Ram Engineering College",
+          "link": "https://sairam.edu.in/"
+        }
+      ]
+    }
+  ]
+}

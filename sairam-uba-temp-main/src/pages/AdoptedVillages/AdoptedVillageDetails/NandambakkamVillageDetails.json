@@ -1,0 +1,410 @@
+{
+	"villageName":"Nandambakkam",
+	"villageMapLink":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15551.271864882865!2d80.0540755655653!3d12.983491900216126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a528acd9ac8a609%3A0xc8de7e3172875145!2sNanthavanam%2C%20Nandambakkam%2C%20Tamil%20Nadu%20600069!5e0!3m2!1sen!2sin!4v1639111387235!5m2!1sen!2sin",
+	"aboutParagraph":"Nandambakkam town of KANCHEEPURAM district has civic type is TP. Teshil name of Nandambakkam is ALANDUR 003. District name of Nandambakkam town/city is KANCHEEPURAM (TAMIL NADU). Data Reference year is 2009 of Census 2011. Sub District HQ name of Nandambakkam is Alandur and Sub District HQ Distance is 5 Km from Nandambakkam. District Head Quarter name is Kancheepuram and it’s distance from the town is 75KM. As per census 2011 town code of Nandambakkam is 803349",
+	"latitude":"12.9824 N ",
+	"longitude":"80.0603 E",
+	"basicInformation":[
+		{
+			"contentTitle":"Name of the village",
+			"contentValue":["Nandambakkam"]
+		},
+		{
+			"contentTitle":"Gram Panchayat",
+			"contentValue":["Nandambakkam"]
+		},
+		{
+			"contentTitle":"VillageCode",
+			"contentValue":["629224"]
+		},
+		{
+			"contentTitle":"Number of Wards",
+			"contentValue":[15]
+		},
+		{
+			"contentTitle":"Block",
+			"contentValue":["Kundrathur"]
+		},
+		{
+			"contentTitle":"Sub District",
+			"contentValue":["Kundrathur"]
+		},
+		{
+			"contentTitle":"Sub District Code",
+			"contentValue":["07057"]
+		},
+		{
+			"contentTitle":"District",
+			"contentValue":["Kancheepuram"]
+		},
+		{
+			"contentTitle":"District code",
+			"contentValue":["604"]
+		},
+		{
+			"contentTitle":"State",
+			"contentValue":["Tamil Nadu"]
+		},
+		{
+			"contentTitle":"Lok Sabha / Constituency",
+			"contentValue":["Sriperumpudur"]
+		},
+		{
+			"contentTitle":"Pincode",
+			"contentValue":["600029"]
+		},
+		{
+			"contentTitle":"Distance from District HQ",
+			"contentValue":["75 KM"]
+		},
+		{
+			"contentTitle":"Area of village (Hectares)",
+			"contentValue":["6.5 ha"]
+		}
+		
+		],
+	"amenitiesTables":
+	[{
+		"tableParagraph":"Nearest railway station to Nandambakkam",
+		"tableHead":[
+				"Railway Station Name",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Tambaram railway station",
+				"16.6 KM"
+			],
+			[
+				"Pallavaram railway station",
+				"14.6 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Nearest airport to Nandambakkam :",
+		"tableHead":[
+				"Air Port Name",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Tambaram Air Force Station",
+				"22.4 KM"
+			],
+			[
+				"Chennai Air Port",
+				"15 KM"
+			]
+		]
+	},
+	
+	{
+		"tableParagraph":"Nearest Town/villages to Nandambakkam :",
+		"tableHead":[
+				"Nearest Town",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"kavanur",
+				"2 KM"
+			],
+			[
+				"Somangalam",
+				"4.5 KM"
+			],
+			[
+				"Sirukalathur",
+				"2.7 KM"
+			]
+			
+		]
+	},
+	{
+		"tableParagraph":"Nearest Schools to Nandambakkam : ",
+		"tableHead":[
+				"Nearest Schools",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Government  ADW school",
+				"1.5 KM"
+			],
+			[
+				"Sri Sai Ram Matriculation School",
+				"5.1 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Colleges near Nandambakkam : ",
+		"tableHead":[
+				"Nearest Colleges",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Chennai Institute of Technology",
+				"2.3 KM"
+			],
+			[
+				"Sri Sai Ram Engineering College",
+				"5.6 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Hospitals near Nandambakkam : ",
+		"tableHead":[
+				"Nearest Hospitals",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Gunam Hospital",
+				"0.8 KM"
+			],
+			[
+				"Kundrathur Government Hospital",
+				"4.3 KM"
+			],
+			[
+				"Government Hospital Somangalam",
+				"3.5 KM"
+			]
+			
+		]
+	}],
+  "censusTableDetails":{
+  		"tableParagraph":"Census Data of Village Nandambakkam, Taluk: Sriperumbudur, District Kancheepuram, India Census 2011",
+		"tableHead":[
+				"Population",
+				"Area (Ha)",
+				"Density (P/Ha)",
+				"Sex Ratio",
+				"Literacy"
+			],
+		"tableBody":[
+			[
+				"11239",
+				"6.5 ha",
+				"1729",
+				"1021",
+				"91.94"
+			]
+		]
+  },
+  "censusGroupTables":
+  [
+  {
+  		"heading":"Nandambakkam Village Census 2011 Data Census 2011",
+		"tableHead":[
+				"Description",
+				"Census 2011 Data"
+			],
+		"tableBody":[
+			[
+				"Village Name",
+				"Nandambakkam"
+			],
+			[
+				"Taluk Name",
+				"Alandur"
+			],
+			[
+				"District Name",
+				"Kancheepuram"
+			],
+			[
+				"State Name",
+				"Tamil Nadu"
+			],
+			[
+				"Total Population",
+				"11239"
+			],
+			[
+				"Total Area",
+				"6.5 ha"
+			],
+			[
+				"Total No of House Holds",
+				"2930"
+			],
+			[
+				"Total Male Population",
+				"5561"
+			],
+			[
+				"Total Female Population",
+				"5678"
+			],
+			[
+				"0-6 Age group Total Population",
+				"1207"
+			],
+			[
+				"0-6 Age group Male Population",
+				"620"
+			],
+			[
+				"0-6 Age group Female Population",
+				"587"
+			],
+			[
+				"Total Person Literates",
+				"9223"
+			],
+			[
+				"Total Male Literates",
+				"4722"
+			],
+			[
+				"Total Female Literates",
+				"4501"
+			],
+			[
+				"Total Person Illiterates",
+				"2016"
+			],
+			[
+				"Total Male Illiterates",
+				"831"
+			],
+			[
+				"Total Female Illiterates",
+				"1177"
+			],
+			[
+				"Scheduled Cast Persons",
+				"1780"
+			],
+			[
+				"Scheduled Cast Males",
+				"880"
+			],
+			[
+				"Scheduled Cast Females",
+				"900"
+			],
+			[
+				"Scheduled Tribe Persons",
+				"20"
+			],
+			[
+				"Scheduled Tribe Males",
+				"21"
+			],
+			[
+				"Scheduled Tribe Females",
+				"20"
+			]
+		]
+  },
+  {
+  		"heading":"Nallur Working Population Census 2011",
+		"tableHead":[
+				"Worker Type",
+				"Total",
+				"Male",
+				"Female"
+			],
+		"tableBody":[
+			[
+				"Total Workers",
+				"4646",
+				"3288",
+				"1358"
+			],
+			[
+				"Main Workers",
+				"4109",
+				"3011",
+				"1098"
+			],
+			[
+				"Main Workers Cultivators",
+				"8",
+				"5",
+				"3"
+			],
+			[
+				"Agriculture Labourer",
+				"41",
+				"31",
+				"10"
+			],
+			[
+				"HouseHold Industries",
+				"49",
+				"35",
+				"14"
+			],
+			[
+				"Other Workers",
+				"4011",
+				"2940",
+				"1071"
+			],
+			[
+				"Marginal Workers",
+				"537",
+				"277",
+				"260"
+			],
+			[
+				"Non Working Persons",
+				"6593",
+				"2273",
+				"4320"
+			]
+		]
+  },
+  {
+  		"heading":"Nallur Commodities Census 2011",
+		"tableHead":[
+				"Description Type",
+				"Commodities"
+			],
+		"tableBody":[
+			[
+				"Agricultural Commodities (First)",
+				"N/A"
+			],
+			[
+				"Manufacturers Commodities (First)",
+				"N/A"
+			]
+			
+		]
+  }
+  ],
+  "censuslink":"https://etrace.in/census/town/nandambakkam-tamil-nadu-803349/",
+  "censusParagraphDetails":[
+  	{
+  		"paragraphHeading":"",
+  		"paragraphDetails":"Nandambakkam (TP) town is situated in district KANCHEEPURAM, TAMIL NADU. The Nandambakkam town has population of 11239, male population is 5561 and female population is 5678 as per the Census 2011 data. Population of Children under the age of 0-6 is 1207, male child population under the age of six is 620 and female child population under the age of six is 587. Total literacy rate of Nandambakkam city is 91.94%, male literacy rate is 95.57% and female literacy rate is 88.41%. In Nandambakkam Female Sex Ratio is 1021 per 1000 male persons. Child sex ratio is 947 per 1000 male child under the age of six. Total number of house hold in Nandambakkam is 2930."
+  	},
+  	{
+  		"paragraphHeading":"Workers profile of Nandambakkam",
+  		"paragraphDetails":"Total working population of Nandambakkam is 4646 which are either main or marginal workers. Total workers in the town/city are 4646 out of which 3288 are male and 1358 are female. Total main workers are 4109 out of which male main workers are 3011 and female main workers are 1098. Total marginal workers of Nandambakkam are 537."
+  	}
+  ],
+  "otherDetails": [
+    {
+      "title": "Colleges in Nandambakkam:",
+      "points": [
+        {
+          "content": "Chennai Institute of Technology",
+          "link": "https://www.citchennai.edu.in/"
+        },
+        {
+          "content": "Sri Sai Ram Engineering College",
+          "link": "https://sairam.edu.in/"
+        }
+      ]
+    }
+  ]
+}

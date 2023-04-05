@@ -1,0 +1,141 @@
+.theme {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.content {
+  width: 96%;
+  padding: 20px 50px;
+}
+
+.side {
+  box-shadow: 3px 0px 5px 3px rgba(0, 0, 0, 0.25);
+  width: 4%;
+  background-color: var(--secondary-orange);
+}
+
+.theme-heading {
+  font-size: 2rem;
+  line-height: 2.5rem;
+  margin: 20px auto;
+  text-align: center;
+  color: var(--primary-blue);
+}
+
+.theme-page-img {
+  width: 100%;
+  margin: 0px auto;
+}
+
+.theme-page-img img {
+  box-shadow: 1px 1px 10px 1px #979595;
+  width: 75%;
+  height: 400px;
+  object-fit: fill;
+  margin: 0 auto;
+  display: block;
+  transition:all 0.2s ease-in-out;
+}
+
+.theme-page-img img:hover
+{
+	transform:scale(1.03);
+}
+.theme-details-heading h2 {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.theme-details-content {
+  width: 100%;
+  margin: 20px auto;
+}
+
+.theme-points li {
+  margin: 10px auto;
+}
+
+.theme-details-table table,
+.theme-details-table th,
+.theme-details-table td {
+  border: 2px solid lightgrey;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 5px;
+}
+
+.theme-details-table th {
+  color: var(--primary-blue);
+}
+.theme-details-table {
+  width: 100%;
+}
+
+.table-container {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: #fffbfb;
+  border-radius: 3px;
+  margin: 25px auto;
+}
+
+.sub-content-holder {
+  margin: 10px auto;
+}
+
+.form-link {
+  text-decoration: none;
+  color: var(--primary-orange);
+}
+
+.form-link:hover .link-span {
+  text-decoration: underline;
+}
+.form-link:hover {
+  color: #f9481f;
+}
+
+.theme-details-table tr:hover {
+  background-color: #ebf4f4bd;
+}
+@media screen and (max-width: 900px) {
+  .theme-page-img img {
+    height: 40vh;
+    width: 100%;
+  }
+
+  .theme-details-heading h2 {
+    font-size: 1.5rem;
+  }
+
+  .table-container {
+    overflow-x: auto;
+  }
+}
+@media screen and (max-width: 540px) {
+  .theme-page-img img {
+    height: 30vh;
+  }
+
+  .theme-page-img {
+    width: 100%;
+  }
+
+  .theme-details-content {
+    width: 100%;
+  }
+
+  .table-container {
+    overflow-x: auto;
+  }
+
+  .content {
+    width: 98%;
+    padding: 10px 20px;
+  }
+
+  .side {
+    width: 2%;
+    box-shadow: 2px 0px 7px 3px rgba(0, 0, 0, 0.25);
+  }
+}

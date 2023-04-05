@@ -1,0 +1,519 @@
+{
+	"villageName":"Puduppair",
+	"villageMapLink":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15553.175207067148!2d80.0187722278007!3d12.953042303887807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f49388c4414d%3A0xa2d8f8f6f1646bd7!2sPuduppair%2C%20Tamil%20Nadu%20602109!5e0!3m2!1sen!2sin!4v1639028576355!5m2!1sen!2sin",
+	"aboutParagraph":"Puduppair village is located in Sriperumbudur Tehsil of Kancheepuram district in Tamil Nadu, India. Kancheepuram and Sriperumbudur are the district & sub-district headquarters of Puduppair village respectively. As per 2009 stats, Katrampakkam is the gram panchayat of Puduppair village.",
+	"latitude":"12.9520 N",
+	"longitude":"80.0297 E",
+	"basicInformation":[
+		{
+			"contentTitle":"Name of the village",
+			"contentValue":["Puduppair"]
+		},
+		{
+			"contentTitle":"Gram Panchayat",
+			"contentValue":["Kotrampakkam"]
+		},
+		{
+			"contentTitle":"VillageCode",
+			"contentValue":["629225"]
+		},
+		{
+			"contentTitle":"Block",
+			"contentValue":["Sriperumpudur"]
+		},
+		{
+			"contentTitle":"Sub District",
+			"contentValue":["Sriperumpudur"]
+		},
+		{
+			"contentTitle":"Sub District Code",
+			"contentValue":["05702"]
+		},
+		{
+			"contentTitle":"District",
+			"contentValue":["Kancheepuram"]
+		},
+		{
+			"contentTitle":"District code",
+			"contentValue":["604"]
+		},
+		{
+			"contentTitle":"State",
+			"contentValue":["Tamil Nadu"]
+		},
+		{
+			"contentTitle":"Lok Sabha / Constituency",
+			"contentValue":["Sriperumpudur"]
+		},
+		{
+			"contentTitle":"Pincode",
+			"contentValue":["600069"]
+		},
+		{
+			"contentTitle":"Distance from District HQ",
+			"contentValue":["35.2 KM"]
+		},
+		{
+			"contentTitle":"Area of village (Acres)",
+			"contentValue":["212.85"]
+		},
+		{
+			"contentTitle":"Forest Area (Acre)",
+			"contentValue":["46 Acres"]
+		},
+		{
+			"contentTitle":"Housing / Abadi Area (Acres)",
+			"contentValue":["184.09 Acres- non-agricultural use"]
+		}
+		
+		],
+	"amenitiesTables":
+	[
+	{
+		"tableParagraph":"Nearest railway station to Puduppair is Tambaram which is located in and around 8.55 kilometer distance.",
+		"tableHead":[
+				"Railway Station Name",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Tambaram railway station ",
+				"8.55 KM"
+			],
+			[
+				"Vandalur railway station",
+				"10.24 KM"
+			],
+			[
+				"Tambaram Sanatorium railway station",
+				"8.79 KM"
+			],
+			[
+				"Chromepet railway station",
+				"9.29 KM"
+			],
+			[
+				"Perungalatur railway station ",
+				"8.91 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Nearest airport is Tambaram Air Force Station situated at 19.2 KM distance. Few more airports around Puduppair are as follows.",
+		"tableHead":[
+				"Air Port Name",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Tambaram Air Force Station",
+				"19.2 KM"
+			],
+			[
+				"Chennai International Airport",
+				"18.3 KM"
+			],
+			[	
+				"New Chennai International Airport",
+				"18.5 KM"
+			]
+		]
+	},
+	
+	{
+		"tableParagraph":"Puduppair, nearest town/city/important place is Kundrathur located at the distance of 10.6 kilometer.",
+		"tableHead":[
+				"Nearest Town",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Kundrathur",
+				"10.7 KM"
+			],
+			[
+				"Thiruneermalai",
+				"16.7 KM"
+			],
+			[
+				"Perungalathur",
+				"18.1 KM"
+			
+			],
+			[
+				"Peerkankaranai",
+				"14.0 KM"
+			]
+			,
+			[
+				"Sikkarayapuram",
+				"12.6 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Puduppair nearest schools has been listed as follows",
+		"tableHead":[
+				"Nearest Schools",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Somangalam Higher Sec School",
+				"2.6 KM"
+			],
+			[
+				"PUPS Primary School",
+				"1.6 KM"
+			
+			],
+			[
+				"Palanthandalam School",
+				"2.3 KM"
+			
+			],
+			[
+				"Palanthandalam High School",
+				"2.5 KM"
+			
+			],
+			[
+				"R C M High School",
+				"19.5 KM"
+			
+			],
+			[
+				"Sri Sairam Matriculation school",
+				"7 KM"
+			]
+		]
+	},
+	 {
+		"tableParagraph":"Colleges near Puduppair: ",
+		"tableHead":[
+				"Nearest Colleges",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Sri Sairam Engineering College",
+				"6.2 KM"
+			],
+			[
+				"Sri Sairam Institute of technology",
+				"6.3 KM"
+			
+			],
+			[
+				"Sri Sairam Siddha Medical College",
+				"6.2 KM"
+			
+			],
+			[
+				"Sri Sairam Ayurvedha Medical college",
+				"6.2 KM"
+			
+			],
+			[
+				"Sri Sairam Polytechnic college",
+				"6.3 KM"
+			
+			],
+			[
+				"Dhanalakshmi College of Engineering",
+				"4.3 KM"
+			]
+			,
+			[
+				"Madha College of Engineering",
+				"9.2 KM"
+			]
+			,
+			[
+				"Chennai Institute of Technology",
+				"3.5 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Hospitals near Puduppair: ",
+		"tableHead":[
+				"Nearest Hospitals",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Somangalam Government hospital",
+				"2.5 KM"
+			],
+			[
+				"Sri Sairam Ayurvedha Medical College and",
+				"5.2 KM"
+			]
+		]
+	}
+	],
+  "censusTableDetails":{
+  		"tableParagraph":"Census Data of Village Somangalam, Taluk: Sriperumbudur, District Kancheepuram, India Census 2011",
+		"tableHead":[
+				"Population",
+				"Area (Ha)",
+				"Density (P/Ha)",
+				"Sex Ratio",
+				"Literacy"
+			],
+		"tableBody":[
+			[
+				"788",
+				"212.85",
+				"7",
+				"1010",
+				"78.49"
+			]
+		]
+  },
+  "censusGroupTables":
+  [{
+  		"heading":"Puduppair Village Census 2011 Data Census 2011",
+		"tableHead":[
+				"Description",
+				"Census 2011 Data"
+			],
+		"tableBody":[
+			[
+				"Village Name",
+				"Puduppair"
+			],
+			[
+				"Taluk Name",
+				"Sriperumpudur"
+			],
+			[
+				"District Name",
+				"Kancheepuram"
+			],
+			[
+				"State Name",
+				"Tamil Nadu"
+			],
+			[
+				"Total Population",
+				"788"
+			],
+			[
+				"Total Area",
+				"212.85"
+			],
+			[
+				"Total No of House Holds",
+				"204"
+			],
+			[
+				"Total Male Population",
+				"392"
+			],
+			[
+				"Total Female Population",
+				"396"
+			],
+			[
+				"0-6 Age group Total Population",
+				"110"
+			],
+			[
+				"0-6 Age group Male Population",
+				"48"
+			],
+			[
+				"0-6 Age group Female Population",
+				"62"
+			],
+			[
+				"Total Person Literates",
+				"70.35%"
+			],
+			[
+				"Total Male Literates",
+				"78.49%"
+			],
+			[
+				"Total Female Literates",
+				"61.98%"
+			],
+			[
+				"Total Person Illiterates",
+				"29.65%"
+			],
+			[
+				"Total Male Illiterates",
+				"21.1%"
+			],
+			[
+				"Total Female Illiterates",
+				"38.02%"
+			],
+			[
+				"Scheduled Cast Persons",
+				"16"
+			],
+			[
+				"Scheduled Cast Males",
+				"8"
+			],
+			[
+				"Scheduled Cast Females",
+				"8"
+			],
+			[
+				"Scheduled Tribe Persons",
+				"1"
+			],
+			[
+				"Scheduled Tribe Males",
+				"0"
+			],
+			[
+				"Scheduled Tribe Females",
+				"1"
+			]
+		]
+  },
+  {
+  		"heading":"Nallur Working Population Census 2011",
+		"tableHead":[
+				"Worker Type",
+				"Total",
+				"Male",
+				"Female"
+			],
+		"tableBody":[
+			[
+				"Total Workers",
+				"336",
+				"244",
+				"92"
+			],
+			[
+				"Main Workers",
+				"303",
+				"-",
+				"-"
+			],
+			[
+				"Main Workers Cultivators",
+				"33",
+				"3",
+				"30"
+			]
+		]
+  },
+  {
+  		"heading":"Puduppair Commodities Census 2011",
+		"tableHead":[
+				"Description Type",
+				"Commodities"
+			],
+		"tableBody":[
+			[
+				"Agricultural Commodities (First)",
+				"PADDY"
+			],
+			[
+				"Manufacturers Commodities (First)",
+				"N/A"
+			],
+			[
+				"Agricultural Commodities (second)",
+				"COCONUT"
+			],
+			[
+				"Agricultural Commodities (second)",
+				"BANANA"
+			]
+			
+		]
+  }
+  ],
+  "censuslink":"https://etrace.in/census/village/puduppair-sriperumbudur-district-kancheepuram-tamil-nadu-629225",
+  "censusParagraphDetails":[
+	{
+		"paragraphHeading":"",
+		"paragraphDetails":"Gram Panchayat name of the Puduppair village is Kotrampakkam . CD Block name is Kunrathur and Taluk or sub-district is Sriperumbudur. Data Reference year is 2009 of Census 2011. Sub District HQ Name is SRIPERUMBUDUR and Sub District HQ Distance is 11 Km from the village. District Head Quarter name is KANCHEEPURAM and it’s distance from the village is 45KM. Nearest Town of the Puduppair village is KUNDRATHUR and nearest town distance is 10 km. Pin-code of Puduppair village is 602109. As per census 2011 village code of village Puduppair is 602109"
+	},
+	{
+	  "paragraphHeading":"Sex Ratio of Puduppair Village Census 2011",
+	  "paragraphDetails":"As per the Census Data 2011 there are 392 males and 396 females of the total population 788. Thus the average sex ratio is 1010."
+  },
+  {
+	  "paragraphHeading":"Literacy of Puduppair Village",
+	  "paragraphDetails":"Out of total population total 788 people in Puduppair. Village are literate, among them 78.89% are male and 61.98% are female in the village. Total literacy rate of Puduppair is 78.49%"
+  },
+  {
+	  "paragraphHeading":"Workers profile of Puduppair Village",
+	  "paragraphDetails":"Total working population of Puduppair is 336 which are either main or marginal workers. Total workers in the village are 336 out of which 247 are male and 122 are female. Total main workers are 303.Total marginal workers of village are 33."
+  }
+  ],
+  "otherDetails": [
+    {
+      "title": "Habitations in Puduppair",
+      "points": [
+        {
+          "content": "Nallur Colony",
+          "link": ""
+        },
+        {
+          "content": "Nallur Village",
+          "link": ""
+        },
+        {
+          "content": "Poonthandalam",
+          "link": ""
+        },
+        {
+          "content": "Puducheri",
+          "link": ""
+        },
+        {
+          "content": "Puthunallur",
+          "link": ""
+        },
+		{
+			"content": "Erumaiyur",
+			"link": ""
+		},
+		{
+			"content": "Somangalam",
+			"link": ""
+		}
+      ]
+    },
+    {
+      "title": "Government Hospitals near Puduppair",
+      "points": [
+        {
+          "content": "Government Primary Health Center, Somangalam Road, Puduppair Village 602109.",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "title": "Banks near Puduppair",
+      "points": [
+        { "content": "City Union Bank, Puduppair Branch", "link": "" }
+      ]
+    },
+    {
+      "title": "Schools in Puduppair",
+      "points": [
+        {
+          "content": "PUPS, Puduppair",
+          "link": "http://www.etamilnadu.org/schools/pups-Puduppair-1037614.html"
+        },
+        {
+          "content": "Sairam Matric School, Puduppair",
+          "link": "http://tbm.sairamschool.edu.in/"
+        }
+      ]
+    }
+  ]
+}

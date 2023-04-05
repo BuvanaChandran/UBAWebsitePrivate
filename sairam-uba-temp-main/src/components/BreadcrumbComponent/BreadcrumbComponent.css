@@ -1,0 +1,32 @@
+.line{
+    height: 4px;
+    width: 100%;
+    margin-bottom: 1rem;
+    background-color: var(--primary-orange);
+}
+
+.breadcrumb{
+	margin-bottom: 0.5rem;
+}
+
+.home-link
+{
+	color:var(--primary-blue);
+	text-decoration:none;
+	font-weight:400;
+}
+
+
+.home-link:hover
+{
+	color:var(--primary-blue);
+	text-decoration:underline; 
+	text-decoration-thickness:2px;
+	text-decoration-color:var(--secondary-orange);
+	
+}
+
+.home-icon
+{
+	vertical-align:unset;
+}

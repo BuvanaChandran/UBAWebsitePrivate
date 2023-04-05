@@ -1,0 +1,185 @@
+{
+  "breadCrumb": "SEC / Projects / Projects Submitted 2021 - 2022",
+  "collegeName": "SRI SAI RAM ENGINEERING COLLEGE",
+  "heading": "Projects Submitted List 2021 - 2022",
+  "projectTableDetails": [
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "Development of Socially Functional Autonomous Intelligent Drone for Rural India",
+      "implementedPlace": ["Somangalam"],
+      "submittedDate": "09-02-2022",
+      "principalInvestigators": ["Dr.Swagata Sarkar(AI&DS)"]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "Smart Grama Bharat Pathshala ",
+      "implementedPlace": ["Somangalam"],
+      "submittedDate": "09-02-2022",
+      "principalInvestigators": ["Dr.Swagata Sarkar(AI&DS)"]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "Installation of Automated Sericulture Functional unit in Rural Area",
+      "implementedPlace": ["Naduveerapattu"],
+      "submittedDate": "09-02-2022",
+      "principalInvestigators": ["Dr.K.Lakshmi Joshitha(ECE)"]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "VIVASAYI BAZZAR",
+      "implementedPlace": ["Somangalam"],
+      "submittedDate": "09-02-2022",
+      "principalInvestigators": ["Mrs.V.K.G.Kalaiselvi (IT)"]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "e-Agro APP - A Partner for Rural Agrarian Community",
+      "implementedPlace": ["Nandambakkam (Periyar Nagar)"],
+      "submittedDate": "09-02-2022",
+      "principalInvestigators": [
+        "Mr.V.Gopinath (CSE)",
+        "Dr.A.Chinnasamy (CSE)",
+        "Mr.D.Sathish Kumar (CSE)"
+      ]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "Deep Learning Based Pathogen Infestation Detection In Plants",
+      "implementedPlace": ["Varadharajapuram"],
+      "submittedDate": "09-02-2022",
+      "principalInvestigators": ["Mrs.V.K.G. Kalaiselvi (IT)"]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "A WEB APPLICATION TO PREDICT THE CROP YIELD USING RANDOM FOREST ALGORITHM",
+      "implementedPlace": ["Nandambakkam (Periyar Nagar)"],
+      "submittedDate": "09-02-2022",
+      "principalInvestigators": ["Mrs.J Ranjani (IT)"]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "Restoration of Water Reservoirs by diversion of waste water and removal of superficial sediment",
+      "implementedPlace": ["Somangalam"],
+      "submittedDate": "09-02-2022",
+      "principalInvestigators": ["Mr.S.Sivaramakrishnan (Civil)"]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "Conversion of food waste into Fertilizer by Microbial action",
+      "implementedPlace": ["Naduveerapattu"],
+      "submittedDate": "09-02-2022",
+      "principalInvestigators": ["Mr.Pon Deepak (Civil) "]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "Post COVID Respiratory Health Monitoring System for Rural Peopl",
+      "implementedPlace": ["Somangalam"],
+      "submittedDate": "09-02-2022",
+      "principalInvestigators": [
+        "Mrs.K.Subhashini (ECE)",
+        "Dr.J.Tamil Selvi (ECE)"
+      ]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "Design and Installation of 500 litre capacity bio gas plant to produce continuous bio energy",
+      "implementedPlace": ["Naduveerapattu"],
+      "submittedDate": "09-02-2022",
+      "principalInvestigators": ["Dr.Durgadevi(EIE)"]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "Development of an application for agriculture marketing for farmer’s community",
+      "implementedPlace": ["Poonthandalam (Puducherry)"],
+      "submittedDate": "09-02-2022",
+      "principalInvestigators": ["Dr.Ananthi(CSBS)", "Mrs.Nirmala J"]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "Development of a rural based system for identifying diseases in plants using machine learning",
+      "implementedPlace": ["Varadharajapuram"],
+      "submittedDate": "09-02-2022",
+      "principalInvestigators": ["Mr.Prabhu D(CSBS)"]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "Application for the Detection of Cataract and Glaucoma for Rural Population using Machine Learning",
+      "implementedPlace": ["Somangalam"],
+      "submittedDate": "09-02-2022",
+      "principalInvestigators": ["Ms.Sathya(CSBS)"]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "Fabrication of standalone affordable and Movable Process Automated Wastewater Treatment System",
+      "implementedPlace": ["Naduveerapattu"],
+      "submittedDate": "09-02-2022",
+      "principalInvestigators": ["Dr.A.Sanjeevi Gandhi"]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "Voice Integrated Vaccination Care System for Rural Women",
+      "implementedPlace": ["Somangalam"],
+      "submittedDate": "10-02-2022",
+      "principalInvestigators": [
+        "Dr.S.Samundeswari (CSE)",
+        "Dr.M.Nithya (CSE)",
+        "Mrs.V.Lalitha (CSE)"
+      ]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "Restoring minerals in the RO system",
+      "implementedPlace": ["Naduveerapattu"],
+      "submittedDate": "09-02-2022",
+      "principalInvestigators": ["Dr.B.Thanuja (Chemistry)"]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "HEALTH KIOSK for Elderly People in Rural Public Health Centre",
+      "implementedPlace": ["Somangalam"],
+      "submittedDate": "09-02-2022",
+      "principalInvestigators": [
+        "Ms.T.Mangayararasi (ICE)",
+        "Dr.S.Sumathi (ECE) "
+      ]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "Solar Powered Sprayer for Agricultural purpose",
+      "implementedPlace": ["Naduveerapattu",
+							"Nandambakkam (Periyar Nagar)",
+							"Poonthandadalam (Puducherry)",
+							"Somangalam",
+							"Varadharajapuram"],
+      "submittedDate": "15-02-2022",
+      "principalInvestigators": [
+        "Mr.S.Siva Chandran (Mech)",
+        "Mr.R.Bhoopathi (Mech)"
+      ]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "TRACTOR DRIVEN SPRAYER UNIT",
+      "implementedPlace": ["Somangalam"],
+      "submittedDate": "15-02-2022",
+      "principalInvestigators": [
+        "Dr.B.Vijaya Ramnath (Mech)",
+        "Mr.S.Krishnaraj (Mech)",
+        "Mr.R.Senthil Kumar (Mech)",
+        "Mr.T.Ganesh (Mech)"
+      ]
+    },
+    {
+      "technologyIntervention": "Technology Development",
+      "projectName": "DESIGN AND FABRICATION OF STRAW BALER MACHINE FOR AGRICULTURAL PURPOSE",
+      "implementedPlace": ["Poonthandalam (Puducherry)"],
+      "submittedDate": "15-02-2022",
+      "principalInvestigators": [
+        "Dr.U.Tamilarasan (Prod)",
+        "Dr.S.Arunprasad (Prod)",
+        "Mr.V.Velmurugan (Prod)",
+        "Mr.V.Prabhu (Prod)"
+      ]
+    }
+  ]
+}

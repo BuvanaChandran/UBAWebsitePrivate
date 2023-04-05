@@ -1,0 +1,45 @@
+.sec-project-guides
+{
+	display:flex;
+}
+
+.specialization-fields
+{
+	text-align:justify;
+	margin:0;
+	margin-left:8px;
+}
+.guides-heading h2
+{
+	font-size:1.6rem;
+	text-transform:uppercase;
+	color:var(--primary-blue);
+	text-decoration:underline;
+	text-decoration-color:var(--secondary-orange);
+	text-decoration-thickness:2px;
+}
+.college-heading
+{
+	margin:0 auto;
+	width:fit-content;
+	color:var(--primary-blue);
+	border-bottom:4px solid var(--primary-orange);
+	margin-bottom:20px;
+}
+
+.college-heading h3
+{
+	margin-bottom:.2rem;
+}
+
+.table-mail-link,.table-mail-phone 
+{
+	text-decoration-color:var(--secondary-orange);
+	color:var(--primary-blue);
+}
+
+.table-mail-link:hover,.table-mail-phone:hover
+{
+	text-decoration-color:var(--primary-orange);
+	text-decoration-thickness:2px;	
+}

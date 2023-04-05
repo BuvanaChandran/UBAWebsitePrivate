@@ -1,0 +1,286 @@
+{
+  "villageName": "Naduveerappattu",
+  "villageMapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31108.24711158155!2d80.0386208715243!3d12.937844366184057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f4e33fb093cd%3A0x26bdd19654056d50!2sNaduveerapattu%2C%20Tamil%20Nadu%20602109!5e0!3m2!1sen!2sin!4v1639025334165!5m2!1sen!2sin",
+  "aboutParagraph": "Naduveerapattu village is situated in Tehsil Sriperumbudur, District Kancheepuram, and State of Tamil Nadu India. The village has a population of 6291 as per census data of 2011, in which male population is 3134 and the female population is 3157. The total geographical area of Naduveerapattu village is 573.56 Hectares. The population density of Naduveerapattu is 11 persons per Hectares. The total number of households in the village is 1541.",
+  "latitude": "12.9386 N",
+  "longitude": "80.0549 E",
+  "basicInformation": [
+    {
+      "contentTitle": "Name of the village",
+      "contentValue": ["NADUVEERAPATTU"]
+    },
+    {
+      "contentTitle": "Gram Panchayat",
+      "contentValue": ["NADUVEERAPATTU"]
+    },
+    {
+      "contentTitle": "VillageCode",
+      "contentValue": ["629247"]
+    },
+    {
+      "contentTitle": "Block",
+      "contentValue": ["SRIPERUMPUDUR"]
+    },
+    {
+      "contentTitle": "Sub District",
+      "contentValue": ["Kundrathur"]
+    },
+    {
+      "contentTitle": "Sub District Code",
+      "contentValue": ["07057"]
+    },
+    {
+      "contentTitle": "District",
+      "contentValue": ["Kancheepuram"]
+    },
+    {
+      "contentTitle": "District code",
+      "contentValue": ["604"]
+    },
+    {
+      "contentTitle": "State",
+      "contentValue": ["TAMILNADU"]
+    },
+    {
+      "contentTitle": "Lok Sabha / Constituency",
+      "contentValue": ["SRIPERUMPUDUR"]
+    },
+    {
+      "contentTitle": "Pincode",
+      "contentValue": ["602103"]
+    },
+    {
+      "contentTitle": "Distance from District HQ",
+      "contentValue": ["45 KM"]
+    },
+    {
+      "contentTitle": "Area of village (Acres)",
+      "contentValue": ["573.56"]
+    },
+    {
+      "contentTitle": "Arable land agriculture Area (Hectacres)",
+      "contentValue": [
+        "The total sown/agricultural area is 138.95 ha.",
+        " 31.45 ha - un-irrigated area",
+        "107.5 ha - irrigated area",
+        "26.61 ha - irrigated by canals",
+        "69.79 ha - irrigated by tanks/lakes",
+        "11.1 ha – irrigated by wells and tubes"
+      ]
+    },
+    {
+      "contentTitle": "Forest Area (Acre)",
+      "contentValue": ["92.0467 acres -miscellaneous tree crops"]
+    },
+    {
+      "contentTitle": "Housing / Abadi Area (Acres)",
+      "contentValue": ["184.09 acres - non-agricultural use"]
+    },
+    {
+      "contentTitle": "Common Lands Area (Hectacres)",
+      "contentValue": [
+        "30.79 ha is lying as current fallow area",
+        "120.32 ha -fallow land other than current fallows"
+      ]
+    }
+  ],
+  "amenitiesTables": [
+    {
+      "tableParagraph": "The nearest railway station to Naduveerpattu is Perungalathur which is located in and around 7.3 kilometers distance",
+      "tableHead": ["Railway Station Name", "Distance"],
+      "tableBody": [
+        ["Perungalathur railway station", "7.3 KM"],
+        ["Tambaram railway station", "8.0 KM"],
+        ["Vandalur railway station", "8.2 KM"],
+        ["Tambaram Sanatorium railway station", "11 KM"]
+      ]
+    },
+    {
+      "tableParagraph": "The nearest airport is Tambaram Air Force Station situated at 15 KM distance. Few more airports around Naduveerapattu are as follows",
+      "tableHead": ["Air Port Name", "Distance"],
+      "tableBody": [
+        ["Tambaram Air Force Station", "15 KM"],
+        ["Chennai International Airport", "16.8 KM"],
+        ["New Chennai International Airport", "17 KM"]
+      ]
+    },
+    {
+      "tableParagraph": "Naduveerapattu’s nearest town/city/important place is Somangalam located at a distance of 3 kilometers",
+      "tableHead": ["Nearest Town", "Distance"],
+      "tableBody": [
+        ["Kundrathur", "11.5 KM"],
+        ["Thiruneermalai", "9.1 KM"],
+        ["Perungalathur", "10.7 KM"],
+        ["Peerkankaranai", "13 KM"],
+        ["Sikkarayapuram", "13 KM"],
+        ["Somangalam", "3 KM"],
+        ["Poonthandalam", "4.4 KM"],
+        ["Tambaram", "10 KM"],
+        ["Poonamalle", "19 KM"]
+      ]
+    },
+    {
+      "tableParagraph": "Naduveerapattu’s nearest schools have been listed as follows",
+      "tableHead": ["Nearest Schools", "Distance"],
+      "tableBody": [
+        ["Somangalam Higher Sec School", "2.7 KM"],
+        ["Palanthandalam School", "6.1 KM"],
+        ["Palanthandalam High Schoo", "2.4 KM"],
+        ["R C M High School", "2.2 KM"],
+        ["Sri Sairam Matriculation schoo", "5.0 KM"]
+      ]
+    },
+    {
+      "tableParagraph": "Colleges near Naduveerapattu : ",
+      "tableHead": ["Nearest Colleges", "Distance"],
+      "tableBody": [
+        ["Sri Sairam Engineering College ", "5.5 KM"],
+        ["Sri Sairam Institute of technology ", "5.5 KM"],
+        ["Sri Sairam Siddha Medical College", "5.5 KM"],
+        ["Sri Sairam Ayurvedha Medical college", "5.5 KM"],
+        ["Sri Sairam Polytechnic college", "5.6 KM"],
+        ["Dhanalakshmi College of Engineering", "2.5 KM"],
+        ["Madha College of Engineering", "10.2 KM"],
+        ["Chennai Institute of Technology", "4.9 KM"]
+      ]
+    },
+    {
+      "tableParagraph": "Hospitals near Naduveerapattu : ",
+      "tableHead": ["Nearest Hospitals", "Distance"],
+      "tableBody": [
+        ["Somangalam Government hospital", "2.7 KM"],
+        ["Sri Sairam Ayurvedha Medical College and Hospital", "5.5 KM"],
+        ["Sri Sairam Ayurvedha Medical College and Hospital", "5.5 KM"],
+        ["Sri Sairam Ayurvedha Medical College and Hospital", "5.5 KM"]
+      ]
+    }
+  ],
+  "censusTableDetails": {
+    "tableParagraph": "Census Data of Village Naduveerapattu, Taluk: Sriperumbudur District Kancheepuram, India Census 2011 : ",
+    "tableHead": [
+      "Population",
+      "Area (Ha)",
+      "Density (P/Ha)",
+      "Sex Ratio",
+      "Literacy"
+    ],
+    "tableBody": [["6291", "573.56", "11", "1007", "82.45%"]]
+  },
+  "censusGroupTables": [
+    {
+      "heading": "Naduveerapattu Working Population Census 2011:",
+      "tableHead": ["", "Total", "Male", "Female"],
+      "tableBody": [
+        ["Total Workers", "2412", "1797", "615"],
+        ["Main Workers", "2286 ", "1724", "562"],
+        ["Main Workers Cultivators", "54", "47", "7"],
+        ["Agriculture Labourer", "315", "251", "64"],
+        ["Household Industries", "36", "23", "13"],
+        ["Other Workers ", "1881", "1403", "478"],
+        ["Marginal Workers", "126", "73", "53"],
+        ["Non Working Persons", "3879", "1337", "2542"]
+      ]
+    },
+    {
+      "heading": "Naduveerapattu Village Census 2011 Data Census 2011",
+      "tableHead": ["Description", "Census 2011 Data"],
+      "tableBody": [
+        ["Village Name", " Naduveerapattu"],
+        ["Taluk Name", " Sriperumbudur"],
+        ["District Name", " Kancheepuram"],
+        ["State Name", " Tamil Nadu"],
+        ["Total Population", " 6291"],
+        ["Total Area", " 574 (Hectares)"],
+        ["Total No of House Holds", "1541"],
+        ["Total Male Population", "3134"],
+        ["Total Female Population", "3157"],
+        ["0-6 Age group Total Population", "809"],
+        ["0-6 Age group Male Population", " 405"],
+        ["0-6 Age group Female Population", " 404"],
+        ["Total Person Literates", " 4520"],
+        ["Total Male Literates", "2409"],
+        ["Total Female Literates", "2111"],
+        ["Total Person Illiterates", "1771"],
+        ["Total Male Illiterates", "725"],
+        ["Total Female Illiterates", "1046"],
+        ["Scheduled Cast Persons", "2796"],
+        ["Scheduled Cast Males", "1416"],
+        ["Scheduled Cast Females", "1380"],
+        ["Scheduled Tribe Persons", "58"],
+        ["Scheduled Tribe Males", "33"],
+        ["Scheduled Tribe Females", " 25"]
+      ]
+    },
+    {
+      "heading": "Naduveerapattu Village Data Census 2011",
+      "tableHead": ["Description", "Data"],
+      "tableBody": [
+        ["Village Name", "Naduveerapattu"],
+        ["Gram Panchayat Name", "Naduveerapattu"],
+        ["CD Block Name", "Kunnattur"],
+        ["Teshil Name", "Sriperumbudur"],
+        ["Reference Year", "2009"],
+        ["Sub District HQ Name", "SRIPERUMBUDUR"],
+        ["Sub District HQ Distance", "20 Km"],
+        ["District HQ Name", "KANCHEEPURAM"],
+        ["District HQ Distance", "45 Km"],
+        ["Nearest Town", "TAMARAM"],
+        ["Nearest Town Distance", "10 Km"],
+        ["Pin-code", "602103"]
+      ]
+    },
+    {
+      "heading": "Naduveerapattu Manufacturers and Agricultural Commodities Data",
+      "tableHead": ["Description Type", "Commodities"],
+      "tableBody": [
+        ["Agricultural Commodities (First)", "PADDY"],
+        ["Manufacturers Commodities (First)", "N/A"],
+        ["Agricultural Commodities (Second)", "TUBEROSE"],
+        ["Agricultural Commodities (Third)", "GROUND NUT"]
+      ]
+    }
+  ],
+  "censuslink": "https://etrace.in/census/village/naduveerapattu-sriperumbudur-district-kancheepuram-tamil-nadu-629247",
+  "censusParagraphDetails": [
+    {
+      "paragraphHeading": "",
+      "paragraphDetails": "Gram Panchayat’s name of the Naduveerapattu village is Naduveerapattu. CD Block’s name is Kunnattur and Tehsil/Taluk or sub-district in Sriperumbudur. Data Reference year is 2009 of Census 2011. Sub District HQ Name is SRIPERUMBUDUR and Sub District HQ Distance is 20 Km from the village. District Head Quarter’s name is KANCHEEPURAM and it’s the distance from the village is 45KM. The nearest Town of the Naduveerapattu village is TAMBARAM and the nearest town distance is 10 km. Pincode of Naduveerapattu village is 602103. As per census 2011 village code of village Naduveerapattu is 629247"
+    },
+    {
+      "paragraphHeading": "Sex Ratio of Naduveerappattu Village Census 2011",
+      "paragraphDetails": "As per the Census Data 2011, there are 1007 Females per 1000 males out of 6291 total population of village.There are 998 girls per 1000 boys under 6 years of age in the village"
+    },
+    {
+      "paragraphHeading": "Literacy of Naduveerappattu Village",
+      "paragraphDetails": "Out of the total population total 4520 people in Naduveerapattu Village are literate, among them 2409 are male and 2111 are female in the village. Total literacy rate of Naduveerapattu is 82.45%, for male literacy is 88.27% and for female literacy rate is 76.68%"
+    },
+    {
+      "paragraphHeading": "Workers profile of Naduveerappattu Village",
+      "paragraphDetails": "Total working population of Naduveerapattu is 2412 which are either main or marginal workers. Total workers in the village are 2412 out of which 1797 are male and 615 are female. Total main workers are 2286 out of which female main workers are 1724 and male main workers are 562. sTotal marginal workers of village are 126"
+    }
+  ],
+  "otherDetails": [
+    {
+      "title": "Government Hospitals near Naduveerapattu",
+      "points": [
+        {
+          "content": "Government Primary Health Center, Somangalam Road, Poonthandalam Village 602109",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "title": "Banks near Naduveerapattu",
+      "points": [{ "content": "City Union Bank, Poonthandalam Branch", "link": "" }]
+    },
+    {
+      "title": "Schools in Naduveerapattu",
+      "points": [
+        {
+          "content": "St. Paul’s Nursery and Primary School",
+          "link": ""
+        }
+      ]
+    }
+  ]
+}

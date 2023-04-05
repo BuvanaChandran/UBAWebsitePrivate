@@ -1,0 +1,12 @@
+.events-listing-page
+{
+	display:flex;
+}
+
+.event-listing-holder
+{	
+	display:flex;
+	flex-wrap:wrap;
+	flex-direction:row;
+	justify-content:space-evenly;
+}

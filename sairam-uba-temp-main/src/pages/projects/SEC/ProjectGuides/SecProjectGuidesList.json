@@ -1,0 +1,186 @@
+{
+	"secProjectGuides":[
+		{
+			"guideName":"Mr.Anbumani",
+			"department":"EIE",
+			"facultyId":"ET10EI03",
+			"specialization":
+				[
+					"Robotics",
+					"Automation"
+				],
+			"mail":"anbumani.ei@sairam.edu.in",
+			"contactNo":"9840275890"
+		},
+		{
+			"guideName":"Ms.AnithaJebamani",
+			"department":"IT",
+			"facultyId":"ET12IT01",
+			"specialization":
+				[
+					"Edge Computing",
+					"IoT"
+				],
+			"mail":"Jebamani.it@sairam.edu.in",
+			"contactNo":"9840037765"
+		},
+		{
+			"guideName":"Ms.R.Chitra",
+			"department":"ECE",
+			"facultyId":"ET11EC02",
+			"specialization":
+				[
+					"VLSI",
+					"Bio Medical"
+				],
+			"mail":"chitra.ece@sairam.edu.in",
+			"contactNo":"9840435509"
+		},
+		
+		{
+			"guideName":"Dr.S.Durgadevi",
+			"department":"EIE",
+			"facultyId":"ET11EI01",
+			"specialization":
+				[
+					"Power Electronics",
+					"Artificial Intelligence (Optimization Methods)",
+					"Sensors & Process Control"
+				],
+			"mail":"durgadevi.ei@sairam.edu.in",
+			"contactNo":"9941935112"
+		},
+		
+		{
+			"guideName":"Ms.S.Gomathi",
+			"department":"IT",
+			"facultyId":"ET12IT02",
+			"specialization":
+				[
+					"Machine Learning",
+					"Medical Image Analysis"
+				],
+			"mail":"Gomathi.it@sairam.edu.in",
+			"contactNo":"9789994403"
+		},
+		
+		{
+			"guideName":"Ms.T.Mangayarkarasi",
+			"department":"ICE",
+			"facultyId":"ET00IC01",
+			"specialization":
+				[
+				"Sensors",
+				"Embedded Systems",
+				"Medical Image Processing"
+				],
+			"mail":"hod.ice@sairam.edu.in",
+			"contactNo":"8754502226"
+		},
+		{
+			"guideName":"Dr.T.Porselvi",
+			"department":"EEE",
+			"facultyId":"ET00EE01",
+			"specialization":
+				[
+				"Wind & Solar Energy",
+				"Electrical Vehicle",
+				"Home Automation",
+				"Smart Grid Technology"
+				],
+			"mail":"porselvi.eee@sairam.edu.in",
+			"contactNo":"9445782722"
+		},
+		{
+			"guideName":"Mr.S.Ramanathan",
+			"department":"Mechanical",
+			"facultyId":"ET16ME05",
+			"specialization":
+				[
+					"Robotics",
+					"Finite Element Analysis",
+					"Applications of Robotics & Automation",
+					"Modern Agriculture"
+				],
+			"mail":"ramanathan.mech@sairam.edu.in",
+			"contactNo":"8754020757"
+		},
+		{
+			"guideName":"Mr.Rajesh",
+			"department":"Civil",
+			"facultyId":"ET21CE05",
+			"specialization":
+				[
+					"Structural & Construction Management",
+					"Environment & Water Resource Management"
+				],
+			"mail":"rajesh.civil@sairam.edu.in",
+			"contactNo":"7845731188"
+		},
+		{
+			"guideName":"Dr.N.Sivakumar",
+			"department":"Physics",
+			"facultyId":"ET20PH01",
+			"specialization":
+				[	
+					"Nanomaterials",
+					"Thermoelectrics",
+					"Solar cells",
+					"Material Science"
+				],
+			"mail":"sivakumar.phy@sairam.edu.in",
+			"contactNo":"8807337714"
+		},
+		{
+			"guideName":"Dr.B.Thanuja",
+			"department":"Chemistry",
+			"facultyId":"ET13CH03",
+			"specialization":
+				[
+					"Waste water treatment", 
+					"safe drinking water"
+				],
+			"mail":"thanuja.che@sairam.edu.in",
+			"contactNo":"9884509338"
+		},
+		{
+			"guideName":"Dr.R.Uma",
+			"department":"CSE",
+			"facultyId":"ET96CS01",
+			"specialization":
+				[
+				"Data Mining",
+				"Machine Learning",
+				"Deep Learning"
+				],
+			"mail":"uma.cse@sairam.edu.in",
+			"contactNo":"9444244644"
+		},
+		{
+			"guideName":"Mr.S.Vinothkumar",
+			"department":"ECE",
+			"facultyId":"ET20EC02",
+			"specialization":
+				[
+					"Soft Computing",
+					"VLSI Design"
+				],
+			"mail":"vinothkumar.ece@sairam.edu.in",
+			"contactNo":"7092536843"
+		},
+		{
+			"guideName":"Dr.R.Valarmathi",
+			"department":"CSE",
+			"facultyId":"ET02CS01",
+			"specialization":
+				["Data Mining",
+				 "Machine Learning",
+				 "Deep Learning",
+				 "Brain Computer Interface"
+				],
+			"mail":"valarmathi.cse@sairam.edu.in",
+			"contactNo":"9444778710"
+		}
+		
+	]
+}

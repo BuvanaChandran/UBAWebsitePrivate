@@ -1,0 +1,26 @@
+.Points-item a {
+  text-decoration: none;
+  color: var(--primary-blue);
+  font-weight:bold;
+}
+
+.Points-item a:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--secondary-orange);
+}
+
+.Points-item
+{
+	margin:10px auto;
+}
+
+.point-icons
+{
+  transition: all 0.15s ease-in-out;
+  font-weight:bold;
+}
+
+.Points-item a:hover .point-icons
+{
+	transform: translateY(-8px) scale(1.1);
+}

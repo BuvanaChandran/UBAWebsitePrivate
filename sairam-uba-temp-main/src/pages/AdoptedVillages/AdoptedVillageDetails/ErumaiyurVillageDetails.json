@@ -1,0 +1,284 @@
+{
+  "villageName": "Erumaiyur",
+  "villageMapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15554.773099226057!2d80.03510621951663!3d12.927424854156602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f450424e8de3%3A0x3a83b673c55c5fa!2sErumaiyur%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1639040729651!5m2!1sen!2sin",
+  "aboutParagraph": " Erumaiyur village is located in Sriperumbudur Tehsil of Kancheepuram district in Tamil Nadu, India.Kancheepuram and Sriperumbudur are the district & sub-district headquarters of Erumaiyur village respectively. The total geographical area of village is 317.71 hectares. Erumaiyur has a total population of 2,379 peoples. There are about 567 houses in Erumaiyur village. Tambaram is nearest town to Erumaiyur which is approximately 5km away.",
+  "latitude": "12.92939 N",
+  "longitude": "80.04652 E",
+  "basicInformation": [
+    {
+      "contentTitle": "Name of the village",
+      "contentValue": ["Erumaiyur"]
+    },
+    {
+      "contentTitle": "Gram Panchayat",
+      "contentValue": ["Erumaiyur"]
+    },
+    {
+      "contentTitle": "VillageCode",
+      "contentValue": ["629246"]
+    },
+    {
+      "contentTitle": "Number of Wards",
+      "contentValue": []
+    },
+    {
+      "contentTitle": "Block",
+      "contentValue": ["Kunnattur"]
+    },
+    {
+      "contentTitle": "Sub District",
+      "contentValue": ["Kundrathur"]
+    },
+    {
+      "contentTitle": "Sub District Code",
+      "contentValue": ["07057"]
+    },
+    {
+      "contentTitle": "District",
+      "contentValue": ["Kancheepuram"]
+    },
+    {
+      "contentTitle": "District code",
+      "contentValue": ["604"]
+    },
+    {
+      "contentTitle": "State",
+      "contentValue": ["Tamilnadu"]
+    },
+    {
+      "contentTitle": "Lok Sabha / Constituency",
+      "contentValue": ["Sriperumbudur Assembly Constituency"]
+    },
+    {
+      "contentTitle": "Pincode",
+      "contentValue": ["602301"]
+    },
+    {
+      "contentTitle": "Distance from District HQ",
+      "contentValue": ["66 KM"]
+    },
+    {
+      "contentTitle": "Area of village (Hectares)",
+      "contentValue": ["317.71"]
+    },
+    {
+      "contentTitle": "Forest Area (Hectares)",
+      "contentValue": ["56.75 ha"]
+    },
+    {
+      "contentTitle": "Housing / Abadi Area (Acres)",
+      "contentValue": ["567 households"]
+    }
+  ],
+  "amenitiesTables": [
+    {
+      "tableParagraph": "Nearest railway station to Erumaiyur, is Tambaram (3.77km).",
+      "tableHead": ["Railway Station Name", "Distance"],
+      "tableBody": [["Tambaram", "3.77 KM"]]
+    },
+    {
+      "tableParagraph": "Nearest airport is Chennai International Airport (8.18 km).",
+      "tableHead": ["Air Port Name", "Distance"],
+      "tableBody": [["Chennai International Airport", "8.18 KM"]]
+    },
+
+    {
+      "tableParagraph": "Erumaiyur nearest towns : ",
+      "tableHead": ["Nearest Town", "Distance"],
+      "tableBody": [
+        ["Thiruneermalai", "3.5 KM"],
+        ["Tambaram", "5.0 KM"],
+        ["Kundrathur", "5.0 KM"],
+        ["Peerkankaranai", "5.3 KM"],
+        ["Sankarnagar", "5.4 KM"]
+      ]
+    },
+    {
+      "tableParagraph": "Erumaiyur nearest schools : ",
+      "tableHead": ["Nearest Schools", "Distance"],
+      "tableBody": [
+        ["Palanthandalam School", "1.2 KM"],
+        ["Palanthandalam High School", "1.2 KM"],
+        ["R C M High School", "1.9 KM"],
+        ["Chinmaya School", "3.3 KM"],
+        ["Anand S Residence Good Earth School", "3.7 KM"]
+      ]
+    },
+    {
+      "tableParagraph": "Colleges near Erumaiyur : ",
+      "tableHead": ["Nearest Colleges", "Distance"],
+      "tableBody": [
+        ["Sri Sairam Engineering College", "2.8 KM"],
+        ["Sri Sairam Institute of Technology", "2.8 KM"],
+        ["Sri Sairam Homeopathy Medical College", "2.8 KM"],
+        ["Dhanalakshmi College of Engineering", "0.2 KM"]
+      ]
+    },
+    {
+      "tableParagraph": "Hospitals near Erumaiyur : ",
+      "tableHead": ["Nearest Hospitals", "Distance"],
+      "tableBody": [
+        ["Annai Arul Hospitals (Perungalathoor)", "8.2 KM"],
+        ["Government Hospital (Somangalam)", "3.5 KM"],
+        ["Sudar Hospitals (Tambaram)", "11.8 KM"]
+      ]
+    }
+  ],
+  "censusTableDetails": {
+    "tableParagraph": "Census Data of Village Erumaiyur, District Kancheepuram, India Census 2011",
+    "tableHead": [
+      "Population",
+      "Area (Ha)",
+      "Density (P/Ha)",
+      "Sex Ratio",
+      "Literacy"
+    ],
+    "tableBody": [["2379", "317.71", "7", "968", "78.42%"]]
+  },
+  "censusGroupTables": [
+    {
+      "heading": "Erumaiyur Village Census 2011 Data Census 2011",
+      "tableHead": ["Description", "Census 2011 Data"],
+      "tableBody": [
+        ["Village Name", "Erumaiyur"],
+        ["Taluk Name", "Sriperumbudur"],
+        ["District Name", "Kancheepuram"],
+        ["State Name", "Tamil Nadu"],
+        ["Total Population", "3367"],
+        ["Total Area", "317.71 hectares"],
+        ["Total No of House Holds", "567"],
+        ["Total Male Population", "1711"],
+        ["Total Female Population", "1656"],
+        ["0-6 Age group Total Population", "266"],
+        ["0-6 Age group Male Population", "138"],
+        ["0-6 Age group Female Population", "128"],
+        ["Total Person Literates", "1657"],
+        ["Total Male Literates", "916"],
+        ["Total Male Literates", "741"],
+        ["Total Person Illiterates", "722"],
+        ["Total Male Illiterates", "293"],
+        ["Total Male Illiterates", "429"],
+        ["Scheduled Cast Persons", "1471"],
+        ["Scheduled Cast Males", "729"],
+        ["Scheduled Cast Females", "742"],
+        ["Scheduled Tribe Persons", "0"],
+        ["Scheduled Tribe Males", "0"],
+        ["Scheduled Tribe Females", "0"]
+      ]
+    },
+    {
+      "heading": "Erumaiyur Working Population Census 2011",
+      "tableHead": ["Worker Type", "Total", "Male", "Female"],
+      "tableBody": [
+        ["Total Workers", "1151", "730", "421"],
+        ["Main Workers", "862", "571", "291"],
+        ["Main Workers Cultivators", "74", "40", "34"],
+        ["Agriculture Labourer", "175", "112", "63"],
+        ["HouseHold Industries", "11", "8", "3"],
+        ["Other Workers", "602", "411", "191"],
+        ["Marginal Workers", "289", "159", "130"],
+        ["Non Working Persons", "1228", "479", "749"]
+      ]
+    },
+    {
+      "heading": "Erumaiyur Village Data - Census 2011",
+      "tableHead": ["Description", "Data"],
+      "tableBody": [
+        ["Village Name", "Erumaiyur"],
+        ["Gram Panchayat Name", "Erumaiyur"],
+        ["CD Block Name", "Kunnattur"],
+        ["Teshil Name", "Sriperumbudur"],
+        ["Reference Year", "2009"],
+        ["Sub District HQ Name", "SRIPERUMBUDUR"],
+        ["Sub District HQ Distance", "21 Km"],
+        ["District HQ Name", "KANCHEEPURAM"],
+        ["District HQ Distance", "66 Km"],
+        ["Nearest Town", "TAMBARAM"],
+        ["Nearest Town Distance", "5 Km"],
+        ["Pincode", "600044"]
+      ]
+    },
+    {
+      "heading": "Erumaiyur Manufacturers and Agricultural Commodities Data",
+      "tableHead": ["Description Type", "Commodities"],
+      "tableBody": [
+        ["Agricultural Commodities (First)", "N/A"],
+        ["Manufacturers Commodities (First)", "N/A"],
+        ["Forest Area (in Hectares)", "56.75"]
+      ]
+    }
+  ],
+  "censuslink": "https://etrace.in/census/village/erumaiyur-sriperumbudur-district-kancheepuram-tamil-nadu-629246",
+  "censusParagraphDetails": [
+    {
+      "paragraphHeading": "",
+      "paragraphDetails": "Gram Panchayat name of the Erumaiyur village is Erumaiyur. CD Block name is Kunnattur and Teshil/Taluk or sub-district is Sriperumbudur. Data Reference year is 2009 of Census 2011. Sub District HQ Name is SRIPERUMBUDUR and Sub District HQ Distance is 21 Km from the village. District Head Quarter name is KANCHEEPURAM and it’s distance from the village is 66KM. Nearest Town of the Erumaiyur village is TAMBARAM and nearest town distance is 5 km. Pincode of Erumaiyur village is 600044. As per census 2011 village code of village Erumaiyur is 629246."
+    },
+    {
+      "paragraphHeading": "Sex Ratio of Erumaiyur Village -Census 2011",
+      "paragraphDetails": "As per the Census Data 2011 there are 968 Femals per 1000 males out of 2379 total population of village. There are 928 girls per 1000 boys under 6 years of age in the village."
+    },
+    {
+      "paragraphHeading": "Literacy of Erumaiyur Village",
+      "paragraphDetails": "Out of total poplation total 1657 people in Erumaiyur Village are literate, among them 916 are male and 741 are female in the village. Total literacy rate of of Erumaiyur is 78.42%, for male literacy is 85.53% and for female literacy rate is 71.11%."
+    },
+    {
+      "paragraphHeading": "Workers profile of Erumaiyur Village",
+      "paragraphDetails": "Total working population of Erumaiyur is 1151 which are either main or marginal workers. Total workers in the village are 1151 out of which 730 are male and 421 are female. Total main workers are 862 out of which female main workers are 571 and male main workers are 291. Total marginal workers of village are 289."
+    }
+  ],
+  "otherDetails": [
+    {
+      "title": "Habitations in Erumaiyur",
+      "points": [
+        {
+          "content": "Government Hospital Somangalam",
+          "link": ""
+        },
+        {
+          "content": "Rajagopala kandigai",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "title": "Government Hospitals near Erumaiyur",
+      "points": [
+        {
+          "content": "Government Hospital Somangalam",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "title": "Banks near Erumaiyur",
+      "points": [{ "content": "State Bank of India, Pazhanthandalam Branch", "link": "" }]
+    },
+    {
+      "title": "Schools near Erumaiyur",
+      "points": [
+        {
+          "content": "CSI (Aided) PS, Erumaiyur",
+          "link": ""
+        },
+        {
+          "content": "Sairam Matric School, Poonthandalam",
+          "link": "http://tbm.sairamschool.edu.in/"
+        }
+      ]
+    },
+    {
+      "title": "Colleges Near Erumaiyur",
+      "points": [
+        {
+          "content": "Sri Sai Ram Institute of Technology",
+          "link": "https://sairamit.edu.in/"
+        },
+        {
+          "content": "Sri Sai Ram Engineering College",
+          "link": "https://sairam.edu.in/"
+        }
+      ]
+    }
+  ]
+}

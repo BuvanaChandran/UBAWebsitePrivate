@@ -1,0 +1,515 @@
+{
+	"villageName":"Pazhanthandalam",
+	"villageMapLink":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15552.636787322444!2d80.06986297780213!3d12.96166305379729!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f54051a9cbaf%3A0x50d15d087127f798!2sPazhanthandalam%2C%20Tamil%20Nadu%20602109!5e0!3m2!1sen!2sin!4v1639109053874!5m2!1sen!2sin",
+	"aboutParagraph":"The village Pazhanthandalam is located in Kundrathur Taluk of Kanchipuram District in the State of Taminadu in India. It is governed by Pazhanthandalam Gram Panchayat. It comes under Kunnattur Community Development Block. The nearest town is Pallavaram, which is about 7 kilometers away from Pazhanthandalam.",
+	"latitude":"12.965 N",
+	"longitude":"80.078 E",
+	"basicInformation":[
+		{
+			"contentTitle":"Name of the village",
+			"contentValue":["Pazhanthandalam"]
+		},
+		{
+			"contentTitle":"Gram Panchayat",
+			"contentValue":["Pazhanthandalam"]
+		},
+		{
+			"contentTitle":"VillageCode",
+			"contentValue":["629244"]
+		},
+		{
+			"contentTitle":"Block",
+			"contentValue":["Kundrathur"]
+		},
+		{
+			"contentTitle":"Sub District",
+			"contentValue":["Kundrathur"]
+		},
+		{
+			"contentTitle":"Sub District Code",
+			"contentValue":["07057"]
+		},
+		{
+			"contentTitle":"District",
+			"contentValue":["Kancheepuram"]
+		},
+		{
+			"contentTitle":"District code",
+			"contentValue":["604"]
+		},
+		{
+			"contentTitle":"State",
+			"contentValue":["Tamilnadu"]
+		},
+		{
+			"contentTitle":"Lok Sabha / Constituency",
+			"contentValue":["Sriperumpudur"]
+		},
+		{
+			"contentTitle":"Pincode",
+			"contentValue":["600044"]
+		},
+		{
+			"contentTitle":"Distance from District HQ",
+			"contentValue":["45 KM"]
+		},
+		{
+			"contentTitle":"Area of village (Acres)",
+			"contentValue":["1308.84"]
+		},
+		{
+			"contentTitle":"Arable land agriculture Area (Hectares)",
+			"contentValue":["Total sown/agricultural area is 186.14 ha",
+							" 186.14 ha -un-irrigated area", 
+							"11.79 ha - irrigated area",
+							"174.35 ha - irrigated by waerfalls"
+							]
+		},
+		{
+			"contentTitle":"Forest Area (Hectares)",
+			"contentValue":["26.14 ha -permanent pastures and grazing lands."]
+		},
+		{
+			"contentTitle":"Housing / Abadi Area (Hectares)",
+			"contentValue":["79.98 ha - non-agricultural use."]
+		},
+		{
+			"contentTitle":"Common Lands Area (Hectares)",
+			"contentValue":["0.06 ha is lying as current fallow area",
+							"52.2 ha - culturable waste land",
+							"170.89 ha -fallow land other than current fallows."]
+		}
+		
+		],
+	"amenitiesTables":
+	[
+	{
+		"tableParagraph":"Pazhanthandalam nearest Railway Station",
+		"tableHead":[
+				"Railway Station Name",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Tambaram railway station",
+				"10.2 KM"
+			],
+			[
+				"Tambaram Sanatorium railway station",
+				"11.5 KM"
+			],
+			[
+				"Chromepet railway station",
+				"9.8 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Pazhanthandalam nearest Airports",
+		"tableHead":[
+				"Air Port Name",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Tambaram Air Force Station",
+				"16 KM"
+			],
+			[
+				"Chennai International Airport",
+				"11 KM"
+			],
+			[
+				"New Chennai International Airport",
+				"11 KM"
+			]
+		]
+	},
+	
+	{
+		"tableParagraph":"Pazhanthandalam nearest villages",
+		"tableHead":[
+				"Nearest Town",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Pallavaram",
+				"7 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Pazhanthandalam nearest schools",
+		"tableHead":[
+				"Nearest Schools",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Bethel Nursery And Primary School",
+				"0.5 KM"
+			],
+			[
+				"Govt Higher Secondary School-Pazhanthandalam",
+				"0.5 KM"
+			],
+			[
+				"Goverment School-Erumaiyur",
+				"0.6 KM"
+			],
+			[
+				"Sri Balaji Nusery & Primary School",
+				"0.7 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Colleges near Pazhanthandalam : ",
+		"tableHead":[
+				"Nearest Colleges",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Sri Sairam Engineering College",
+				"3.5 KM"
+			],
+			[
+				"Sri Sairam Institute of technology",
+				"3.5 KM"
+			],
+			[
+				"Sri Sairam Siddha Medical College",
+				"3.5 KM"
+			],
+			[
+				"Sri Sairam Ayurvedha Medical college",
+				"3.5 KM"
+			],
+			[
+				"Sri Sairam Polytechnic college",
+				"3.5 KM"
+			],
+			[
+				"Dhanalakshmi College of Engineering",
+				"9.7 KM"
+			],
+			[
+				"Madha College of Engineering",
+				"4.7 KM"
+			],
+			[
+				"Chennai Institute of Technology",
+				"10.6 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Hospitals near Pazhanthandalam : ",
+		"tableHead":[
+				"Nearest Hospitals",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Samyktha Hospial",
+				"37.8 KM"
+			],
+			[
+				"Annai Arul Hospital",
+				"9 KM"
+			],
+			[
+				"Mano Hospital",
+				"8 KM"
+			]
+		]
+	}],
+  "censusTableDetails":{
+  		"tableParagraph":"Census Data of Pazhanthandalam, India Census 2011",
+		"tableHead":[
+				"Population",
+				"Area (Acres)",
+				"Density (P/Ha)",
+				"Sex Ratio",
+				"Literacy"
+			],
+		"tableBody":[
+			[
+				"4777",
+				"1308.84",
+				"9",
+				"1009",
+				"81.91 %"
+			]
+		]
+  },
+  "censusGroupTables":[
+  {
+  		"heading":"Pazhanthandalam Census 2011 Data Census 2011",
+		"tableHead":[
+				"Description",
+				"Census 2011 Data"
+			],
+		"tableBody":[
+			[
+				"Village Name",
+				"Pazhanthandalam"
+			],
+			[
+				"Taluk Name",
+				"Sriperumpudur"
+			],
+			[
+				"District Name",
+				"Kancheepuram"
+			],
+			[
+				"State Name",
+				"Tamilnadu"
+			],
+			[
+				"Total Population",
+				"4777"
+			],
+			[
+				"Total Area",
+				"1308.84 acres"
+			],
+			[
+				"Total No of House Holds",
+				"1189"
+			],
+			[
+				"Total Male Population",
+				"2378"
+			],
+			[
+				"Total Female Population",
+				"2399"
+			],
+			[
+				"0-6 Age group Total Population",
+				"565"
+			],
+			[
+				"0-6 Age group Male Population",
+				"281"
+			],
+			[
+				"0-6 Age group Female Population",
+				"284"
+			],
+			[
+				"Total Person Literates",
+				"3450"
+			],
+			[
+				"Total Male Literates",
+				"1853"
+			],
+			[
+				"Total Female Literates",
+				"1597"
+			],
+			[
+				"Total Person Illiterates",
+				"1327"
+			],
+			[
+				"Total Male Illiterates",
+				"525"
+			],
+			[
+				"Total Female Illiterates",
+				"802"
+			],
+			[
+				"Scheduled Cast Persons",
+				"1946"
+			],
+			[
+				"Scheduled Cast Males",
+				"971"
+			],
+			[
+				"Scheduled Cast Females",
+				"975"
+			],
+			[
+				"Scheduled Tribe Persons",
+				"157"
+			],
+			[
+				"Scheduled Tribe Males",
+				"140"
+			],
+			[
+				"Scheduled Tribe Females",
+				"157"
+			]
+		]
+  },
+  {
+  		"heading":"Nallur Working Population Census 2011",
+		"tableHead":[
+				"Worker Type",
+				"Total",
+				"Male",
+				"Female"
+			],
+		"tableBody":[
+			[
+				"Total Workers",
+				"1666",
+				"1364",
+				"302"
+			],
+			[
+				"Main Workers",
+				"1431",
+				"1204",
+				"227"
+			],
+			[
+				"Main Workers Cultivators",
+				"64",
+				"62",
+				"2"
+			],
+			[
+				"Agriculture Labourer",
+				"286",
+				"247",
+				"39"
+			],
+			[
+				"HouseHold Industries",
+				"29",
+				"15",
+				"14"
+			],
+			[
+				"Other Workers",
+				"1052",
+				"880",
+				"172"
+			],
+			[
+				"Marginal Workers",
+				"235",
+				"160",
+				"75"
+			],
+			[
+				"Non Working Persons",
+				"3111",
+				"1014",
+				"2097"
+			]
+		]
+  },
+  {
+  		"heading":"Pazhanthandalam Commodities Census 2011",
+		"tableHead":[
+				"Description Type",
+				"Commodities"
+			],
+		"tableBody":[
+			[
+				"Agricultural Commodities (First)",
+				"PADDY"
+			],
+			[
+				"Manufacturers Commodities (First)",
+				"N/A"
+			]
+			
+		]
+  }
+  ],
+  "censuslink":"https://etrace.in/census/village/pazhanthandalam-sriperumbudur-district-kancheepuram-tamil-nadu-629244",
+  "censusParagraphDetails":[
+  	{
+  		"paragraphHeading":"",
+  		"paragraphDetails":"Gram Panchayat name of the Pazhanthandalam village is Pazhanthandalam. CD Block name is Kunnattur and Teshil/Taluk or sub-district is Sriperumbudur. Data Reference year is 2009 of Census 2011. Sub District HQ Name is SRIPERUMBUDUR and Sub District HQ Distance is 20 Km from the village. District Head Quarter name is KANCHEEPURAM and it’s distance from the village is 50KM. Nearest Town of the Pazhanthandalam village is PALLAVARAM and nearest town distance is 7 km. Pincode of Pazhanthandalam village is 600044. As per census 2011 village code of village Pazhanthandalam is 629244."
+  	},
+  	{
+  		"paragraphHeading":"Sex Ratio of Pazhanthandalam Village -Census 2011",
+  		"paragraphDetails":"As per the Census Data 2011 there are 1009 Femals per 1000 males out of 4777 total population of village. There are 1011 girls per 1000 boys under 6 years of age in the village."
+  	},
+  	{
+  		"paragraphHeading":"Literacy of Pazhanthandalam Village",
+  		"paragraphDetails":"Out of total poplation total 3450 people in Pazhanthandalam Village are literate, among them 1853 are male and 1597 are female in the village. Total literacy rate of of Pazhanthandalam is 81.91%, for male literacy is 88.36% and for female literacy rate is 75.51%"
+  	},
+  	{
+  		"paragraphHeading":"Workers profile of Pazhanthandalam Village",
+  		"paragraphDetails":"Total working population of Pazhanthandalam is 1666 which are either main or marginal workers. Total workers in the village are 1666 out of which 1364 are male and 302 are female. Total main workers are 1431 out of which female main workers are 1204 and male main workers are 227. Total marginal workers of village are 235."
+  	}
+  ],
+  "otherDetails": [
+    {
+      "title": "Habitations in Pazhanthandalam",
+      "points": [
+        {
+          "content": "Pillaipakkam",
+          "link": ""
+        },
+        {
+          "content": "Vengadu",
+          "link": ""
+        },
+        {
+          "content": "Irumbedu",
+          "link": ""
+        },
+        {
+          "content": "Somangalam",
+          "link": ""
+        },
+        {
+          "content": "Poonthandalam",
+          "link": ""
+        },
+        {
+          "content": "Thirumudivakkam",
+          "link": ""
+        },
+        {
+          "content": "Erumaiyur",
+          "link": ""
+        }
+        
+      ]
+    },
+    {
+      "title": "Banks near Pazhanthandalam",
+      "points": [
+        { "content": "City Union Bank, Poonthandalam Branch", "link": "" }
+      ]
+    },
+    {
+      "title": "Schools in Pazhanthandalam",
+      "points": [
+        {
+          "content": "Sairam Matric School, Poonthandalam",
+          "link": "http://tbm.sairamschool.edu.in/"
+        }
+      ]
+    },
+    {
+      "title": "Colleges in Pazhanthandalam",
+      "points": [
+        {
+          "content": "Sri Sai Ram Institute of Technology",
+          "link": "https://sairamit.edu.in/"
+        },
+        {
+          "content": "Sri Sai Ram Engineering College",
+          "link": "https://sairam.edu.in/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,711 @@
+{
+  "events": {
+    "SEC": [
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "She Fest 2.0",
+        "description": "Unleash your inner boss babe at She Fest 2.0, where we're empowering women to break barriers and become successful entrepreneurs!",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2023-03-20",
+        "eventDate": {
+          "date": "2023-03-20",
+          "time": "10:00 AM"
+        },
+        "images":[
+          {"src":"/images/event-images/she-0.webp",
+          "type":"vertical-img"
+         },
+        		 {"src":"/images/event-images/she-1.webp",
+        		  "type":"vertical-img"
+        		 },
+             {"src":"/images/event-images/she-2.webp",
+             "type":"vertical-img"
+            },
+            {"src":"/images/event-images/she-3.webp",
+             "type":"vertical-img"
+            },
+            {"src":"/images/event-images/she-4.webp",
+             "type":"vertical-img"
+            }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "I2I",
+        "description": "Relive the excitement of I2I, where UBA students gained valuable insight into IEEE EPICS and SIGHT project proposals, and learned how IEEE project funding can bring their ideas to life!",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2023-02-20",
+        "eventDate": {
+          "date": "2023-02-20",
+          "time": "1:30 PM"
+        },
+        "images":[
+        		 {"src":"/images/event-images/i2i - 1.webp",
+        		  "type":"vertical-img"
+        		 },
+             {"src":"/images/event-images/i2i - 2.webp",
+             "type":"vertical-img"
+            },
+            {"src":"/images/event-images/i2i -3.webp",
+             "type":"vertical-img"
+            },
+            {"src":"/images/event-images/i2i - 4.webp",
+             "type":"vertical-img"
+            }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "Ignite To Inspire 3.0",
+        "description": "Ignite to Inspire was a massive success as it provided the perfect orientation for the 2k26 batch of UBA students. The event centered on UBA norms and forms, giving the new students a comprehensive understanding of the institution's guidelines. A simple yet meaningful senior-junior interaction allowed the students to build connections and feel a sense of belonging within the UBA community",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2023-02-06",
+        "eventDate": {
+          "date": "2023-02-06",
+          "time": "9:30 AM"
+        },
+        "images":[
+        		 {"src":"/images/event-images/img 1.webp",
+        		  "type":"vertical-img"
+        		 },
+             {"src":"/images/event-images/img 2.webp",
+             "type":"vertical-img"
+            },
+            {"src":"/images/event-images/img 3.webp",
+             "type":"vertical-img"
+            },
+            {"src":"/images/event-images/img 4.webp",
+             "type":"vertical-img"
+            }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "Hygiene Hydro",
+        "description": "Hygiene Hydro has officially launched via which we have brought clean drinking water to villages through our revolutionary purifier. Our team of innovators and technologists have made it possible to convert impure water to pure water, making it accessible to all",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2023-01-10",
+        "eventDate": {
+          "date": "2023-01-10",
+          "time": "10:00 AM"
+        },
+        "images":[
+        		 {"src":"/images/event-images/hac.webp",
+        		  "type":"vertical-img"
+        		 }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "Palm Seed",
+        "description": "The Palm Seed Plantation event was a huge success as we focused on planting over 500 palm seeds near the lakes to promote a sustainable economy and pollution-free environment in the upcoming years. With the help of enthusiastic volunteers and local organizations, we were able to plant and nurture the seeds in the most suitable areas, ensuring a high survival rate. The event was a step towards a greener future, and we are proud to have contributed to the cause.",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2022-12-19",
+        "eventDate": {
+          "date": "2022-12-19",
+          "time": "10:00 AM"
+        },
+        "images":[
+          {"src":"/images/event-images/PS-0.webp",
+          "type":"vertical-img"
+         },
+        		 {"src":"/images/event-images/PS-1.webp",
+        		  "type":"vertical-img"
+        		 },
+             {"src":"/images/event-images/PS-2.webp",
+             "type":"vertical-img"
+            },
+            {"src":"/images/event-images/PS-3.webp",
+             "type":"vertical-img"
+            }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "UBA Day",
+        "description": "AGNII was a grand celebration of UBA Day as we organized nearly four different events to showcase the incredible skills of our students. From cultural performances to technical exhibitions, our students put their best foot forward and amazed the audience with their talent and creativity. The event brought together the entire UBA community, and everyone had a great time celebrating and appreciating the diverse range of skills displayed by the students. It was a wonderful day filled with memories",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2022-11-18",
+        "eventDate": {
+          "date": "2022-11-18",
+          "time": "9:30 AM"
+        },
+        "images":[
+        		 {"src":"/images/event-images/ud 1.webp",
+        		  "type":"vertical-img"
+        		 },
+             {"src":"/images/event-images/ud 2.webp",
+             "type":"vertical-img"
+            },
+            {"src":"/images/event-images/ud 3.webp",
+             "type":"vertical-img"
+            },
+            {"src":"/images/event-images/ud 4.webp",
+             "type":"vertical-img"
+            }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "Kuthambakkam - Smart Village Thiruvallur",
+        "description": "The Kuthambakkam Village Visit was an eye-opening experience as we got to witness the incredible initiatives taken by Mr. Elangovan, the village president, to transform a rural village into a smart village. From providing education to underprivileged children to creating job opportunities for the villagers, Mr. Elangovan has been instrumental in bringing positive change to the community. It is our immense pleasure to share that, Mr. Elangovan was the assistant of the former president Dr. APJ Abdul Kalam during his serving period.During our visit, we were able to see firsthand the various activities and projects that have been implemented, including solar-powered street lights, biogas plants, and water conservation systems. It was inspiring to see how these efforts have not only improved the living conditions of the villagers but also boosted the economy of the entire community",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2022-10-08",
+        "eventDate": {
+          "date": "2022-10-08",
+          "time": "10:00 PM"
+        },
+        "images":[
+        		 {"src":"/images/event-images/vv1.webp",
+        		  "type":"vertical-img"
+        		 },
+             {"src":"/images/event-images/vv2.webp",
+             "type":"vertical-img"
+            }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "Grama Sabha Meeting",
+        "description": "The Village Grahm Sabha event was a great success as the staff and students of UBA actively participated in discussions with the villagers to understand the problems faced by them and come up with engineering solutions to address them. The event was aimed at promoting community engagement and finding sustainable solutions to the issues faced by the village. The discussions revolved around topics such as access to clean water, electricity, and healthcare. The students and staff presented innovative ideas and solutions that could help improve the quality of life in the village. It was a great opportunity for everyone to learn from each other and collaborate towards a common goal",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2022-10-08",
+        "eventDate": {
+          "date": "2022-10-08",
+          "time": "10:00 AM"
+        },
+        "images":[
+        		 {"src":"/images/event-images/gsm-1.webp",
+        		  "type":"vertical-img"
+        		 },
+             {"src":"/images/event-images/gsm-2.webp",
+             "type":"vertical-img"
+            },
+            {"src":"/images/event-images/gsm-3.webp",
+             "type":"vertical-img"
+            },
+            {"src":"/images/event-images/gsm-4.webp",
+             "type":"vertical-img"
+            }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "Sanitation Saviour",
+        "description": "",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2022-10-08",
+        "eventDate": {
+          "date": "2022-10-08",
+          "time": "10:30 AM"
+        },
+        "images":[
+        		 {"src":"/images/event-images/PT1.webp",
+        		  "type":"vertical-img"
+        		 },
+             {"src":"/images/event-images/PT2.webp",
+             "type":"vertical-img"
+            }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "Constitution Day",
+        "description": "The students have taken pledge towards the constitutional rights and have issued certificate for the same",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2022-11-26",
+        "eventDate": {
+          "date": "2022-11-26",
+          "time": "10:30 AM"
+        },
+        "images":[
+        		 {"src":"/images/event-images/National constitution day 22.webp",
+        		  "type":"vertical-img"
+        		 },
+        		 {"src":"/images/event-images/certificate constitution day pledge.webp",
+        		  "type":"vertical-img"
+        		 }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "Inspire to Ignite 2.0",
+        "description": "A Senior - Junior UBAian conclave. 300 first year UBA students & 30 Senior UBA students participated.",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2022-05-23",
+        "eventDate": {
+          "date": "2022-05-23",
+          "time": "09:30 AM"
+        },
+        "images":[
+        		 {"src":"/images/event-images/Inspire_to_Ignite_2.0_1.webp",
+        		  "type":"horizontal-img"
+        		 },
+        		 {"src":"/images/event-images/Inspire_to_Ignite_2.0_2.webp",
+        		  "type":"horizontal-img"
+        		 },
+             {"src":"/images/event-images/Inspire_to_Ignite_2.0_3.webp",
+        		  "type":"horizontal-img"
+        		 },
+        		 {"src":"/images/event-images/Inspire_to_Ignite_2.0_4.webp",
+        		  "type":"horizontal-img"
+        		 }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "ENVISION 2030 - A march-past towards SDGs",
+        "description": "Address By Mr Sampathkumar Veeraraghavan IEEE HAC - Global president. 250 UBA students participated.",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2022-04-12",
+        "eventDate": {
+          "date": "2022-04-12",
+          "time": "09:30 AM"
+        },
+        "images":[
+        		 {"src":"/images/event-images/ENVISION_2030-A_marchpast_towards_SDGs_1.webp",
+        		  "type":"horizontal-img"
+        		 },
+        		 {"src":"/images/event-images/ENVISION_2030-A_marchpast_towards_SDGs_2.webp",
+        		  "type":"horizontal-img"
+        		 }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "World Water Day Challenge",
+        "description": "World water day challenge in association with IGEN.",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2022-04-06",
+        "eventDate": {
+          "date": "2022-04-06",
+          "time": "07:00 PM"
+        },
+        "images":[
+        		 {"src":"/images/event-images/World_water_day_challenge_in_association_with_IGEN_1.webp",
+        		  "type":"vertical-long-img"
+        		 },
+        		 {"src":"/images/event-images/World_water_day_challenge_in_association_with_IGEN_2.webp",
+        		  "type":"vertical-long-img"
+        		 }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "e-Shram - Special Campaign",
+        "description": "(Ministry of labour & Employment). Welfare activity for workers of unorganized sector.",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2022-03-30",
+        "eventDate": {
+          "date": "2022-03-30",
+          "time": "09:30 AM"
+        },
+        "images":[
+        		 {"src":"/images/event-images/eshram-special_campaign_1.webp",
+        		  "type":"vertical-long-img"
+        		 },
+        		 {"src":"/images/event-images/eshram-special_campaign_2.webp",
+        		  "type":"horizontal-img"
+        		 },
+             {"src":"/images/event-images/eshram-special_campaign_3.webp",
+             "type":"vertical-img"
+             }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "UBA She Fest",
+        "description": "One day workshop to RULE TOMORROW - discover entrepreneur Opportunities in converting ‘Waste to Resources’. 350 UBA Students participated.",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2022-03-25",
+        "eventDate": {
+          "date": "2022-03-25",
+          "time": "09:30 AM"
+        },
+        "images":[
+        		 {"src":"/images/event-images/UBA_She_Fest_1.webp",
+        		  "type":"horizontal-img"
+        		 },
+        		 {"src":"/images/event-images/UBA_She_Fest_2.webp",
+        		  "type":"horizontal-img"
+        		 }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "Website Launch",
+        "description": "The official website of Unnat Bharat Abhiyan is been launched",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2020-03-03",
+        "eventDate": {
+          "date": "2020-03-03",
+          "time": "06:30 PM"
+        },
+        "images":[
+        		 {"src":"/images/event-images/website launch.webp",
+        		  "type":"vertical-img"
+        		 }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "Pradhan Mandhri Awas Yojana",
+        "description": "(Ministry of Housing and Urban affairs). House marking scheme. 45 first year civil students participated.",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2022-02-11",
+        "eventDate": {
+          "date": "2022-02-11",
+          "time": "09:30 AM"
+        },
+        "images":[
+        		 {"src":"/images/event-images/Pradhan_Mandhri_Awas_Yojana_1.webp",
+        		  "type":"horizontal-img"
+        		 },
+        		 {"src":"/images/event-images/Pradhan_Mandhri_Awas_Yojana_2.webp",
+        		  "type":"horizontal-img"
+        		 },
+             {"src":"/images/event-images/Pradhan_Mandhri_Awas_Yojana_3.webp",
+        		  "type":"horizontal-img"
+        		 }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "Walk Through UBA",
+        "description": "The pre-orientation session which focussed on welcoming the first years and making them to learn about the UBA adopted villages follwed by Senior Junior Interaction.",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2022-01-05",
+        "eventDate": {
+          "date": "2022-01-05",
+          "time": "07:00 PM"
+        },
+        "images":[
+        		 {"src":"/images/event-images/UBA 1.webp",
+        		  "type":"horizontal-img"
+        		 },
+             {"src":"/images/event-images/UBA 4.webp",
+             "type":"horizontal-img"
+            }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "Website Launch",
+        "description": "The official website of Unnat Bharat Abhiyan is been launched",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2020-03-03",
+        "eventDate": {
+          "date": "2020-03-03",
+          "time": "06:30 PM"
+        },
+        "images":[
+        		 {"src":"/images/event-images/substainable_development_1.webp",
+        		  "type":"vertical-img"
+        		 },
+        		 {"src":"/images/event-images/substainable_development_2.webp",
+        		  "type":"vertical-img"
+        		 }
+        		 ],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "Organic Composite Campaign",
+        "description": "Students of UBA sairam organized this campaign on recollecting thoughts of former president Dr APJ Abdul Kalam,from 27.7 2020 to 2.8.2020 (7days). Aroung 700 educational institutions are invited among 215 were participated including IITs , NITs & our own Sairam students. A institution certificate was distributed. Campaign and The poster was displayed in National website of UBA, New Delhi.",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2020-07-27",
+        "eventDate": {
+          "date": "2020-07-27",
+          "time": "09:30 AM"
+        },
+        "images":[{"src": "/images/event-images/organic_composite_campaign.webp",
+        		 "type":"vertical-long-img"
+        		 }],
+        		 
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "Tree Plantation Campaign",
+        "description": "According to the vision & mission of Dr.A.P.J.Abdul Kalam, On his 5th remembrance day, our Chairman & CEO Shri. Sai Prakash LeoMuthu and CIO Mr.Naresh Raj along with our Professors, Teachers and Staffs inaugurated a massive tree plantation camp.Over 200 saplings were planted successfully as a honor and tribute to our Students icon Dr.A.P.J.Abdul Kalam.",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2020-01-25",
+        "eventDate": {
+          "date": "2020-01-25",
+          "time": "09:30 AM"
+        },
+        "images": [{"src":"/images/event-images/tree_plantation_campaign.webp",
+        			"type":"horizontal-img"
+        		  }],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "Rural Development Camp",
+        "description": "We are extremely happy to extend our helping hands towards the village “Naduveerappattu”. By sponsoring the exemplary needs like computer, printer, scanner and all accessories to the village Women Self Help Group (SHG) and also training were given for the rural people regarding the latest trends of technology .We take immense glory to do this for an upliftment of the village administration.",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2020-01-25",
+        "eventDate": {
+          "date": "2020-01-25",
+          "time": "09:30 AM"
+        },
+        "images":[{"src": "/images/event-images/rural_development.webp",
+        		 "type":"horizontal-img"
+        		 }],
+        		 
+        "register": ""
+      },
+     
+      {
+        "breadCrumbLink": "SEC / Events",
+        "type":"events",
+        "title": "Save Energy Campaign",
+        "description": "The students of UBA and staff members of research department have designed and installed a solar paneled electricity saving system at Somangalam village. Students have worked in construction of panel stage, welding frames, installation of instrument and meter & wiring.It happened from 1/2/2020 to 5/2/2020.",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2020-01-02",
+        "eventDate": {
+          "date": "2020-01-02",
+          "time": "09:30 AM"
+        },
+        "images":[{"src": "/images/event-images/save_energy_campaign.webp",
+        		 "type":"horizontal-img"
+        		 }],
+        		 
+        "register": ""
+      }
+     
+    ],
+    "SIT": [
+      {
+        "breadCrumbLink": "SIT / Events",
+        "type":"events",
+        "title": "Orientation for First Year UBA Students",
+        "description": "Around 125 first year UBA students have participated.",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2022-05-24",
+        "eventDate": {
+          "date": "2022-05-24",
+          "time": "09:30 AM"
+        },
+        "images":[
+        		{
+        			"src": "/images/event-images/orientation_for_first_year_UBA_students_1.webp",
+        			"type":"horizontal-img"
+        		},
+            {
+        			"src": "/images/event-images/orientation_for_first_year_UBA_students_2.webp",
+        			"type":"horizontal-img"
+        		},
+            {
+        			"src": "/images/event-images/orientation_for_first_year_UBA_students_3.webp",
+        			"type":"horizontal-img"
+        		}
+        		],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SIT / Events",
+        "type":"events",
+        "title": "Tree Plantation",
+        "description": "\"Trees for the Future\" Earth Day was observed on 22/04/2022 by our UBA Volunteers. Ms.V.UMA, Scientist \"F\", CVRDE, Avadi planted a tree sapling in our Sri Sai Ram Institute of Technology Campus.",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2022-04-22",
+        "eventDate": {
+          "date": "2022-04-22",
+          "time": "09:30 AM"
+        },
+        "images":[
+        		{
+        			"src": "/images/event-images/tree_plantation_1.webp",
+        			"type":"horizontal-img"
+        		}
+        		],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SIT / Events",
+        "type":"events",
+        "title": "Gramodaya 2022 Global Village Conclave",
+        "description": "Mr.P.Rathinavelu, S.Bharath Ganesh & S.Harishkandan of II Year SIT Mechanical Engineering participated in Gramodaya 2022 Global Village Conclave @ IIT Delhi under Ideas for Waste Management category. The team has won the first place cash award Rs 10000 under this category. 24-25th January 2022.",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2022-01-25",
+        "eventDate": {
+          "date": "2022-01-24",
+          "time": "09:30 AM"
+        },
+        "images":[
+        		{
+        			"src": "/images/event-images/gramodaya_2022_global_village_conclave_1.webp",
+        			"type":"horizontal-img"
+        		}
+        		],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SIT / Events",
+        "type":"events",
+        "title": "Plastic Awareness Rally",
+        "description": "We, Unnat Bharath Abhiyan conducted a rally on Plastic Awareness Campaign at Erumaiyur and Pazhanthandalam villages to create awareness among people on 17th September 2019. More than 50 students and 10 staff members involved in this.",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2019-09-17",
+        "eventDate": {
+          "date": "2019-09-17",
+          "time": "09:30 AM"
+        },
+        "images": [{"src":"/images/event-images/plastic_awareness_rally.webp",
+        		   "type":"horizontal-img"
+        		   }],
+        "register": ""
+      },
+      {
+        "breadCrumbLink": "SIT / Events",
+        "type":"events",
+        "title": "Village Survey Program",
+        "description": "More than 50 students and 10 teaching and non teaching staff members conducted survey from adopted villages Erumaiyur, Rajagopal Kandigai, Pazhanthandalam, Ettiyapuram and Dharkast on 21st July 2018.",
+        "coordinator": [
+        ],
+        "venue": [
+        ],
+        "postedDate": "2018-07-21",
+        "eventDate": {
+          "date": "2018-07-21",
+          "time": "09:30 AM"
+        },
+        "images":[
+        		{
+        			"src": "/images/event-images/village_survey_program_1.webp",
+        			"type":"horizontal-img"
+        		},
+        		{
+        			"src": "/images/event-images/village_survey_program_2.webp",
+        			"type":"horizontal-img"
+        		}
+        		],
+        "register": ""
+      }
+    ]
+  },
+  "news": [
+  ]
+}

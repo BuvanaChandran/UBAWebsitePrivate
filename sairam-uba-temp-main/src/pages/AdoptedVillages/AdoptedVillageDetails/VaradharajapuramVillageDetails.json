@@ -1,0 +1,406 @@
+{
+	"villageName":"Varadharajapuram",
+	"villageMapLink":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23306.123406103346!2d80.06259244840373!3d12.92424223275283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f67e4f1675c1%3A0x9105741849ab15f7!2sSelvanagar%2C%20Varadharajapuram%2C%20Tamil%20Nadu%20602109!5e0!3m2!1sen!2sin!4v1639030391767!5m2!1sen!2sin",
+	"aboutParagraph":"According to Census 2011 information the location code or village code of Varadharajapuram village is 629284. Varadharajapuram village is located in Sriperumbudur Tehsil of Kancheepuram district in Tamil Nadu, India. Kancheepuram and Sriperumbudur are the district & sub-district headquarters of Varadharajapuram village respectively. As per 2009 stats, Varadharajapuram village is also a gram panchayat",
+	"latitude":"12.9266 N",
+	"longitude":"80.0758 E",
+	"basicInformation":[
+		{
+			"contentTitle":"Name of the village",
+			"contentValue":["VARADHARAJAPURAM"]
+		},
+		{
+			"contentTitle":"Gram Panchayat",
+			"contentValue":["Varadharajapuram"]
+		},
+		{
+			"contentTitle":"VillageCode",
+			"contentValue":["629284"]
+		},
+		{
+			"contentTitle":"Block",
+			"contentValue":["Kundrathur"]
+		},
+		{
+			"contentTitle":"Sub District",
+			"contentValue":["Kundrathur"]
+		},
+		{
+			"contentTitle":"Sub District Code",
+			"contentValue":["07057"]
+		},
+		{
+			"contentTitle":"District",
+			"contentValue":["KANCHEEPURAM"]
+		},
+		{
+			"contentTitle":"District code",
+			"contentValue":["604"]
+		},
+		{
+			"contentTitle":"State",
+			"contentValue":["TAMIL NADU"]
+		},
+		{
+			"contentTitle":"Lok Sabha / Constituency",
+			"contentValue":["SRIPERUMBUDUR"]
+		},
+		{
+			"contentTitle":"Pincode",
+			"contentValue":["600044"]
+		},
+		{
+			"contentTitle":"Distance from District HQ",
+			"contentValue":["22 KM"]
+		},
+		{
+			"contentTitle":"Area of village (Acres)",
+			"contentValue":["2720 Acres"]
+		}
+		
+		],
+	"amenitiesTables":[
+	{
+		"tableParagraph":"Railway stations near Varadharajapuram:",
+		"tableHead":[
+				"Railway Station Name",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Kanchipuram East Railway Station",
+				"48 km"
+			],
+			[
+				"Kanchipuram Railway Station",
+				"48 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Schools Near Varadharajapuram:",
+		"tableHead":[
+				"Nearest Schools",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Pups School, Nelveli",
+				"20.7 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Colleges near Varadharajapuram",
+		"tableHead":[
+				"Nearest Colleges",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Jai Mathajee Engineering College",
+				"50.6 KM"
+			],
+			[
+				"Global Institute Of Engineering And Technology",
+				"105 KM"
+			],
+			[
+				"Lord Ayyappa Institute Of Engineering And Technology",
+				"36  KM"
+			],
+			[
+				"Sri Krishna Institute Of Technology",
+				"6.5 KM"
+			],
+			[
+				"Sri Chandrasekharendra Swaraswathi Mahavidyalaya",
+				"43.9 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Nearest Town",
+		"tableHead":[
+				"Nearest Town",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Tambaram",
+				"5km"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Hospitals near Varadharajapuram, Poonthandalam : ",
+		"tableHead":[
+				"Nearest Hospitals",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"E.S.I.Dispensary Hospital",
+				"0.1 KM"
+			],
+			[
+				"Balasubramaniam Vengudi Hospital",
+				"0.5 KM"
+			],
+			[
+				"Dr. Sathyanarayanan Venkataswamy",
+				"0.5 KM"
+			],
+			[
+				"VCS Child Health Clinic",
+				"0.1 KM"
+			],
+			[
+				"Senthil Maternity Centre",
+				"50 KM"
+			],
+			[
+				"CSI Multi Speciality Hospital",
+				"29.4 KM"
+			]
+			
+		]
+	}
+	],
+  "censusTableDetails":{
+  		"tableParagraph":"Census Data of Village Varadharajapuram, India Census 2011",
+		"tableHead":[
+				"Population",
+				"Area (Ha)",
+				"Density (P/Ha)",
+				"Sex Ratio",
+				"Literacy"
+			],
+		"tableBody":[
+			[
+				"5846",
+				"1430",
+				"3",
+				"995",
+				"88.42 %"
+			]
+		]
+  },
+  "censusGroupTables":
+   [{
+  		"heading":"Varadharajapuram Village Census 2011 Data Census 2011",
+		"tableHead":[
+				"Description",
+				"Census 2011 Data"
+			],
+		"tableBody":[
+			[
+				"Village Name",
+				"Varadharajapuram"
+			],
+			[
+				"Taluk Name",
+				"Namakkal"
+			],
+			[
+				"District Name",
+				"Namakkal"
+			],
+			[
+				"State Name",
+				"Tamil Nadu"
+			],
+			[
+				"Total Population",
+				"3567"
+			],
+			[
+				"Total Area",
+				"1100"
+			],
+			[
+				"Total No of House Holds",
+				"1014"
+			],
+			[
+				"Total Male Population",
+				"1786"
+			],
+			[
+				"Total Female Population",
+				"1781"
+			],
+			[
+				"0-6 Age group Total Population",
+				"341"
+			],
+			[
+				"0-6 Age group Male Population",
+				"178"
+			],
+			[
+				"0-6 Age group Female Population",
+				"163"
+			],
+			[
+				"Total Person Literates",
+				"2268"
+			],
+			[
+				"Total Male Literates",
+				"1277"
+			],
+			[
+				"Total Female Literates",
+				"991"
+			],
+			[
+				"Total Person Illiterates",
+				"1299"
+			],
+			[
+				"Total Male Illiterates",
+				"509"
+			],
+			[
+				"Total Female Illiterates",
+				"790"
+			],
+			[
+				"Scheduled Cast Persons",
+				"826"
+			],
+			[
+				"Scheduled Cast Males",
+				"393"
+			],
+			[
+				"Scheduled Cast Females",
+				"433"
+			],
+			[
+				"Scheduled Tribe Persons",
+				"0"
+			],
+			[
+				"Scheduled Tribe Males",
+				"0"
+			],
+			[
+				"Scheduled Tribe Females",
+				"0"
+			]
+		]
+  },
+  {
+  		"heading":"Varadharajapuram Working Population Census 2011",
+		"tableHead":[
+				"Worker Type",
+				"Total",
+				"Male",
+				"Female"
+			],
+		"tableBody":[
+			[
+				"Total Workers",
+				"2256",
+				"1184",
+				"1072"
+			],
+			[
+				"Main Workers",
+				"2024",
+				"1079",
+				"945"
+			],
+			[
+				"Cultivators",
+				"633",
+				"315",
+				"318"
+			],
+			[
+				"Agriculture Labourer",
+				"1022",
+				"447",
+				"575"
+			],
+			[
+				"HouseHold Industries",
+				"9",
+				"4",
+				"5"
+			],
+			[
+				"Other Workers",
+				"360",
+				"313",
+				"47"
+			],
+			[
+				"Marginal Workers",
+				"232",
+				"105",
+				"127"
+			],
+			[
+				"Non Working Persons",
+				"1311",
+				"602",
+				"709"
+			]
+		]
+  },
+  {
+  		"heading":"Varadharajapuram Commodities Census 2011",
+		"tableHead":[
+				"Description Type",
+				"Commodities"
+			],
+		"tableBody":[
+			[
+				"Agricultural Commodities (First)",
+				"ONION"
+			],
+			[
+				"Manufacturers Commodities (First)",
+				"N/A"
+			],
+			[
+				"Agricultural Commodities (Second)",
+				"PADDY"
+			],
+			[
+				"Agricultural Commodities (Third)",
+				"CORN"
+			]
+			
+		]
+  }],
+  "censuslink":"https://etrace.in/census/village/varadarajapuram-namakkal-district-namakkal-tamil-nadu-634681",
+  "censusParagraphDetails":[
+  	{
+  		"paragraphHeading":"",
+  		"paragraphDetails":"Varadharajapuram post office comes under Tambaram division in Chennai Region region, which provides delivery services across the village and near by. Tambaram H.O is the head office of Varadharajapuram post office and NA is the nearest sub office. Telephone no of the post office is - 044-22651644."
+  	},
+  	{
+  		"paragraphHeading":"SEX RATIO",
+  		"paragraphDetails":"The total population of Varadharajapuram is 5,846 out of which 2,931 are males and 2,915 are females thus the Average Sex Ratio of Varadharajapuram is 995."
+  	},
+  	{
+  		"paragraphHeading":"",
+  		"paragraphDetails":"The population of Children of age 0-6 years in Varadharajapuram village is 658 which is 11% of the total population. There are 338 male children and 320 female children between the age 0-6 years. Thus as per the Census 2011 the Child Sex Ratio of Varadharajapuram is 947 which is less than Average Sex Ratio (995) of Varadharajapuram village."
+  	},
+  	{
+  		"paragraphHeading":"LITERACY RATE:",
+  		"paragraphDetails":"s per the Census 2011, the literacy rate of Varadharajapuram is 88.4%. Thus Varadharajapuram village has higher literacy rate compared to 75.4% of Kancheepuram district. The male literacy rate is 92.36% and the female literacy rate is 84.47% in Varadharajapuram village."
+  	},
+  	{
+  		"paragraphHeading":"WORKING POPULATION:",
+  		"paragraphDetails":"In Varadharajapuram village out of total population, 2,345 were engaged in work activities. 83.8% of workers describe their work as Main Work (Employment or Earning more than 6 Months) while 16.2% were involved in Marginal activity providing livelihood for less than 6 months. Of 2,345 workers engaged in Main Work, 60 were cultivators (owner or co-owner) while 51 were Agricultural labourer."
+  	}
+  ],
+  "otherDetails": [
+    
+  ]
+}

@@ -1,0 +1,52 @@
+.comingSoon-container
+{
+	width:100%;
+	margin:40px auto;
+}
+.coming-soon-image-holder
+{
+	position: relative;
+  	text-align: center;
+  	width:70%;
+  	margin:0 auto;
+}
+
+.coming-soon-image
+{
+	object-fit: contain;
+	opacity:0.4;
+	width:100%;
+	height:450px;
+	border-radius:20px;
+}
+
+.coming-soon-text
+{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-weight:bold;
+  color:var(--primary-blue);
+  font-size:1.30rem;
+  text-align: center;
+  width: 100%;
+}
+
+@media screen and (max-width: 900px) {
+	.coming-soon-image-holder
+	{
+		width:85%;
+	}
+}
+
+@media screen and (max-width:540px){
+	.coming-soon-image-holder
+	{
+		width:100%;
+	}
+	.coming-soon-image
+	{
+		height:350px;
+	}
+}

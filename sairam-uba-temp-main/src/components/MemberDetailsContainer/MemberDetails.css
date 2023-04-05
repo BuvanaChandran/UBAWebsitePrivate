@@ -1,0 +1,94 @@
+.member-details-card {
+    width: 35%;
+    height:max-content;
+    margin: 1rem;
+}
+
+.data-holder {
+    display: flex;
+    height: 125px;
+}
+.user-image {
+    position: relative;
+    right: 9%;
+    top: 14%;
+}
+
+.user-image img{
+    overflow: hidden;
+    object-fit: cover;
+    width: 90px;
+    height: 90px;
+    border: 2px solid var(--primary-blue);
+    background:var(--primary-blue);
+}
+
+.user-details {
+    overflow: hidden;
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.user-details-name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: var(--primary-blue);
+    font-size: 1.25rem;
+    margin-bottom:0.2rem;
+}
+
+.user-details-designation, .user-details-role {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 1.15rem;
+    font-weight:400;
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 940px) {
+    .member-details-card {
+        width: 60%;
+        margin: 20px auto;
+    }
+
+    .user-details {
+        width: 80%;
+    }
+
+    .user-image img {
+        width: 85px;
+        border: 3px solid var(--primary-blue);
+    }
+}
+
+@media screen and (max-width: 782px) {
+    .member-details-card {
+        width: 65%;
+        margin: 20px auto;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .member-details-card {
+        width: 90%;
+        margin: 20px auto;
+    }
+}
+@media screen and (max-width: 550px) {
+    .member-details-card {
+        width: 95%;
+        margin: 20px auto;
+    }
+
+    .user-details {
+        width: 100%;
+    }
+
+    .user-image img {
+        width: 80px;
+    }
+}

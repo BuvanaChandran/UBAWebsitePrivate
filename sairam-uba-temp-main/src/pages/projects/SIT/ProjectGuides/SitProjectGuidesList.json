@@ -1,0 +1,115 @@
+{
+	"sitProjectGuides":[
+		{
+			"guideName":"Ms.R.M.Asha",
+			"department":"Mechanical",
+			"facultyId":"IT16CE01",
+			"specialization":
+				[
+					"Solid waste Management",
+					"Environment",
+					"Infrastructure",
+					"Construction management"
+				],
+			"mail":"asha.civil@sairamit.edu.in",
+			"contactNo":"9840488651"
+		},
+		{
+			"guideName":"Mr.Gokulakrishnan",
+			"department":"IT",
+			"facultyId":"IT09IT01",
+			"specialization":
+				[
+					"Water resource management"
+				],
+			"mail":"gokul.it@sairamit.edu.in",
+			"contactNo":"9629879934"
+		},
+		{
+			"guideName":"Mr.Ilamurugan",
+			"department":"CSE",
+			"facultyId":"IT13CS04",
+			"specialization":
+				[
+					"Organic farming"
+				],
+			"mail":"ilamurugan.cse@sairamit.edu.in",
+			"contactNo":"9940447364"
+		},
+		
+		{
+			"guideName":"Mr.Ponshanmugakumar",
+			"department":"Mechanical",
+			"facultyId":"IT13ME03",
+			"specialization":
+				[
+					"Renewable Energy"
+				],
+			"mail":"ponshanmugakumar.mech@sairamit.edu.in",
+			"contactNo":"9367522365"
+		},
+		
+		
+		{
+			"guideName":"Ms.Ramya",
+			"department":"Mechanical",
+			"facultyId":"IT13CE02",
+			"specialization":
+				[
+					"Infrastructure",
+					"Construction management"
+				],
+			"mail":"ramya.civil@sairamit.edu.in",
+			"contactNo":"9176901089"
+		},
+		{
+			"guideName":"Dr.Rajarajan",
+			"department":"ECE",
+			"facultyId":"IT14EC01",
+			"specialization":
+				[
+					"Artisans,Industries and livelihood"
+				],
+			"mail":"rajarajan.ece@sairamit.edu.in",
+			"contactNo":"7708728553"
+		},
+		
+		{
+			"guideName":"Ms.Roopa",
+			"department":"CSE",
+			"facultyId":"IT16CS01",
+			"specialization":
+				[
+					"Robotics",
+					"Automation",
+					"AI application"
+				],
+			"mail":"roopa.cse@sairamit.edu.in",
+			"contactNo":"9043422916"
+		},
+		{
+			"guideName":"Dr.Shanmugasundar",
+			"department":"Mechanical",
+			"facultyId":"IT14ME02",
+			"specialization":
+				[
+					"Robotics",
+					"Automation",
+					"AI application"
+				],
+			"mail":"shanmugasundar.mech@sairamit.edu.in",
+			"contactNo":"9941380398"
+		},
+		{
+			"guideName":"Dr.Vigneswaran",
+			"department":"Mechanical",
+			"facultyId":"IT14ME05",
+			"specialization":
+				[
+					"Renewable Energy"
+				],
+			"mail":"vigneswaran.mech@sairamit.edu.in",
+			"contactNo":"9629402990"
+		}
+	]
+}

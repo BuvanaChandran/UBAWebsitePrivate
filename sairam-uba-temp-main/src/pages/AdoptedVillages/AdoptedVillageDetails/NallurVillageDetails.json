@@ -1,0 +1,572 @@
+{
+	"villageName":"Nallur",
+	"villageMapLink":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d20739.485859333658!2d80.1426447097324!3d13.208687806995057!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a527cfa276317a9%3A0x15919573ef30a451!2sNallur%2C%20Tamil%20Nadu%20600052!5e0!3m2!1sen!2sin!4v1638886465118!5m2!1sen!2sin",
+	"aboutParagraph":"Nallur village is situated in Taluk Sriperumbudur, District Kancheepuram and in State of Tamil Nadu India. Village has population of 4618 as per census data of 2011, in which male population is 2297 and female population is 2321. Total geographical area of Nallur village is 240.89 Hectares. Population density of Nallur is 19 persons per Hectares. Total number of house hold in village is 1161.",
+	"latitude":"12.9654292 N",
+	"longitude":"80.051845 E",
+	"basicInformation":[
+		{
+			"contentTitle":"Name of the village",
+			"contentValue":["Nallur"]
+		},
+		{
+			"contentTitle":"Gram Panchayat",
+			"contentValue":["Poonthandalam"]
+		},
+		{
+			"contentTitle":"VillageCode",
+			"contentValue":["629226"]
+		},
+		{
+			"contentTitle":"Number of Wards",
+			"contentValue":[]
+		},
+		{
+			"contentTitle":"Block",
+			"contentValue":["Kundrathur"]
+		},
+		{
+			"contentTitle":"Sub District",
+			"contentValue":["Kundrathur"]
+		},
+		{
+			"contentTitle":"Sub District Code",
+			"contentValue":["07057"]
+		},
+		{
+			"contentTitle":"District",
+			"contentValue":["Kancheepuram"]
+		},
+		{
+			"contentTitle":"District code",
+			"contentValue":["604"]
+		},
+		{
+			"contentTitle":"State",
+			"contentValue":["Tamil Nadu"]
+		},
+		{
+			"contentTitle":"Lok Sabha / Constituency",
+			"contentValue":["SRIPERUMPUDUR"]
+		},
+		{
+			"contentTitle":"Pincode",
+			"contentValue":["600069"]
+		},
+		{
+			"contentTitle":"Distance from District HQ",
+			"contentValue":["45 KM"]
+		},
+		{
+			"contentTitle":"Area of village (Acres)",
+			"contentValue":["595.524"]
+		},
+		{
+			"contentTitle":"Arable land agriculture Area (Acres)",
+			"contentValue":["Total sown/agricultural area is 2.07 acres",
+							" 0.84 acres -un-irrigated area", 
+							"1.23 acres - irrigated area",
+							"0.247 acres - irrigated by wells",
+							"0.988 acres - irrigated by tanks/lakes"
+							]
+		},
+		{
+			"contentTitle":"Forest Area (Acre)",
+			"contentValue":["92.0467 acres -miscellaneous tree crops."]
+		},
+		{
+			"contentTitle":"Housing / Abadi Area (Acres)",
+			"contentValue":["184.09 acres - non-agricultural use."]
+		},
+		{
+			"contentTitle":"Area Under Water bodies (Acres)",
+			"contentValue":[]
+		},
+		{
+			"contentTitle":"Common Lands Area (Acres)",
+			"contentValue":["0.148 acres is lying as current fallow area",
+							"50.033 acres - culturable waste land",
+							"266.84 acres -fallow land other than current fallows."]
+		}
+		
+		],
+	"amenitiesTables":[
+	{
+		"tableParagraph":"Nearest railway station to Nallur, Poonthandalam is Tambaram which is located in and around 8.4 kilometer distance.",
+		"tableHead":[
+				"Railway Station Name",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Tambaram Railway Station",
+				"8.4 KM"
+			],
+			[
+				"Tambaram sanitorium RailwayStation",
+				"9.2 KM"
+			],
+			[	
+				"Vandalur Railway Station",
+				"9.0 KM"
+			],
+			[
+				"Chrompet Railway Station",
+				"9.7 KM"
+			],
+			[
+				"Karasangal Railway Station",
+				"10.0 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Nearest airport is Tambaram Air Force Station situated at 10.4 KM distance. Few more airports around Poonthandalam are as follows.",
+		"tableHead":[
+				"Air Port Name",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Tambaram Air Force Station",
+				"10.4 KM"
+			],
+			[
+				"Chennai International Airport",
+				"13.3 KM"
+			],
+			[	
+				"New Chennai International Airport",
+				"13.3 KM"
+			]
+		]
+	},
+	
+	{
+		"tableParagraph":"Nallur, Poonthandalam‘s nearest town/city/important place is Kundrathur located at the distance of 5.8 kilometer.",
+		"tableHead":[
+				"Nearest Town",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Kundrathur",
+				"5.8 KM"
+			],
+			[
+				"Thiruneermalai",
+				"6.7 KM"
+			],
+			[
+				"Perungalathur",
+				"7.9 KM"
+			
+			],
+			[
+				"Peerkankaranai",
+				"8.0 KM"
+			]
+			,
+			[
+				"Sikkarayapuram",
+				"8.0 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Nallur, Poonthandalam nearest schools",
+		"tableHead":[
+				"Nearest Schools",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Somangalam Higher Sec School",
+				"1.5 KM"
+			],
+			[
+				"PUPS Primary School",
+				"2.0 KM"
+			
+			],
+			[
+				"Palanthandalam School",
+				"2.3 KM"
+			
+			],
+			[
+				"Palanthandalam High School",
+				"2.4 KM"
+			
+			],
+			[
+				"R C M High School",
+				"3.1 KM"
+			
+			],
+			[
+				"Sri Sairam Matriculation school",
+				"1 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Colleges near Nallur, Poonthandalam : ",
+		"tableHead":[
+				"Nearest Colleges",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Sri Sairam Engineering College",
+				"5.8 KM"
+			],
+			[
+				"Sri Sairam Institute of technology",
+				"5.8 KM"
+			
+			],
+			[
+				"Sri Sairam Siddha Medical College",
+				"5.8 KM"
+			
+			],
+			[
+				"Sri Sairam Ayurvedha Medical college",
+				"5.8 KM"
+			
+			],
+			[
+				"Sri Sairam Polytechnic college",
+				"5.8 KM"
+			
+			],
+			[
+				"Dhanalakshmi College of Engineering",
+				"5.6 KM"
+			]
+			,
+			[
+				"Madha College of Engineering",
+				"7.5 KM"
+			]
+			,
+			[
+				"Chennai Institute of Technology",
+				"1.8 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Hospitals near Nallur, Poonthandalam : ",
+		"tableHead":[
+				"Nearest Hospitals",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Somangalam Government hospital",
+				"2.3 KM"
+			],
+			[
+				"Sri Sairam Ayurvedha Medical College and",
+				"4.2 KM"
+			]
+		]
+	}
+	],
+  "censusTableDetails":{
+  		"tableParagraph":"Census Data of Village Nallur, Taluk: Sriperumbudur, District Kancheepuram, India Census 2011",
+		"tableHead":[
+				"Population",
+				"Area (Ha)",
+				"Density (P/Ha)",
+				"Sex Ratio",
+				"Literacy"
+			],
+		"tableBody":[
+			[
+				"4618",
+				"240.89",
+				"19",
+				"1010",
+				"74.47%"
+			]
+		]
+  },
+  "censusGroupTables":[
+  	  {
+  		"heading":"Nallur Village Census 2011 Data Census 2011",
+		"tableHead":[
+				"Description",
+				"Census 2011 Data"
+			],
+		"tableBody":[
+			[
+				"Village Name",
+				"Nallur"
+			],
+			[
+				"Taluk Name",
+				"Sriperumbudur"
+			],
+			[
+				"District Name",
+				"Kancheepuram"
+			],
+			[
+				"State Name",
+				"Tamil Nadu"
+			],
+			[
+				"Total Population",
+				"4618"
+			],
+			[
+				"Total Area",
+				"241 (Hectares)"
+			],
+			[
+				"Total No of House Holds",
+				"1161"
+			],
+			[
+				"Total Male Population",
+				"2297"
+			],
+			[
+				"Total Female Population",
+				"2321"
+			],
+			[
+				"0-6 Age group Total Population",
+				"599"
+			],
+			[
+				"0-6 Age group Male Population",
+				"306"
+			],
+			[
+				"0-6 Age group Female Population",
+				"293"
+			],
+			[
+				"Total Person Literates",
+				"2993"
+			],
+			[
+				"Total Male Literates",
+				"1604"
+			],
+			[
+				"Total Female Literates",
+				"1389"
+			],
+			[
+				"Total Person Illiterates",
+				"1625"
+			],
+			[
+				"Total Male Illiterates",
+				"693"
+			],
+			[
+				"Total Female Illiterates",
+				"932"
+			],
+			[
+				"Scheduled Cast Persons",
+				"1213"
+			],
+			[
+				"Scheduled Cast Males",
+				"592"
+			],
+			[
+				"Scheduled Cast Females",
+				"621"
+			],
+			[
+				"Scheduled Tribe Persons",
+				"44"
+			],
+			[
+				"Scheduled Tribe Males",
+				"40"
+			],
+			[
+				"Scheduled Tribe Females",
+				"44"
+			]
+		]
+  },
+  {
+  		"heading":"Nallur Working Population Census 2011",
+		"tableHead":[
+				"Worker Type",
+				"Total",
+				"Male",
+				"Female"
+			],
+		"tableBody":[
+			[
+				"Total Workers",
+				"1817",
+				"1327",
+				"490"
+			],
+			[
+				"Main Workers",
+				"1354",
+				"1020",
+				"334"
+			],
+			[
+				"Main Workers Cultivators",
+				"20",
+				"14",
+				"6"
+			],
+			[
+				"Agriculture Labourer",
+				"16",
+				"9",
+				"7"
+			],
+			[
+				"HouseHold Industries",
+				"24",
+				"15",
+				"9"
+			],
+			[
+				"Other Workers",
+				"1294",
+				"982",
+				"312"
+			],
+			[
+				"Marginal Workers",
+				"463",
+				"307",
+				"156"
+			],
+			[
+				"Non Working Persons",
+				"2801",
+				"970",
+				"1831"
+			]
+		]
+  },
+  {
+  		"heading":"Nallur Commodities Census 2011",
+		"tableHead":[
+				"Description Type",
+				"Commodities"
+			],
+		"tableBody":[
+			[
+				"Agricultural Commodities (First)",
+				"N/A"
+			],
+			[
+				"Manufacturers Commodities (First)",
+				"CARBON"
+			],
+			[
+				"Handicrafts Commodities (First)",
+				"CLAY POTS"
+			]
+			
+		]
+  }
+  ],
+  "censuslink":"https://etrace.in/census/village/nallur-sriperumbudur-district-kancheepuram-tamil-nadu-629226",
+  "censusParagraphDetails":[
+  	{
+  		"paragraphHeading":"",
+  		"paragraphDetails":"Gram Panchayat name of the Nallur village is Poonthandalam . CD Block name is Kunrathur and Taluk or sub-district is Sriperumbudur. Data Reference year is 2009 of Census 2011. Sub District HQ Name is SRIPERUMBUDUR and Sub District HQ Distance is 11 Km from the village. District Head Quarter name is KANCHEEPURAM and it’s distance from the village is 45KM. Nearest Town of the Nallur village is KUNDRATHUR and nearest town distance is 10 km. Pin-code of Nallur village is 600069. As per census 2011 village code of village Nallur is 629226."
+  	},
+  	{
+  		"paragraphHeading":"Sex Ratio of Nallur Village Census 2011",
+  		"paragraphDetails":"As per the Census Data 2011 there are 1010 Females per 1000 males out of 4618 total population of village. There are 958 girls per 1000 boys under 6 years of age in the village."
+  	},
+  	{
+  		"paragraphHeading":"Literacy of Nallur Village",
+  		"paragraphDetails":"Out of total population total 2993 people in Nallur Village are literate, among them 1604 are male and 1389 are female in the village. Total literacy rate of Nallur is 74.47%, for male literacy is 80.56% and for female literacy rate is 68.49%."
+  	},
+  	{
+  		"paragraphHeading":"Workers profile of Nallur Village",
+  		"paragraphDetails":"Total working population of Nallur is 1817 which are either main or marginal workers. Total workers in the village are 1817 out of which 1327 are male and 490 are female. Total main workers are 1354 out of which female main workers are 1020 and male main workers are 334. Total marginal workers of village are 463."
+  	}
+  ],
+  "otherDetails": [
+    {
+      "title": "Habitations in Poonthandalam",
+      "points": [
+        {
+          "content": "Nallur Colony",
+          "link": ""
+        },
+        {
+          "content": "Nallur Village",
+          "link": ""
+        },
+        {
+          "content": "Poonthandalam",
+          "link": ""
+        },
+        {
+          "content": "Puducheri",
+          "link": ""
+        },
+        {
+          "content": "Puthunallur",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "title": "Government Hospitals near Nallur,Poonthandalam",
+      "points": [
+        {
+          "content": "Government Primary Health Center, Somangalam Road, Poonthandalam Village 602109",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "title": "Banks near Nallur,Poonthandalam",
+      "points": [
+        { "content": "City Union Bank, Poonthandalam Branch", "link": "" }
+      ]
+    },
+    {
+      "title": "Schools in Nallur,Poonthandalam",
+      "points": [
+        {
+          "content": "PUPS, Poonthandalam",
+          "link": "http://www.etamilnadu.org/schools/pups-poonthandalam-1037614.html"
+        },
+        {
+          "content": "Sairam Matric School, Poonthandalam",
+          "link": "http://tbm.sairamschool.edu.in/"
+        }
+      ]
+    },
+    {
+      "title": "Colleges in Nallur,Poonthandalam",
+      "points": [
+        {
+          "content": "Sri Sai Ram Institute of Technology",
+          "link": "https://sairamit.edu.in/"
+        },
+        {
+          "content": "Sri Sai Ram Engineering College",
+          "link": "https://sairam.edu.in/"
+        }
+      ]
+    }
+  ]
+}

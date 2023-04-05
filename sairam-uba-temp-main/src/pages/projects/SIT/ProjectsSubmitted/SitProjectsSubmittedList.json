@@ -1,0 +1,70 @@
+{
+	"sitProjectsSubmitted":[
+		{
+			"technologyIntervention":"Technology Customisation",
+			"projectName":"Enhancement of security in adopted villages",
+			"implementedPlace":["Pazhanthandalam"],
+			"submittedDate":"10-02-2022",
+			"principalInvestigators":[
+				"Dr.G.Saritha"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Smart dustbin with door opening and belt mechanics",
+			"implementedPlace":["Erumaiyur"],
+			"submittedDate":"10-02-2022",
+			"principalInvestigators":[
+				"Dr.A.Srithar"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Development of a mobile application for rural digital marketing of agro-products for farmers",
+			"implementedPlace":["Erumaiyur"],
+			"submittedDate":"10-02-2022",
+			"principalInvestigators":[
+				"Dr.S.Vidya", 
+				"Dr.B.Sreedevi"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Iraivi-Mobile application to support women self help group in rural areas",
+			"implementedPlace":["Somangalam","Pazhanthandalam","Poonthandalam"],
+			"submittedDate":"10-02-2022",
+			"principalInvestigators":[
+				"Dr.V.Brindha Devi"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Proyog",
+			"implementedPlace":["Poothandalam"],
+			"submittedDate":"10-02-2022",
+			"principalInvestigators":[
+				"Dr.V.Brindha Devi"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Bhoomi mobile application (complete guide to farming) Machine Learning",
+			"implementedPlace":["Poonthandalam"],
+			"submittedDate":"10-02-2022",
+			"principalInvestigators":[
+				"Dr.B.Sreedevi"
+			]
+		},
+		{
+			"technologyIntervention":"Technology Development",
+			"projectName":"Solar powered smart irrigation system",
+			"implementedPlace":["Poonthandalam", "Puduppair"],
+			"submittedDate":"10-02-2022",
+			"principalInvestigators":[
+				"Dr.Prabha"
+			]
+		}
+
+	]
+}
+ 

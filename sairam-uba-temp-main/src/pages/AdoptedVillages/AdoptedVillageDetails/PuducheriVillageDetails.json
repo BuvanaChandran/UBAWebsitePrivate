@@ -1,0 +1,481 @@
+{
+	"villageName":"Puducheri",
+	"villageMapLink":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d43704.02301888867!2d80.00578278597342!3d12.912324629432716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52f4403ed3a5dd%3A0xee761742db4bce54!2sPuducheri%2C%20Tamil%20Nadu%20602301!5e0!3m2!1sen!2sin!4v1643732167594!5m2!1sen!2sin",
+	"aboutParagraph":"Puducheri village is situated in Taluk Sriperumbudur, District Kancheepuram and in State of Tamil Nadu India. Village has population of 560 as per census data of 2011, in which male population is 274 and female population is 286. Total geographical area of Puducheri village is 120.36 Hectares. Population density of Puducheri is 5 persons per Hectares. Total number of house hold in village is 140.",
+	"latitude":"12.9151 N",
+	"longitude":" 80.0325 E",
+	"basicInformation":[
+		{
+			"contentTitle":"Name of the village",
+			"contentValue":["Puducheri"]
+		},
+		{
+			"contentTitle":"Gram Panchayat",
+			"contentValue":["Poonthandalam"]
+		},
+		{
+			"contentTitle":"VillageCode",
+			"contentValue":["629248"]
+		},
+		{
+			"contentTitle":"Number of Wards",
+			"contentValue":[]
+		},
+		{
+			"contentTitle":"Block",
+			"contentValue":["Kundrathur"]
+		},
+		{
+			"contentTitle":"Sub District",
+			"contentValue":["Sriperumbudur"]
+		},
+		{
+			"contentTitle":"District",
+			"contentValue":["Kancheepuram"]
+		},
+		{
+			"contentTitle":"District code",
+			"contentValue":["604"]
+		},
+		{
+			"contentTitle":"State",
+			"contentValue":["Tamil Nadu"]
+		},
+		{
+			"contentTitle":"Lok Sabha / Constituency",
+			"contentValue":["Sriperumpudur"]
+		},
+		{
+			"contentTitle":"Pincode",
+			"contentValue":["600069"]
+		},
+		{
+			"contentTitle":"Distance from District HQ",
+			"contentValue":["10 KM"]
+		},
+		{
+			"contentTitle":"Area of village (Ha)",
+			"contentValue":["120.36"]
+		}
+		
+		],
+	"amenitiesTables":
+	 [
+	 {
+		"tableParagraph":"Nearest railway station to Puducheri, Poonthandalam is Vandalur which is located in and around 10 kilometer distance.",
+		"tableHead":[
+				"Railway Station Name",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Tambaram railway station ",
+				"10.9 KM"
+			],
+			[
+				"Vandalur railway station",
+				"10 KM"
+			],
+			[
+				"Tambaram Sanatorium railway station",
+				"14.9 KM"
+			],
+			[
+				"Chromepet railway station",
+				"15.3 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Nearest airport is Tambaram Air Force Station situated at 10.4 KM distance. Few more airports around Puducheri are as follows.",
+		"tableHead":[
+				"Air Port Name",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Tambaram Air Force Station",
+				"17.4 KM"
+			],
+			[
+				"Chennai International Airport",
+				"22.3 KM"
+			]
+		]
+	},
+	
+	{
+		"tableParagraph":"Puducheri, Poonthandalam‘s nearest town/city/important place is Kundrathur located at the distance of 5.8 kilometer.",
+		"tableHead":[
+				"Nearest Town",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Kundrathur",
+				"15.8 KM"
+			],
+			[
+				"Erumaiyur",
+				"3.6 KM"
+			],
+			[
+				"Somangalam",
+				"6.8 KM"
+			
+			],
+			[
+				"Palanthandalam",
+				"12.3 KM"
+			]
+			,
+			[
+				"perungalathur",
+				"12.0 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Puducheri, Poonthandalam nearest schools",
+		"tableHead":[
+				"Nearest Schools",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Somangalam Higher Sec School",
+				"6.5 KM"
+			],
+			[
+				"Palanthandalam High School",
+				"13 KM"
+			
+			],
+			[
+				"R C M High School",
+				"9.1 KM"
+			
+			],
+			[
+				"Sri Sairam Matriculation school",
+				"8.4 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Colleges near Puducheri, Poonthandalam : ",
+		"tableHead":[
+				"Nearest Colleges",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Sri Sairam Engineering College",
+				"8.4 KM"
+			],
+			[
+				"Sri Sairam Institute of technology",
+				"8.4 KM"
+			
+			],
+			[
+				"Sri Sairam Siddha Medical College",
+				"8.4 KM"
+			
+			],
+			[
+				"Sri Sairam Ayurvedha Medical college",
+				"8.4 KM"
+			
+			],
+			[
+				"Sri Sairam Polytechnic college",
+				"8.4 KM"
+			
+			],
+			[
+				"Dhanalakshmi College of Engineering",
+				"2.9 KM"
+			]
+			,
+			[
+				"Madha College of Engineering",
+				"14.8 KM"
+			]
+			,
+			[
+				"Chennai Institute of Technology",
+				"8.8 KM"
+			]
+		]
+	},
+	{
+		"tableParagraph":"Hospitals near Puducheri, Poonthandalam : ",
+		"tableHead":[
+				"Nearest Hospitals",
+				"Distance"
+			],
+		"tableBody":[
+			[
+				"Somangalam Government hospital",
+				"6.5 KM"
+			],
+			[
+				"Sri Sairam Ayurvedha Medical College and Hospital",
+				"8.4 KM"
+			]
+		]
+	}],
+  "censusTableDetails":{
+  		"tableParagraph":"Census Data of Village Puducheri, Taluk: Sriperumbudur, District Kancheepuram, India Census 2011",
+		"tableHead":[
+				"Population",
+				"Area (Ha)",
+				"Density (P/Ha)",
+				"Sex Ratio",
+				"Literacy"
+			],
+		"tableBody":[
+			[
+				"560",
+				"120.36",
+				"5",
+				"1044",
+				"85.37%"
+			]
+		]
+  },
+  "censusGroupTables":
+  [
+  {
+  		"heading":"Puducheri Village Census 2011 Data Census 2011",
+		"tableHead":[
+				"Description",
+				"Census 2011 Data"
+			],
+		"tableBody":[
+			[
+				"Village Name",
+				"Puducheri"
+			],
+			[
+				"Taluk Name",
+				"Sriperumbudur"
+			],
+			[
+				"District Name",
+				"Kancheepuram"
+			],
+			[
+				"State Name",
+				"Tamil Nadu"
+			],
+			[
+				"Total Population",
+				"560"
+			],
+			[
+				"Total Area",
+				"120 (Hectares)"
+			],
+			[
+				"Total No of House Holds",
+				"140"
+			],
+			[
+				"Total Male Population",
+				"274"
+			],
+			[
+				"Total Female Population",
+				"286"
+			],
+			[
+				"0-6 Age group Total Population",
+				"68"
+			],
+			[
+				"0-6 Age group Male Population",
+				"43"
+			],
+			[
+				"0-6 Age group Female Population",
+				"25"
+			],
+			[
+				"Total Person Literates",
+				"420"
+			],
+			[
+				"Total Male Literates",
+				"213"
+			],
+			[
+				"Total Female Literates",
+				"207"
+			],
+			[
+				"Total Person Illiterates",
+				"140"
+			],
+			[
+				"Total Male Illiterates",
+				"61"
+			],
+			[
+				"Total Female Illiterates",
+				"79"
+			],
+			[
+				"Scheduled Cast Persons",
+				"63"
+			],
+			[
+				"Scheduled Cast Males",
+				"25"
+			],
+			[
+				"Scheduled Cast Females",
+				"38"
+			],
+			[
+				"Scheduled Tribe Persons",
+				"0"
+			],
+			[
+				"Scheduled Tribe Males",
+				"0"
+			],
+			[
+				"Scheduled Tribe Females",
+				"0"
+			]
+		]
+  },
+  {
+  		"heading":"Puducheri Working Population Census 2011",
+		"tableHead":[
+				"Worker Type",
+				"Total",
+				"Male",
+				"Female"
+			],
+		"tableBody":[
+			[
+				"Total Workers",
+				"238",
+				"162",
+				"76"
+			],
+			[
+				"Main Workers",
+				"221",
+				"155",
+				"66"
+			],
+			[
+				"Main Workers Cultivators",
+				"27",
+				"20",
+				"7"
+			],
+			[
+				"Agriculture Labourer",
+				"11",
+				"4",
+				"7"
+			],
+			[
+				"HouseHold Industries",
+				"8",
+				"3",
+				"5"
+			],
+			[
+				"Other Workers",
+				"175",
+				"128",
+				"47"
+			],
+			[
+				"Marginal Workers",
+				"17",
+				"7",
+				"10"
+			],
+			[
+				"Non Working Persons",
+				"322",
+				"112",
+				"210"
+			]
+		]
+  },
+  {
+  		"heading":"Puducheri Working Population Census 2011",
+		"tableHead":[
+				"Description Type",
+				"Commodities"
+			],
+		"tableBody":[
+			[
+				"Agricultural Commodities (First)",
+				"PADDY"
+			],
+			[
+				"Manufacturers Commodities (First)",
+				"N/A"
+			]
+			
+		]
+  }],
+  "censuslink":"https://etrace.in/census/village/puducheri-sriperumbudur-district-kancheepuram-tamil-nadu-629248/",
+  "censusParagraphDetails":[
+  	{
+  		"paragraphHeading":"",
+  		"paragraphDetails":"Gram Panchayat name of the Puducheri village is Poonthandalam . CD Block name is Kunnattur and Teshil/Taluk or sub-district is Sriperumbudur. Data Reference year is 2009 of Census 2011. Sub District HQ Name is SRIPERUMBUDUR and Sub District HQ Distance is 10 Km from the village. District Head Quarter name is KANCHEEPURAM and it’s distance from the village is 60KM. Nearest Town of the Puducheri village is TAMBARAM and nearest town distance is 10 km. Pincode of Puducheri village is 600069. As per census 2011 village code of village Puducheri is 629248."
+  	},
+  	{
+		"paragraphHeading":"Sex Ratio of Puducheri Village Census 2011",
+		"paragraphDetails":"As per the Census Data 2011 there are 1044 Femals per 1000 males out of 560 total population of village. There are 581 girls per 1000 boys under 6 years of age in the village."
+	},
+	{
+		"paragraphHeading":"Literacy of Puducheri Village",
+		"paragraphDetails":"Out of total poplation total 420 people in Puducheri Village are literate, among them 213 are male and 207 are female in the village. Total literacy rate of of Puducheri is 85.37%, for male literacy is 92.21% and for female literacy rate is 79.31%."
+	},
+	{
+		"paragraphHeading":"Workers profile of Puducheri Village",
+		"paragraphDetails":"Total working population of Puducheri is 238 which are either main or marginal workers. Total workers in the village are 238 out of which 162 are male and 76 are female. Total main workers are 221 out of which female main workers are 155 and male main workers are 66. Total marginal workers of village are 17."
+	}
+],
+  "otherDetails": [
+    {
+      "title": "Banks near Poonthandalam",
+      "points": [
+        { "content": "City Union Bank, Poonthandalam Branch", "link": "" }
+      ]
+    },
+    {
+      "title": "Schools near Puducheri",
+      "points": [
+        {
+          "content": "Sairam Matric School, Poonthandalam",
+          "link": "http://tbm.sairamschool.edu.in/"
+        }
+      ]
+    },
+    {
+      "title": "Colleges near Puducheri",
+      "points": [
+        {
+          "content": "Sri Sai Ram Institute of Technology",
+          "link": "https://sairamit.edu.in/"
+        },
+        {
+          "content": "Sri Sai Ram Engineering College",
+          "link": "https://sairam.edu.in/"
+        }
+      ]
+    }
+  ]
+}

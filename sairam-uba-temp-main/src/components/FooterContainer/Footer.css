@@ -1,0 +1,222 @@
+.footer-container{
+    width: 100%;
+    background-color: #CCDAD9;
+    padding: 1rem;
+    border-top: 0.4rem solid var(--primary-blue);
+	z-index: 0;
+    justify-content:space-evenly;
+}
+
+.footer-top
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+
+address
+{
+	display: block;
+  font-style: italic;
+}
+
+
+.college-details td
+{
+	padding-right:10px;
+	color:var(--primary-blue);
+	font-weight:500;
+}
+
+.address-college-name
+{	
+	font-style:normal;
+	color:var(--primary-blue);
+}
+
+.address-college
+{
+	color:var(--primary-blue);
+	font-weight:500;
+}
+
+.contact-us-heading
+{
+	font-size:28px;
+}
+
+.footer-content{
+    width: 50%;
+}
+
+
+.footer-content-image
+{
+	 width: 40%;
+}
+
+.footer-content-image img
+{	
+	width:60%;
+	height:100%;
+	margin:0 auto;
+	display:block;
+}
+
+.footer_social {
+  display: flex;
+  flex-direction:column;
+  justify-content:space-around;
+}
+
+.footer_social_icon {
+  transition: all 0.15s ease-in-out;
+  cursor: pointer;
+
+}
+.footer_social_icon:hover {
+  transform: translateY(-8px) scale(1.1);
+}
+
+.footer-instagram-icon	
+{
+	width:30px;
+}
+
+.footer-facebook-icon
+{
+	width:30px;
+}
+
+.footer-linkedin-icon
+{
+	width:30px;
+}
+.footer-youtube-icon
+{
+	width:32px;
+}
+
+.footer-youtube-icon{
+	color:var(--primary-blue);
+}
+
+.table-footer-logo
+{
+	width:28px;
+}
+
+.college-info-flex
+{
+	display:flex;
+}
+
+.address-map-link
+{
+	text-decoration:none;
+	color:var(--primary-blue);
+  	cursor: pointer;
+}
+
+.address-map-link:hover
+{
+	
+	color:var(--primary-blue);
+	text-decoration: underline var(--primary-orange);
+	text-decoration-thickness: 2px;
+}
+
+.address-map-icon
+{
+	transition: all 0.15s ease-in-out;
+}
+.address-map-link:hover .address-map-icon
+{
+	transform: translateY(-8px) scale(1.1);
+}
+
+
+@media screen and (max-width: 900px) {
+	.footer-content{
+		width: 45%;
+	}
+
+	.footer-content-image
+	{
+		 width: 55%;	 
+	}
+
+	.footer-content-image img
+	{	
+		width:75%;
+		margin:0 auto;
+		display:block;
+	}
+	.footer_social 
+	{
+		margin-top:20px;
+	}
+}
+@media screen and (max-width: 650px) {
+	.footer-content-image
+	{
+		display:none;
+	}
+	
+	.footer-top
+	{
+		flex-direction:column;
+	}
+	
+	.footer-container
+	{
+		display:block;
+		
+	}
+	.footer-content
+	{
+		width:100%;
+	}
+	
+	.address-college-name
+	{
+		font-size:20px;
+	}
+	
+	.address-college
+	{
+		font-size:18px;
+	}
+	
+	.college-details
+	{
+		font-size:18px;
+	}
+	
+	.footer_social 
+	{
+    	justify-content: space-around;
+  	}
+  	
+  	.footer_social {
+  		flex-direction:row;
+  	}
+  	
+  	.college-details td
+	{
+		padding-right:15px;
+	}
+	
+	.footer-container
+	{	
+		padding:0.5rem;
+	}
+}
+
+
+
+
+
+
+
+
+

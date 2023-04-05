@@ -1,0 +1,416 @@
+{
+	
+	"themes":[
+		{
+			"themeLink" :"themes/organic-farming",
+			"themeBreadCrumb":"Themes / Organic Farming",
+			"themeImage" :"/images/themes-images/organic-farming.webp",
+			"heading"	  :"ORGANIC FARMING",
+			"subContent":
+				[
+					{
+						"subHeading":"",
+						"paragraphContent":"With the increase in population our compulsion would be not only to stabilize agricultural production but to increase it further in sustainable manner. The scientists have realized that the ‘Green Revolution’ with high input use has reached a plateau and is now sustained with diminishing return of falling dividends. Thus, a natural balance needs to be maintained at all cost for existence of life and property. The obvious choice for that would be more relevant in the present era, when these agrochemicals which are produced from fossil fuel and are not renewable and are diminishing in availability. It may also cost heavily on our foreign exchange in future. The solution lies in organic farming. Organic farming is a method of crop and livestock production that involves much more than choosing not to use pesticides, fertilizers, genetically modified organisms, antibiotics and growth hormones.The key characteristics of organic farming include",
+						"themePoints":[
+					"Protecting the long term fertility of soils by maintaining organic matter levels, encouraging soil biological activity, and careful mechanical intervention",
+					"Providing crop nutrients indirectly using relatively insoluble nutrient sources which are made available to the plant by the action of soil micro-organisms",
+					"Nitrogen self-sufficiency through the use of legumes and biological nitrogen fixation, as well as effective recycling of organic materials including crop residues and livestock manures",
+					"Weed, disease and pest control relying primarily on crop rotations, natural predators, diversity, organic manuring, resistant varieties and limited (preferably minimal) thermal, biological and chemical intervention",
+					"The extensive management of livestock, paying full regard to their evolutionary adaptations, behavioural needs and animal welfare issues with respect to nutrition, housing, health, breeding and rearing ",
+					"Careful attention to the impact of the farming system on the wider environment and the conservation of wildlife and natural habitats Organic farming system in India is not new and is being followed from ancient time. It is a method of farming system which primarily aimed at cultivating the land and raising crops in such a way, as to keep the soil alive and in good health by use of organic wastes (crop, animal and farm wastes, aquatic wastes) and other biological materials along with beneficial microbes (bio fertilizers) to release nutrients to crops for increased sustainable production in an eco-friendly pollution free environment. As per the definition of the United States Department of Agriculture (USDA) study team on organic farming “organic farming is a system which avoids or largely excludes the use of synthetic inputs (such as fertilizers, pesticides, hormones, feed additives etc) and to the maximum extent feasible rely upon crop rotations, crop residues, animal manures, off-farm organic waste, mineral grade rock additives and biological system of nutrient mobilization and plant protection”. "
+									]
+					},
+					{
+						"subHeading":"",
+						"paragraphContent":"The world has already tasted the ill effects of chemicals based agriculture in terms of land pollution, water pollution, air pollution and even worst like causing deadly diseases like cancer in different parts. In India, Punjab and Haryana are major examples of such degradations taking place in the name of green revolution over the past few decades. The world is looking now to organic products from agriculture even at premium prices, where no chemicals are used in agriculture practices. This offers a large scope for building rural enterprises, right from testing, certification, training to production and processing in pre and post agriculture practices. This requires all kinds of skills, right from high level modern scientific expertise available in laboratories and universities to traditional agricultural practices already available with people. Animal husbandry is closely linked with agriculture. There are several inputs that the animal husbandry shall have to provide to practices of organic agriculture like organic manure from cow dung, natural pest repellents from cow urine and many other combinations from animal husbandry products. In fact, there are many products these days being prepared from cow urine and cow dung which are capable of being commercially exploited. Other than agriculture, there are several applications in medicines, utility items etc. All these provide huge opportunities for start-ups and entrepreneurship. In addition, the food products from animal husbandry including milk, curd, ghee which are traditionally and culturally highly desirable and consumed in large quantities in India are not easily available in adequate quantity and with assured quality. The statistics say that only 10 percent of the milk produced in India is handled by the organized sector through cooperatives etc. Rest remains as unorganized sector with no control of quality. Increasing production, assuring quality, regular supply and freshness desired in such products.",
+						"themePoints":[]
+					}
+					
+				],
+			"linkPages":[],
+			"tableHeading":[
+				"Subject Expert",
+				"Institute",
+				"Co-ordinator",
+				"Contact"
+			],
+			"tableDetails":[]
+		
+		},
+		{
+			"themeLink":"themes/water-management",
+			"themeBreadCrumb":"Themes / Water Management",
+			"themeImage":"/images/themes-images/water-management.webp",
+			"heading":"WATER MANAGEMENT",
+			"subContent":
+				[
+				{
+				 	"subHeading":"",
+					"paragraphContent":"Water resource management is the activity of planning, developing, distributing and managing the optimum use of water resources. It is a sub-set of water cycle management. Ideally, water resource management planning has regard to all the competing demands for water and seeks to allocate water on an equitable basis to satisfy all uses and demands. Water is an essential resource for all life on the planet. Of the water resources on Earth only three percent of it is fresh and two-thirds of the freshwater is locked up in ice caps and glaciers. Of the remaining one percent, a fifth is in remote, inaccessible areas and much seasonal rainfall in monsoonal deluges and floods cannot easily be used. As time advances, water is becoming scarcer and having access to clean, safe, drinking water is limited among countries. At present only about 0.08 percent of all the world’s fresh water is exploited by mankind in ever increasing demand for sanitation, drinking, manufacturing, leisure and agriculture. Due to the small percentage of water remaining, optimizing the fresh water we have left from natural resources has been a continuous difficulty in several locations worldwide. ",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"",
+					"paragraphContent":" Water resource management is the activity of planning, developing, distributing and managing the optimum use of water resources. It is a sub-set of water cycle management. Ideally, water resource management planning has regard to all the competing demands for water and seeks to allocate water on an equitable basis to satisfy all uses and demands. Water is an essential resource for all life on the planet. Of the water resources on Earth only three percent of it is fresh and two-thirds of the freshwater is locked up in ice caps and glaciers. Of the remaining one percent, a fifth is in remote, inaccessible areas and much seasonal rainfall in monsoonal deluges and floods cannot easily be used. As time advances, water is becoming scarcer and having access to clean, safe, drinking water is limited among countries. At present only about 0.08 percent of all the world’s fresh water is exploited by mankind in ever increasing demand for sanitation, drinking, manufacturing, leisure and agriculture. Due to the small percentage of water remaining, optimizing the fresh water we have left from natural resources has been a continuous difficulty in several locations worldwide.",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"",
+					"paragraphContent":"Much effort in water resource management is directed at optimizing the use of water and in minimizing the environmental impact of water use on the natural environment. The observation of water as an integral part of the ecosystem is based on integrated water resource management, where the quantity and quality of the ecosystem help to determine the nature of the natural resources. ",
+					"themePoints":""
+				},
+				{
+					"subHeading":"",
+					"paragraphContent":"Successful management of any resources requires accurate knowledge of the resource available, the uses to which it may be put, the competing demands for the resource, measures to and processes to evaluate the significance and worth of competing demands and mechanisms to translate policy decisions into actions on the ground.",
+					"themePoints":""
+				}
+				],
+			"linkPages":[],
+			"tableHeading":[
+				"Subject Expert",
+				"Institute",
+				"Co-ordinator",
+				"Contact"
+			],
+			"tableDetails":[]
+		},
+		{
+			"themeLink":"themes/energy-sources",
+			"themeBreadCrumb":"Themes / Energy Sources",
+			"themeImage":"/images/themes-images/energy-sources.webp",
+			"heading":"ENERGY SOURCES",
+			"subContent":
+				[
+				{
+				    "subHeading":"",
+					"paragraphContent":"Energy that is not popularly used and is usually environmentally sound, Fuel sources that are other than those derived from fossil fuels. Examples include: wind, solar, biomass, wave and tidal energy.",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"",
+					"paragraphContent":"Commonly known alternative energy sources: ",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"SOLAR ENERGY",
+					"paragraphContent":"This is the energy which the earth receives from the Sun. This is one of the most promising alternative energy sources, which will be available to the mankind for centuries to come. The only challenge remains to tap the solar energy in the most efficient way. The solar power generation is done by using a series of photovoltaic cells where the solar rays are converted into electricity. Apart from electricity production solar energy is also being used for heating water, cooking food etc.",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"WIND ENERGY",
+					"paragraphContent":"The power of the wind is harnessed to propel the blades of wind turbine attached to an electric generator to generate wind energy. Wind energy is an effective alternative source of energy in areas where the velocity of wind flow is high.",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"BIOMASS ENERGY",
+					"paragraphContent":"This is the energy developed from the wastes of various human and animal activities like the by-products and wastes from timber industry, agricultural yields, municipal solid waste etc. Out of the many alternative sources of energy this is the one which takes into account the utilization of waste material to develop energy thereby disposing them off in a profitable and effective way.",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"HYDROELECTRIC ENERGY",
+					"paragraphContent":"The potential energy stored in the water held in dams by is made to drive a water turbine and generator which in turn produces electric power. This form of energy generation is called hydroelectric power. Out of all the alternative energy sources, this one has been most commonly adopted in the current time.",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"WHY USE ALTERNATIVE ENERGY SOURCES?",
+					"paragraphContent":"Alternative energy sources are available free of cost and do not tax the environment for their usage. Power generation through alternative sources of energy is clean and ‘green’. If we shift to use power generated from these sources, then carbon dioxide emission from the conventional energy sources will be greatly reduced, and the problem of global warming will be solved in a few years. Also the fast depleting traditional energy sources can be preserved. Along with air pollution, the use of traditional energy resources also cause soil pollution and water pollution by releasing various toxins to the land and water. This can also be controlled reasonably. The damage that we have caused to earth after the industrial revolution is huge and we will have to take action immediately if we want to keep the planet sustainable for our future generations. The biggest leap that mankind can take to prevent further damage is to start using alternative energy sources.",
+					"themePoints":[]
+				}
+				],
+			"linkPages":[],
+			"tableHeading":[
+				"Subject Expert",
+				"Institute",
+				"Co-ordinator",
+				"Contact"
+			],
+			"tableDetails":[]
+		},
+		{
+			"themeLink":"themes/artisans-industries-and-livelihood",
+			"themeBreadCrumb":"Themes / Artisans, Industries and Livelihood",
+			"themeImage":"/images/themes-images/artisans.webp",
+			"heading":"ARTISANS, INDUSTRIES AND LIVELIHOOD",
+			"subContent":
+				[
+				{
+				    "subHeading":"",
+					"paragraphContent":"One of the blunders that India has committed is to ignore her artisans and rural industries in planning process for development. No country, particularly the industrialized ones, has achieved that status without making their artisans as an important part of the process and making their rural industries as the base for modern industrialization. Modern industrialization is phenomenon of development and application of science and technology in production. Science and technology develops in research institutions and universities by scientists and academicians. However the application of the same happens in industry through the practitioners who are none other than the artisans and the technicians coming from the traditional sector. There has to be a proper synergy and complementariness of the two. This is really missing in India. There is a huge scope to bring that in through start-ups and entrepreneurship. The power loom sector, the automobile sector, the repair and maintenance sector and in fact the “Jugaads” technologies seen all-around are demonstrative of what this kind of interphase can do in the industrial sector. It needs to be carried out in a more formal and organized way in order to bring out the best of the both, the modern sector as well as the traditional sector.",
+					"themePoints":[]
+				}
+				],
+			"linkPages":[],
+			"tableHeading":[
+				"Subject Expert",
+				"Institute",
+				"Co-ordinator",
+				"Contact"
+			],
+			"tableDetails":[]
+		},
+		
+		{
+			"themeLink":"themes/basic-amenities",
+			"themeBreadCrumb":"Themes / Basic Amenities",
+			"themeImage":"/images/themes-images/basic-amenities.webp",
+			"heading":"BASIC AMENITIES",
+			"subContent":
+				[
+				{
+					"subHeading":"RURAL EDUCATION, SANITATION, CONNECTIVITY, TRANSPORT, HEALTH",
+					"paragraphContent":"",
+					"themePoints":[]
+				},
+				{
+				    "subHeading":"RURAL EDUCATION IN INDIA",
+					"paragraphContent":"Majority of India still lives in villages and so the topic of rural education in India is of utmost importance. A survey named called the Annual Status of Education Report (ASER), shows that even though the number of rural students attending schools is rising, but more than half of the students in fifth grade are unable to read a second grade text book and are not able to solve simple mathematical problems. Not only this, the level of maths and reading is further declining. Though efforts are being made, they are not in the right direction. The reason cited for this problem in surveys is the increasing number of single classroom to educate students from more than one grade. In some states attendance of teachers and students is also declining. These are a few reasons why schools have failed to educate rural India. ",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"",
+					"paragraphContent":"Majority of India still lives in villages and so the topic of rural education in India is of utmost importance. A survey named called the Annual Status of Education Report (ASER), shows that even though the number of rural students attending schools is rising, but more than half of the students in fifth grade are unable to read a second grade text book and are not able to solve simple mathematical problems. Not only this, the level of maths and reading is further declining. Though efforts are being made, they are not in the right direction. The reason cited for this problem in surveys is the increasing number of single classroom to educate students from more than one grade. In some states attendance of teachers and students is also declining. These are a few reasons why schools have failed to educate rural India.",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"",
+					"paragraphContent":"Quality and access to education is the major concern in rural schools as there are fewer committed teachers, lack of proper text books and learning material in the schools. Though Government schools exist, but when compared to private schools then quality is a major issue. Majority of people living in villages have understood the importance of education and know that it is the only way to get rid of poverty. But due to lack of money they are not able to send their children to private schools and hence depend upon government schools for education. Above that, in some of the government schools there is only one teacher for the entire school and if they don’t show up at work, then it is a holiday. If the quality along with number of teachers and, that too committed teachers can be improved in these schools, then aspiring rural children and India can fulfill their dreams of doing something great. ",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"",
+					"paragraphContent":"Some government schools in rural India are overly packed with students, leading to a distorted teacher- student ratio. In one such remote village in Arunachal Pradesh there are more than 300 students in class X which makes nearly 100 students in each classroom. In such a situation it is impossible for teachers to pay full attention towards each and every student, even if they are willing to help.",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"",
+					"paragraphContent":"Every village is not provided with school which means that students have to go to another village to get education. Owing to this parents usually do not send their daughters to school, leading to a failure in achieving rural education in India.",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"",
+					"paragraphContent":"Poverty is another setback. Government schools are not as good and private schools are expensive. This results in a very low number of students actually clearing their secondary education and taking admission in a colleges for further studies. So the drop-out-rate at the secondary level is extremely high in villages. Only parents who can afford college education send their kids to secondary schools. If parents are not able to send their wards for higher education then all their previous efforts get wasted as completing just secondary education means a low paying job and the person is again struck in the same never ending cycle of money, life and poverty.",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"",
+					"paragraphContent":"Most textbooks are in English and since people in rural areas either speak their native language or Hindi, but not English that defeats the purpose. This results in lack of their interest in studies. Though some of the students from villages are really brilliant, as they have a wealth of practical knowledge and know how to survive even in very harsh conditions of life, difficultly in understanding their textbooks, lack of facilities and their poverty are a hurdle in their education.",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"",
+					"paragraphContent":"Quality related issues are far powerful than poverty. Students are not at all encouraged to think but they are asked to memorize pre-defined questions for exams. So for many students clearing examination at the end of the session, passing their exam becomes more important than gaining knowledge. Also as per the new CBSE rule, every student is supposed to be promoted to the next class irrespective of marks in their examination. Hence majority of students do not bother to study, which means a decline in their education level . Neither students nor teachers take any interest in studies which is why the level of education is declining in India despite many efforts.",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"",
+					"paragraphContent":"The foundation to turn India into a strong nation has to be laid down at primary and rural levels and so the quality of education right from the beginning should be excellent. Education and text books should be made interesting. For rural students textbooks related to their culture, their traditions and values should also be there so as to create their interest in studies.The reasons behind so many drop-outs in spite of free education should be found out as this is a hurdle on the road to progress. Improvement in the condition of government schools, education quality, committed teachers and more salaries to these teachers should be part of development.",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"",
+					"paragraphContent":"There is a difference between city and village student not in terms of brain or development but their initial environment, skills, learning ability, availability of infrastructure, and access to different facilities. All of these must be considered while making the curricula which should not be different but how it is going to be taught would make the difference. Encourage the genuine rural students who are interested in education and make them competent. There are many examples of success in rural education in India like the Barefoot college, 8 Day Academy and Gurukul School in Bihar. These are innovative and successful examples of schools running in rural India. It is the time to replicate such efforts as our country and its rural population is very vast which means one of two stories of these kinds won’t make any difference. Instead of this large number of such schools are required in rural India. It is also absolutely mandatory to evaluate the success of the schools and students at each and every level. Timely assessment will throw light on present problems and achievements. Let us try to build a solution around these problems which will resolve the overall issues of rural education in India. ",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"USE OF TECHNOLOGY IN RURAL EDUCATION OF INDIA",
+					"paragraphContent":"Mobile phones, internet, tablets, iPads, their applications, social media even traveling, cooking, communication etc are part of our lives from the start till the end of the day. Technology is touching every aspect of society and changing it dramatically. But there is one very important and indispensable part of the society that has also been tapped by new innovations and discoveries and that is education. Like all other areas, in this case also urban areas are influenced to a greater extent than rural one. So much more could have been done to bring the revolution in learning process in rural areas of India. In India illiteracy is one of the biggest problems. Lack of easy access, lack of teachers, lack of interest, poverty, gender differentiation, lack of infrastructure, common curricula are few of the reasons which are holding back the progress in rural education. But with the use of technology mass education can be given and situation can be changed. To reach rural areas, first of all study material can be distributed to the students then online interaction and online videos can be made with teachers. Online teaching creates extended classroom communities for discussions, virtual classrooms and for interaction. There is another option in which classroom courses can be recorded in a real time and used for teaching the students who cannot attend these classes. This creates an expanded access to education. Rural education needs e-learning technologies. Apart from this audio conferencing and video conferencing should be made part of the education system in rural India. Teachers at the schools are not well equipped with the gadgets. So teachers should be given printers, laptops, for giving notes and notices to the students. By using technology the problem of unqualified teachers can also be solved. ",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"RURAL CONNECTIVITY",
+					"paragraphContent":"India has one of the largest and densest road networks in the world. However a large part of the 2.7 million km rural road network was in poor condition and, until the year 2000, around 30 percent of the country’s population (about 300 million people) lacked access to all-weather roads. In 1998, the NDA government under Atal Bihari Vajpayee launched a massive National Highways Development Project for building a four/six-lane expressway network connecting the four metros (Delhi, Mumbai, Chennai and Kolkata) along with four corners of the country (Srinagar, Porbandar, Kanyakumari and Silchar). The impact of it is well-documented. Not as known and celebrated, however, is a parallel programme that his government initiated on December 25, 2000 — the Pradhan Mantri Gram Sadak Yojana (PMGSY) for providing all-weather road connectivity to every rural habitation with a minimum population of 500 in the plains and 250-plus in hill states, tribal districts and desert areas. The fully centrally-sponsored scheme covered a total of 1,78,184 habitations as per the criteria laid down. The fact that 1,14,540 or 64 per cent of these eligible habitations actually have roads today — with projects being cleared for another 30,501 — can be considered a reasonable achievement. Since its inception, PMGSY has provided connectivity of over 4,66,044 km — including upgradation of 1,67,977 km of existing roads — at an aggregate cost of Rs 1,41,822 crore as on January 2016. But the real story is not how much, but where these roads have got built. National Rural Road Development Agency (NRRDA) has prepared a manual “Managing Maintenance of Rural Roads in India”. This initiated the execution of maintenance works and the development of these training modules for engineers and contractors associated with rural road maintenance works. To strengthen such activities in the participating states, a series of training of trainers workshops were arranged at national and state level based on the course material developed. The training modules broadly cover the principles for maintenance management of rural roads, planning and execution of common maintenance interventions to ensure reliable transport services and safety to users and the local communities served by the rural roads, and arrangements for monitoring the performance of contractors engaged for the task. Digital India & Skill India play a key role in driving economic growth by creating new income-generating opportunities, making the delivery of public services more effective, transparent and efficient, connecting them to the world economy and overall contributing to the social and economic transformation of entire region. This kind of transformation is even more necessary for rural and isolated areas, where widespread access to ICTs and effective use of these technologies for productive purposes, can make a tremendous difference in development outcomes. The development and application of e-governance, e-agriculture, e-health centres will be more popular and attractive in rural areas.",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"RURAL SANITATION",
+					"paragraphContent":"If water is life, sanitation is surely a ‘way of life’ and access to such facilities has an impact on the quality of human life and health. A holistic definition of sanitation includes safe drinking water, liquid and solid waste management, environmental cleanliness and personal hygiene. Failing to ensure any one of these can have direct implications on the individual/family/community’s health. Environmental cleanliness and sanitation were subjects closest to Mahatma Gandhi’s heart who proclaimed that “cleanliness is next only to godliness”.",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"",
+					"paragraphContent":"Lack of adequate sanitation is a pressing challenge in rural India. Every day, an estimated 1,000 children under five die in the country because of diarrhoea alone. Prevalence of child under-nutrition in India (47 per cent according to National Family Health Survey (NFHS) III, 2005-06) is among the highest in the world. Child under-nutrition is aggravated by the prevalence of diarrhoeal disease, and is responsible for 22 per cent of the country’s burden of disease (World Bank 2005). Sanitation-related diseases take a heavy toll of lives, especially children’s lives, and are a drain on productivity and incomes. Lack of adequate sanitation also forces households into the continued indignity of open defecation, which is an acute problem especially for women and young girls. Improving access to sanitation is therefore appropriately included in the Millennium Development Goals. Another major problem that the country faces today is the practise of scavenging, which mostly engages women. There are 7,70,338 human scavengers and their dependents in India. The first national program to increase access to rural sanitation on a large scale, the Central Rural Sanitation Program, was launched in 1986. Despite considerable investment, this approach failed to motivate and sustain high levels of sanitation coverage as it was based on the erroneous assumption that provision of sanitary facilities would lead to increased coverage and usage. Recognizing the limitations of this approach, the Total Sanitation Campaign was launched in 1999. The TSC moves away from the infrastructure focussed approach of earlier programs and concentrates on promoting behaviour change. People do not attribute lack of sanitation to be the primary cause for major illness but think that it is due to a lack of proper nutrition, hard physical labour or general weakness of the human system over the years from early marriage, child birth, weakness from repeated attacks of malaria and viral fevers, etc. Subsistence livelihoods and living conditions, generate a lower hope for improvement. “Aspirations for a better quality and healthy life do not include sanitation and toilet in their list of priorities,” There are several barriers to sanitation and hygiene in rural areas. Among those are financial limitations, physical limitations but also gender inequalities. “Low sanitation coverage could be an outcome of material conditions of the lack of water and space for toilets, as well as a result of subsistence livelihoods.” The sanitation situation often varies from one village to another, with growing density of population, the practices of open defecation are shrinking, which promotes people to build toilets. However, where open spaces are plenty, there is often less pressure to build toilets. o sanitation uptakes are not as simple as they appear. “Many women, girls and elderly do feel a desperate need for toilet, but they think that it is unreasonable to make the demand considering the financial crisis of the family and the struggle of their parents or head of the family,” India faces the challenge of having the most number of people in the world defecating in the open and also has a burgeoning crisis of untreated faecal waste that is contaminating surfaces and ground water creating an imminent health crisis. Both motivating people to build and to use toilets is emerging as a major national priority as outlined in the Swachh Bharat Mission (Clean India Mission) initiated in October 2014 by Prime Minister Narendra Modi for achieving open defecation free India by 2nd October 2019.",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"RURAL HEALTH",
+					"paragraphContent":"Health forms an Important index of human development and in turn that of the development of any society. It is the fundamental human right. Health, defined as the state of complete physical, mental, social and spiritual well-being and not merely absence of disease and infirmity, proves to be a major contributor to the level of quality of life. Healthy population plays a key role in achieving the developmental activities as health helps to improve the productivity of mankind both directly and indirectly. The health picture of our country is far from satisfactory. The vision of “Health for all by 2000” has not materialized. The situation in rural areas of India, where over two-thirds of our population lives is worse with only rudimentary health care services being available to the masses. All the recent advances in medical science and technology have not reached the majority of the disadvantaged people living in rural India. Poor socio-economic status and poor health status together make a vicious cycle wherein poverty brings inadequate nutrition, unhealthy environment, sickness causing low productivity and hence poverty Several organizations are working alongside the government and NGOs to help relieve the burden on the public health system using mobile technology. India has over 900 million mobile phone users and this fact can be leveraged to employ better practices in even the remote areas. Leading global organizations of healthcare industry are using our mobile technology to enhance the quality of care and bridge the gaps in healthcare services.",
+					"themePoints":[]
+				}
+				],
+			"linkPages":[],
+			"tableHeading":[
+				"Subject Expert",
+				"Institute",
+				"Co-ordinator",
+				"Contact"
+			],
+			"tableDetails":[]
+		},
+		
+		{
+			"themeLink":"themes/convergence",
+			"themeBreadCrumb":"Themes / Covergence",
+			"themeImage":"/images/themes-images/convergence.webp",
+			"heading":"COVERGENCE",
+			 "subContent":
+				[
+				{
+					"subHeading":"",
+					"paragraphContent":"There are more than 6.4 lakhs villages, around 650 districts and several thousand professional institutions. Also, it demands synergetic collaboration between various Govt. agencies, Panchayati Raj Institutions (PRIs), voluntary organizations and professional institutions. There are multifarious Govt. schemes and funding agencies. A sort of convergence and meaningful integration of the resources will be necessary. Further, there is also a strong need for capacity building and proper orientation towards holistic development both in the institutions as well as in the implementation agencies. Therefore, it requires a well-planned strategy, commitment, coordinated action and sustained thrust to cope with the challenges. ",
+					"themePoints":[]
+				},
+				{
+					"subHeading":"LIST OF SCHEMES AVAILABLE WITH CENTRE AND STATE GOVERNMENT ARE AS BELOW",
+					"paragraphContent":"",
+					"themePoints":[]
+				}
+				],
+			"linkPages":[
+				{
+				    "content":"ANDAMAN AND NICOBAR ISLANDS",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/ANDAMAN%20AND%20NICOBAR%20ISLANDS.pdf"
+				},
+				{
+					"content":"ANDHRA PRADESH",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/ANDHRA%20PRADESH.pdf"
+				},
+				{
+					"content":"ARUNACHAL PRADESH",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/ARUNACHAL%20PRADESH.pdf"
+				},
+				{
+					"content":"ASSAM",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/ASSAM.pdf"
+				},
+				{
+					"content":"BIHAR",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/BIHAR.pdf"
+				},
+				{
+					"content":"CHANDIGARH",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/CHANDIGARH.pdf"
+				},
+				{
+					"content":"CHHATTISGARH",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/CHHATTISGARH.pdf"
+				},
+				{
+					"content":"DADRA AND NAGAR HAVELI",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/DADRA%20AND%20NAGAR%20HAVELI.pdf"
+				},
+				{
+					"content":"DAMAN AND DIU",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/DAMAN%20AND%20DIU.pdf"
+				},
+				{
+					"content":"DELHI",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/DELHI.pdf"
+				},
+				{
+					"content":"GOA",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/GOA.pdf"
+				},
+				{
+					"content":"GUJARAT",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/GUJARAT.pdf"
+				},
+				{
+					"content":"HARYANA",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/HARYANA.pdf"
+				},
+				{
+					"content":"HIMACHAL PRADESH",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/HIMACHAL%20PRADESH.pdf"
+				},
+				{
+					"content":"JAMMU AND KASHMIR",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/JAMMU%20AND%20KASHMIR.pdf"
+				},
+				{
+					"content":"JHARKHAND",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/JHARKHAND.pdf"
+				},
+				{
+					"content":"KARNATAKA",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/KARNATAKA.pdf"
+				},
+				{
+					"content":"KERALA",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/KERALA.pdf"
+				},
+				{
+					"content":"LAKSHADWEEP",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/LAKSHADWEEP.pdf"
+				},
+				{
+					"content":"MADHAYA PRADESH",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/MADHAYA%20PRADESH.pdf"
+				},
+				{
+					"content":"MAHARASHTRA",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/MAHARASHTRA.pdf"
+				},
+				{
+					"content":"MANIPUR",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/MANIPUR.pdf"
+				},
+				{
+					"content":"MEGHALAYA",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/MEGHALAYA.pdf"
+				},
+				{
+					"content":"MIZORAM",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/MIZORAM.pdf"
+				},
+				{
+					"content":"NAGALAND",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/NAGALAND.pdf"
+				},
+				{
+					"content":"ODISHA",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/ODISHA.pdf"
+				},
+				{
+					"content":"PUDUCHERRY",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/PUDUCHERRY.pdf"
+				},
+				{
+					"content":"PUNJAB",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/PUNJAB.pdf"
+				},
+				{
+					"content":"RAJASTHAN",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/RAJASTHAN.pdf"
+				},
+				{
+					"content":"SIKKIM",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/SIKKIM.pdf"
+				},
+				{
+					"content":"TAMIL NADU",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/TAMIL%20NADU.pdf"
+				},
+				{
+					"content":"TELANGANA",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/TELANGANA.pdf"
+				},
+				{
+					"content":"TRIPURA",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/TRIPURA.pdf"
+				},
+				{
+					"content":"UP",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/UP.pdf"
+				},
+				{
+					"content":"UTTARAKHAND",
+					"url":"https://unnatbharatabhiyan.gov.in/app/webroot/files/convergence/UTTARAKHAND.pdf"
+				}
+				
+				
+			],
+			"tableHeading":[],
+			"tableDetails":[]
+		}
+	]
+}

@@ -1,0 +1,174 @@
+{
+	"activeLink":"SEC / Reports / Report 2019 - 2020",
+	"title":"SRI SAI RAM ENGINEERING COLLEGE - UBA REPORTS 2019 - 2020",
+	"reportActivities":[
+			{
+				"activityTitle":"Activity 1 - Survey and Awareness",
+				"activityNeed":"To understand the villagers and their requirements",
+				"activityDescription":["Students of UBA visited all five villages and met the villagers at their home. Also taken the house hold survey and prepared the need and situation analysis."],
+				"activityDate":"First and second week of January 2019",
+				"activityParticipatedCount":"76",
+				"activityReportImages":[
+						{
+							"src":"/images/reports/report19to20/activity-1-0.webp",
+							"alt":"activity-1-0"
+						},
+						{
+							"src":"/images/reports/report19to20/activity-1-1.webp",
+							"alt":"activity-1-1"
+						}
+						]
+			},
+			{
+				"activityTitle":"Activity 2 - Awareness wall painting at walls of village common area buildings",
+				"activityNeed":"To make awareness of open defecation, sanitation and hygiene.",
+				"activityDescription":["Students of UBA have involved to make awareness painting on the public common walls of 5 villages."],
+				"activityDate":"4 weekends (Sauterday & Sunday) of July 2019",
+				"activityParticipatedCount":"60",
+				"activityReportImages":[
+						{
+							"src":"/images/reports/report19to20/activity-2-0.webp",
+							"alt":"activity-2-0"
+						},
+						{
+							"src":"/images/reports/report19to20/activity-2-1.webp",
+							"alt":"activity-2-1"
+						}
+				]
+			},
+			{
+				"activityTitle":"Activity 3 - Rally & Awareness Program",
+				"activityNeed":"To make awareness of open defecation, sanitation and hygiene.",
+				"activityDescription":["Students of UBA have involved to make awareness on plastic usage & conducted Rally for making awareness on the theme ‘Save Water’"],
+				"activityDate":"14th July 2019",
+				"activityParticipatedCount":"70",
+				"activityReportImages":[
+					{
+						"src":"/images/reports/report19to20/activity-3-0.webp",
+						"alt":"activity-3-0"
+					},
+					{
+						"src":"/images/reports/report19to20/activity-3-1.webp",
+						"alt":"activity-3-1"
+					},
+					{
+						"src":"/images/reports/report19to20/activity-3-2.webp",
+						"alt":"activity-3-2"
+					}
+				]
+			},
+			{
+				"activityTitle":"Activity 4 - Tree Plantation",
+				"activityNeed":"To save environment & make village as green village",
+				"activityDescription":["Students of UBA visited all five villages and met the villagers at their home"],
+				"activityDate":"First and second week of June 2019",
+				"activityParticipatedCount":"76",
+				"activityReportImages":[
+					{
+						"src":"/images/reports/report19to20/activity-4-0.webp",
+						"alt":"activity-4-0"
+					},
+					{
+						"src":"/images/reports/report19to20/activity-4-1.webp",
+						"alt":"activity-4-1"
+					}
+				]
+			},
+			{
+				"activityTitle":"Activity 5 - Village clean up awareness",
+				"activityNeed":"To make awareness of cleanliness",
+				"activityDescription":["Students of UBA have involved to make awareness on cleanliness. Students are actively involved in cleaning activities at adapted villages"],
+				"activityDate":"21st July 2019",
+				"activityParticipatedCount":"36",
+				"activityReportImages":[
+					{
+						"src":"/images/reports/report19to20/activity-5-0.webp",
+						"alt":"activity-5-0"
+					},
+					{
+						"src":"/images/reports/report19to20/activity-5-1.webp",
+						"alt":"activity-5-1"
+					}
+				]
+			},
+			{
+				"activityTitle":"Activity 6 - Lake clean up",
+				"activityNeed":"To restore the rain water",
+				"activityDescription":["Students of UBA have involved the clean up activity of two lakes at Poonthandalam and Somangalam villages on February 3 rd 2019 and February 10 th 2019. After clean up the lakes were filled by rain water during the month of October 2019. Fifty-five students have participated"],
+				"activityDate":"",
+				"activityParticipatedCount":"",
+				"activityReportImages":[
+					{
+						"src":"/images/reports/report19to20/activity-6-0.webp",
+						"alt":"activity-6-0"
+					},
+					{
+						"src":"/images/reports/report19to20/activity-6-1.webp",
+						"alt":"activity-6-1"
+					}
+				]
+			},
+			{
+				"activityTitle":"Activity 7 - Conducted Grama Sabha meeting",
+				"activityNeed":"To understand the grievances and village common needs",
+				"activityDescription":["Students of UBA organized two Grama Sabha meetings at all five villages in association with Government’s Village Administration to understand the issues of villages."],
+				"activityDate":"26/01/2019 & 15/08/2019",
+				"activityParticipatedCount":"50",
+				"activityReportImages":[
+					{
+						"src":"/images/reports/report19to20/activity-7-0.webp",
+						"alt":"activity-7-0"
+					},
+					{
+						"src":"/images/reports/report19to20/activity-7-1.webp",
+						"alt":"activity-7-1"
+					}
+				]
+			},
+			{
+				"activityTitle":"Activity 8 - Skill Development Program",
+				"activityNeed":"To Support Self Help group (SHG) women and underprivileged school students",
+				"activityDescription":["Students of UBA conducted language skill development program & digital transaction training for rural village women and school children."],
+				"activityDate":"5/10/2019 & 6/10/2019",
+				"activityParticipatedCount":"40 girls & 15 boys students",
+				"activityReportImages":[
+					{
+						"src":"/images/reports/report19to20/activity-8-0.webp",
+						"alt":"activity-8-0"
+					},
+					{
+						"src":"/images/reports/report19to20/activity-8-1.webp",
+						"alt":"activity-8-1"
+					}
+				]
+			},
+			{
+				"activityTitle":"Activity 9 - National Workshop Participation",
+				"activityNeed":"To learn the knowledge from SEG’s for the implementation of projects at adopted villages",
+				"activityDescription":["The coordinator of our college has attended the 2 days workshop organized by IIIT SriCity Chittoor & NITTTR Chennai. Theme of the workshop: Socially relevant Lectoral Education – Exploring cooperation oriented actions."],
+				"activityDate":"06/07/2019 & 07/07/2019",
+				"activityParticipatedCount":"One (Coordinator UBA)",
+				"activityReportImages":[
+					{
+						"src":"/images/reports/report19to20/activity-9-0.webp",
+						"alt":"activity-9-0"
+					}
+				]
+			},
+			{
+				"activityTitle":"Activity 10 - Orientation workshop participation",
+				"activityNeed":"To initiate work at adopted village cluster under UBA 2.0",
+				"activityDescription":["The coordinator and a supporting staff of our college UBA has attended the Regional workshop for the orientation of Participating Institutes to initiate work in the ‘Adopted Village Clusters’ under UBA 2.0 on 25 th January 2020 at SRM Institute of Science and Technology, Chennai."],
+				"activityDate":"",
+				"activityParticipatedCount":"Two ( Coordinator & supporting staff)",
+				"activityReportImages":[
+					{
+						"src":"/images/reports/report19to20/activity-10-0.webp",
+						"alt":"activity-10-0"
+					}
+				]
+			}
+	
+	
+	]
+}

@@ -1,0 +1,34 @@
+.forms-page
+{
+	display:flex;
+}
+
+.form-ul li
+{
+	margin:15px auto;
+}
+
+.form-link
+{
+	text-decoration:none;
+	color:var(--primary-orange);
+}
+
+.form-icon
+{
+	transition: all 0.15s ease-in-out;
+}
+.form-link:hover .link-span
+{
+	text-decoration:underline;
+}
+.form-link:hover .form-icon
+{
+	transform: translateY(-8px) scale(1.1);
+}
+.form-link:hover
+{
+	
+	color:#F9481F;
+}
+

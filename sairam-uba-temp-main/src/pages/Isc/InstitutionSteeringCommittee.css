@@ -1,0 +1,31 @@
+.institution-steering-committee-page
+{
+	display:flex;
+}
+
+.institution-steering-committee-page .heading{
+	margin-bottom: 0.5rem;
+}
+
+
+
+.isc-list li
+{
+	line-height: 2rem;
+	font-size:1rem;
+}
+
+.name-highlight
+{
+	color:var(--primary-blue);
+	font-weight: bold;
+}
+
+@media screen and (max-width:540px){	
+	
+	
+	.isc-list
+	{
+		padding-left:20px;
+	}
+}

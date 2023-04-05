@@ -1,0 +1,11 @@
+.sec-projects-completed
+{
+	display:flex;
+}
+
+.investigator-list-element
+{
+	text-align:justify;
+	margin:0;
+	margin-left:8px;
+}

@@ -1,0 +1,34 @@
+.sec-reports
+{
+	display:flex;
+}
+
+.report-link
+{
+	text-decoration:none;
+	color:var(--primary-blue);
+	font-weight:bold;
+}
+
+.report-link-holder
+{
+	margin:10px auto;
+}
+
+.report-link:hover
+{
+	text-decoration:underline;
+	text-decoration-color:var(--primary-orange);
+	text-decoration-line:3px;
+	color:var(--primary-blue);
+}
+
+.report-icons
+{
+  transition: all 0.15s ease-in-out;
+  font-weight:bold;
+}
+
+.report-link:hover .report-icons{
+  transform: translateY(-8px) scale(1.1);
+}
