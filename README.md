@@ -1,3 +1,3 @@
 # Website for UBA
 
-Website url: https://sairamuba.com/
+Website url:https://buvanachandran.github.io/UBAWebsitePrivate/
